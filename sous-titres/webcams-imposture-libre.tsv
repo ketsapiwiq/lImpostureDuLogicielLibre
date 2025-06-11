@@ -1,0 +1,3042 @@
+start	end	text
+0	3800	Moi, du coup, j'ai préparé ce talk à l'impôt sur le chat libre.
+4040	6860	Alors, au début, je pensais que j'allais peut-être faire 30 minutes
+6860	9400	et au fur et à mesure que j'ai commencé à écrire le truc,
+9540	10960	j'ai vu que ça s'accumulait, s'accumulait.
+11380	13960	J'en suis à 45 slides dans la totalité, mais bon,
+15580	19080	il n'y a pas que des slides où je vais parler pendant super longtemps,
+19600	22360	mais j'espère que je ne vais pas complètement exploser le temps.
+23520	29120	Alors, ça, c'est mon CV un peu militant pour me donner une espèce de légitimité
+29120	31520	à vous raconter ce que je vais vous raconter.
+32880	36780	Alexandre Robin, autoradicalisé à 18 ans en regardant les débats à l'Assemblée nationale.
+38640	42620	Voilà, ça, c'est le moment où je suis tombé un peu dans le logiciel libre et tout.
+42620	45840	À l'époque, c'était la Adopi et du coup, je regardais les débats à l'Assemblée nationale
+45840	51500	sur la Adopi et puis j'ai un peu vu le décalage entre ce que j'apprenais à l'école
+51500	54380	dans les cours d'histoire géo sur le fonctionnement de la démocratie
+54380	57940	et puis la mauvaise foi des députés à l'Assemblée nationale
+57940	61480	lorsqu'on leur expliquait par A plus B que le truc n'allait pas marcher.
+61680	64700	Voilà, c'est le moment un peu où je me suis commencé à me dire
+64700	67920	qu'il y avait des trucs bizarres.
+68440	72980	Alors, du coup, à partir de ce moment-là, je suis un peu tombé dans le logiciel libre.
+73520	75080	Voilà, moi, j'avais 18 ans.
+75620	80460	Et puis, pendant 10 ans, j'ai un peu cru que le logiciel libre allait sauver le monde.
+81240	82280	Et puis, j'en suis un peu revenu.
+82380	84580	Alors, cette conf, elle vient un peu de là.
+84580	88160	Alors, maintenant, j'essaie de définir un truc avec des gros mots, là,
+88240	89880	le cyber-énarchisme.
+90340	94480	Alors, ça, je vais essayer de définir à la fin ce que je veux dire par là.
+95380	98000	Mais cette conférence, elle est là parce que moi, je pense qu'il faut aller un peu
+98000	100560	au-delà du logiciel libre pour toutes les raisons que je vais exposer.
+100740	103520	Donc, si vous n'avez pas compris à la fin, je vous réexpliquerai.
+103520	107580	Et puis, alors, vous me connaissez peut-être parce que moi, je suis à la fois,
+107660	108540	j'ai la double casquette.
+108840	110980	Je suis à la fois dans l'équipe mutualisée de Copaname.
+111740	115380	Et puis, je suis aussi formateur informatique en tant qu'entrepreneur salarié.
+116820	120220	Je suis aussi dans d'autres projets divers et variés.
+120420	126280	Le projet Wynost ou alors un hackerspace à Strasbourg qui s'appelle Akshtub.
+126340	128800	Et puis, il y a un autre collectif qui s'appelle Alsace Raisonneutre.
+128800	135300	Et puis, c'est en nuage qui est un chaton que j'évoquerai vite fait dans la deuxième
+135300	136060	partie de la conf.
+136580	138600	Mais voilà, on n'est pas trop là pour parler de ça.
+138700	139780	Alors, je vais passer vite fait.
+140320	145420	Et puis, comme Thibault l'a annoncé, cette conférence, c'est un peu la suite de la
+145420	148200	conférence de Vincent ou alors une espèce de contre-conférence.
+148400	151780	On discutait dans le bureau et puis il me disait, je vais faire une conférence sur
+151780	153740	les logiciels libres et tout.
+153740	159020	Et puis, moi, j'étais un peu, voilà, logiciels libres, il y en a marre des logiciels libres.
+159640	161560	Il faut arrêter de parler des logiciels libres.
+162200	165800	Et du coup, je me suis dit, bon, je ne sais plus si c'est Vincent qui m'a dit, tu n'as
+165800	166520	qu'à faire une conf.
+167180	170380	C'est un peu la suite de la conférence ou la contre-conférence.
+170520	173600	Alors, ce n'est même pas spécialement contre Vincent parce que je pense qu'il sera
+173600	176600	tout à fait à raccord avec ce que je vais dire.
+176840	181600	Mais voilà, cette conférence, elle est un peu là pour essayer de secouer le cocotier
+181600	182320	consensuel.
+182980	187780	J'ai piqué l'expression à Laurent Marchaud, son job dans la vie, c'est secoueur
+187780	188320	de cocotier.
+190120	195600	Voilà, c'est un peu un espèce de coup de gueule contre les libristes pour arrêter
+195600	199680	avec l'espèce de consensus en mode, oui, le logiciel libre, c'est cool et tout.
+199860	200760	Il faut faire du logiciel libre.
+201940	205480	Moi, j'ai un peu envie qu'on secoue le cocotier consensuel pour vraiment réfléchir
+205480	206720	à ce qu'on essaye de défendre.
+206720	212940	Et en réalité, moi, je pense que le logiciel libre, il a fait son temps et il faut
+212940	213680	passer à autre chose.
+214300	217160	Alors, je vais faire un peu des caricatures à l'emporte-pièce.
+217280	220740	Alors, vous me direz un peu si à la fin, j'ai été un peu trop violent, un peu trop
+220740	223240	loin dans le secouage de cocotier.
+224760	230300	Des fois, je vais utiliser des gros mots comme libéral ou libertaire ou même néo-féodalisme.
+230500	231140	Un moment, j'ai mis ça.
+231940	235560	Je suis désolé, j'espère que ça ne va pas trop choquer les gens.
+235560	240780	Alors, néanmoins, tout ça, la conclusion, ça ne va pas être de dire qu'il faut arrêter
+240780	241740	d'utiliser le logiciel libre.
+241940	246360	Au contraire, il va falloir, c'est vraiment important de continuer à utiliser le logiciel
+246360	249980	libre, mais vraiment, il faut, moi, je pense qu'il faut qu'on trouve d'autres mots pour
+249980	255360	désigner quelles sont les luttes, enfin, qu'est-ce qu'on défend via le logiciel libre.
+257480	260920	Et puis, alors, je vais supposer que vous avez une idée générale de qu'est-ce que
+260920	263560	le logiciel libre, parce que quand même, on en a pas mal parlé.
+263560	264900	Et puis, voilà, il y a eu la conf de Vincent.
+265420	271580	Et puis, vous avez un peu une idée de qu'est-ce que c'est l'enjeu autour des GAFAM, la centralisation
+271580	272260	d'Internet.
+273020	276400	Maintenant, on dit même les GAFAM, les Natoo, les BATX.
+276400	287060	Ça, c'est genre Netflix, Tesla, Uber, Airbnb, ou Baidu, les trucs un peu plus en Chine.
+288840	289000	Voilà.
+289580	294340	Et puis, alors ce tool qu'il est initialement, c'est un peu un tool auquel je réfléchis
+294340	296440	depuis un ou deux ans.
+296860	301120	Initialement, c'est quand même un truc destiné un peu aux libristes pour essayer de les secouer,
+301120	304160	pour qu'ils arrêtent de défendre optimément le logiciel libre.
+305540	308960	Et alors là, je fais ce talk devant vous, mais je pense que ça peut être aussi intéressant
+308960	310580	pour des gens qui ne baignent pas dans la technique.
+311200	314980	Et surtout qu'en réfléchissant au truc, je me suis dit qu'il y a quand même des parallèles
+314980	320180	assez frappants avec plein d'autres trucs comme l'économie sociale et solidaire, ou l'écologie,
+320340	321240	ou la politique française.
+321460	326800	Enfin, voilà, je pense que vous avez retrouvé des gros parallèles assez importants.
+326800	328820	Alors, j'ai découpé ça en trois parties.
+328980	330780	Alors, c'est surtout la première partie qui est la plus grande.
+330920	333600	Ce n'est pas trop équilibré niveau slide.
+333720	337200	La première partie, c'est un peu la moitié, la présentation.
+338140	342660	Qu'est-ce qui est libre dans le logiciel libre et à qui profite le libre ?
+342660	346620	Et puis, dans un deuxième temps, est-ce que la culture libriste est subversive ?
+346620	349940	Et dans un troisième temps, qu'est-ce qu'on défend vraiment ?
+349940	351680	Et puis, des conclusions.
+353220	355520	Alors voilà, qu'est-ce qui est libre dans le logiciel libre ?
+355520	360280	Moi, c'est la première question que j'avais envie de poser pour secouer le cocotier du consensus.
+363160	367560	Alors, avant de mettre les pieds dans le plat, j'aimerais un peu juste rappeler rapidement,
+367720	374900	quand on vous parle du logiciel libre, souvent, on vous présente un peu les trucs clés que tout le monde connaît un peu.
+375080	383960	Genre, voilà, Firefox, VLC, WordPress, LibreOffice, Wikipédia peut-être, OpenStreetMap, des choses comme ça.
+383960	392080	Là, c'est un peu les projets visibles où il y a des centaines ou des milliers de développeurs, développeuses, de contributeurs par projet.
+392600	401640	Mais en fait, ce qu'il faut réaliser, c'est que tout ça est construit sur un iceberg de plein d'autres espèces de communs ou des trucs comme ça.
+401640	410100	Des langages de programmation, les distributions Linux et puis, en fait, des millions de librairies ou, si vous voulez, des briques logicielles.
+410280	416400	Des librairies, si on veut, on peut dire que c'est des briques logicielles qui permettent de construire de plus grosses choses.
+416860	419560	Et tout ça, c'est un peu sous le capot, c'est un peu caché.
+419560	430300	C'est maintenu par des milliers de bénévoles isolés dans la pampa qui, voilà, maintiennent sur leur temps libre un petit truc, par exemple, je ne sais pas, un petit truc pour gérer des images JPEG.
+430720	433680	Par exemple, des images JPEG, il y en a dans plein de logiciels différents.
+434460	440780	Potentiellement, c'est une même brique logicielle qui va aider plein de logiciels, de gros logiciels à gérer des images JPEG.
+440780	447740	Et puis, des fois, ça arrive qu'il y ait un mainteneur dans la pampa qui décide d'arrêter son taf.
+447900	451760	Et puis, cinq ans plus tard, on découvre qu'il y a un bug et que personne ne l'a corrigé.
+452100	458560	Ou alors, ça crée des catastrophes parce que tout le château de cartes s'écroule à cause de la brique logicielle qui est mal maintenue.
+459340	469640	Alors, le deuxième truc, c'est aussi pour comprendre un peu l'importance politique du code ou du numérique, c'est que plus le temps passe et plus le code devient la loi.
+469640	479120	C'est-à-dire que le code définit quelles sont les règles du jeu social et sociétal, quels sont les formats de communication.
+479320	481600	Alors, ça, ça prend énormément de formes différentes.
+481780	489900	Alors, il y a tout un article de Laurence Lessig là-dessus, qui est un peu un type qui fait un espèce de penseur du numérique, on va dire.
+492160	495760	Le code est juste du texte jusqu'à ce qu'il détermine le cadre de vie des citoyens.
+495900	497740	Et à partir de là, le code devient la loi.
+497740	505660	On peut citer vraiment des exemples à l'appel, mais pour vous donner des exemples relativement concrets, le fait que les likes sur Facebook, ça existe,
+506260	513320	ça peut avoir tendance à biaiser la manière dont les gens écrivent leurs posts pour recevoir le plus de likes possible.
+514500	521560	Le format des vidéos TikTok, ça influe sur la manière dont les gens communiquent et passent leur temps.
+521560	533820	Aujourd'hui, les scrolls infinis dans les interfaces, le fait que vous pouvez scroller et que vous avez toujours du contenu qui s'affiche automatiquement, ça, ça veut dire que c'est à vous, en tant qu'utilisateur ou utilisatrice, de faire l'effort de vous arrêter de scroller.
+533820	538660	Et c'est quand même assez discutable en termes d'éthique ou de pas terme.
+540360	549840	Au niveau de la bureaucratie, moi, j'avais vu un bout de conf une fois d'une personne qui travaille à Pôle emploi ou quelque chose comme ça dans l'administration
+549840	554960	et qui devait saisir des personnes qui avaient des parcours un peu particuliers et très hors du commun.
+554960	564420	Et des fois, elle se retrouvait vraiment bloquée par le formulaire de son interface au travail parce que, je ne sais pas, quand on demande quelles études avez-vous fait,
+564540	570420	la personne n'a pas fait d'études, mais pourtant, il faut quand même mettre un truc dans la case et sinon, on ne peut pas valider le formulaire.
+570860	575960	Du coup, ça veut dire que soit il y a des gens, on est obligé de mentir pour les saisir dans le système informatique,
+575960	583900	soit en fait, ils ne peuvent pas exister parce que le formulaire a été conçu de sorte à ce que si tu ne veux pas remplir le truc, tu n'existes pas.
+584580	589360	Par exemple, le simple fait d'avoir nom-prénom, on peut imaginer, il y a sans doute des cultures dans le monde, j'imagine,
+589500	592340	où les gens n'ont pas un nom et un prénom, ils ont juste un prénom.
+592840	599220	Et dans ce cas-là, qu'est-ce qu'on met si on doit les saisir dans le formulaire pour l'emploi ou même dans le Houdou de Copaname ?
+599220	604180	Qu'est-ce qu'on ferait si on avait quelqu'un qui n'avait pas de nom de famille ?
+605960	613600	Et puis, les algorithmes, les IA, il y a le scandale Cambridge Analytica qui est quand même un truc vachement craignose,
+613780	624740	mais si on résume, en gros, c'est Facebook qui a refilé des données à une entité, à des tiers privés pour manipuler les résultats de l'élection
+624740	629700	qui a peut-être aidé Trump à accéder au pouvoir, donc c'est quand même assez craignose,
+629700	636000	juste en modifiant le flux Facebook des personnes, ou les pubs en tout cas qui étaient affichés.
+636760	641640	Les voitures autonomes, là maintenant, les gens, ils en sont à coder le truc qui va déterminer,
+642180	648020	quand il y a un accident inévitable, est-ce qu'on sauve le conducteur ou est-ce qu'on sauve le piéton
+648020	652020	qui s'est engagé sur la route un peu trop vite ?
+652020	656080	On en est vraiment rendu là où les gens doivent coder le logiciel,
+656820	661780	qu'est-ce que fait la voiture ? Est-ce qu'elle sauve le passager ? Est-ce qu'elle sauve le piéton ?
+661780	665220	Et puis, des trucs aussi qui craignent, comme la reconnaissance faciale raciste,
+665360	672020	alors ça, c'est iPhone, ils avaient sorti un truc pour déverrouiller son téléphone avec la reconnaissance faciale,
+672020	677980	et puis, alors, ils avaient sans doute entraîné leur algorithme sur des Blancs caucasiens occidentaux,
+678460	681940	et puis du coup, sur les Noirs, ça ne marchait pas bien, et puis les Chinois, c'était tous les mêmes,
+682060	685140	alors tous les Chinois pouvaient déverrouiller n'importe quel téléphone.
+685780	688020	Ça, c'est assez craignose.
+690600	694160	Voilà, donc c'est ça, comme on veut dire, quand le code, c'est la loi,
+694340	700580	ça, c'est pour réaliser un peu l'importance politique du numérique dans la société contemporaine.
+700580	706940	Alors, du coup, on vous a fait sans doute l'évangélisme classique du logiciel libre,
+707020	711960	on vous a expliqué les quatre libertés, voilà, on peut exécuter le programme pour tous les usages,
+712040	720420	ça, c'est la liberté zéro, et puis on peut lire, modifier, et puis distribuer le programme un peu comme on veut.
+721740	728100	Ça, c'est quatre principes qui ont été posés dans les années 80 par, voilà, Richard Stallman,
+728100	732280	le créateur du logiciel libre. Et tout ça, ça a un peu émergé dans ce que j'ai émergé,
+732380	736940	la candeur des années 80. À l'époque, on pensait qu'il allait y avoir de l'informatique,
+737080	742000	ça allait révolutionner la société, ça allait booster la démocratie,
+742420	746660	on allait avoir, voilà, sur Internet, on n'allait voir que les meilleurs contenus,
+746740	752940	les plus pertinents, il allait y avoir un partage absolu de la connaissance et du savoir,
+752940	757240	ça allait être merveilleux et tout. Maintenant, depuis, on en est un peu redescendu,
+757360	766320	mais voilà, il faut imaginer que c'est apparu dans ce genre de contexte, il y a 40 ans maintenant.
+767700	773000	Et puis, alors ça, ces principes-là, ils ont été traduits dans le milieu, on appelle ça des licences,
+773100	777600	si vous voulez, c'est un peu le contrat juridico-technique, ou comment on appelle ça,
+777600	782860	les conditions générales d'utilisation, c'est ce qui détermine est-ce que vous avez le droit ou pas
+782860	789160	d'utiliser le logiciel et sous quelles conditions. Et en fait, le logiciel libre, c'est un peu un hack juridique,
+789260	794440	c'est un peu un piratage du copyright, si vous voulez, c'est un peu retourner le copyright contre lui-même
+794440	801460	en disant, moi, en tant qu'auteur, autrice du logiciel ou du code ou de la ressource,
+801640	807440	comme j'ai le droit d'auteur exclusive dessus, avec mon droit d'auteur, je décrète qu'il n'y a aucun problème,
+807600	811580	propriétaire sur ce code et que tout le monde est libre de l'utiliser, etc.
+811580	821460	Donc c'est vraiment ce truc de retourner la propriété intellectuelle contre elle-même, d'une certaine manière.
+822140	827000	Et là, à tout coup, tout le monde s'est un peu emballé en mode, voilà, on va libérer le logiciel,
+827140	832980	ça va libérer la société, ça va être génial. On a écrit ça sur des hoodies, free software, free society.
+833180	836500	Moi, moi-même, j'ai acheté ce hoody et puis je l'ai porté pendant un temps.
+836500	843160	Maintenant, il traîne dans un placard. Mais il y a vraiment cet idéal qui est resté chez les libristes
+843160	846660	autour du combat du logiciel libre.
+847400	854180	Mais alors, quand on commence à essayer d'expliquer le logiciel libre aux gens qui ne viennent pas dans la technique,
+855020	861720	c'est toujours un peu bizarre parce qu'on leur explique les quatre libertés et puis tu as le droit d'aller lire le code,
+861720	865320	d'aller modifier le code, redistribuer et tout, c'est génial.
+865320	868540	Et en vrai, je pense que les gens qui ne baignent pas dans la technique, ils vont se dire,
+868660	875280	ok, mais alors, attends, parce que moi, je ne suis pas développeur, je ne sais pas lire le code,
+875400	880220	encore moins le modifier et puis exécuter le programme pour tous les usages.
+880400	886880	Moi, quand j'utilise Windows, j'ai le droit d'exécuter le programme et puis pour tous les usages que je veux.
+886880	892160	Alors, au final, bon, je ne sais pas trop pourquoi le logiciel libre, ce serait mieux,
+892420	897500	mais en même temps, peut-être que vous n'êtes pas trop d'accord avec les GAFAM, Microsoft et tout.
+897640	901240	Du coup, vous voyez les gauchistes barbus, là, ils vous disent, il faut faire du logiciel libre.
+901360	903220	Alors, vous dites, bon, bah ouais, ok, on va faire du logiciel libre.
+904100	905920	Puis vous dites, waouh, mais ça va te rendre libre et tout.
+907600	908100	Mais voilà, bon.
+909120	912840	Mais alors, on a quand même trois des libertés sur les quatre qui concernent les développeurs,
+912840	914740	les gens qui savent lire le code et modifier.
+915500	919280	Alors d'ailleurs, même lorsqu'on sait lire le code, il faut bien se rendre compte
+919280	922620	qu'on n'a pas le temps de lire le code de tous les logiciels qu'on exécute.
+922760	924240	Ça, c'est purement impossible.
+924960	926980	Et puis, ok, voilà, la liberté d'utiliser le programme pour tout.
+927100	931360	Quand on réfléchit, bon, déjà, peut-être que vous ne vous sentez pas spécialement bridé
+931360	936780	dans l'utilisation de vos logiciels lorsque vous utilisez du code proprio.
+936960	938320	Alors, peut-être éventuellement, c'est payant.
+939640	939960	Mais voilà.
+939960	942280	Et puis, ce qui est un peu...
+942280	944580	Quand on commence à réfléchir, on se dit, bah, mais en fait, il n'y a aucune interdiction
+944580	948860	de se faire des trucs dégueulasses lorsqu'on utilise les logiciels libres.
+949060	953800	Alors, voilà, le truc un peu caricatural classique, c'est, voilà, sans doute que dans le monde,
+953880	955240	il y a des missiles qui tournent sous Linux.
+955980	957980	Sans doute que ça, ça ne libère pas trop les gens.
+960120	963020	Et alors, l'autre truc, c'est, voilà, le logiciel libre, c'est un peu une réputation
+963020	965660	d'avoir un design discutable.
+965660	972600	Mumble, si vous regardez, par exemple, dans le monde du graphisme, Inkscape versus Illustrator,
+972720	977520	bah, clairement, il y en a un qui est quand même plus, mieux foutu au niveau interface
+977520	979520	que l'autre.
+979660	980900	Mumble versus Discord.
+982480	986660	Ça, c'est des logiciels pour discuter avec la voix et tout.
+986760	990740	Discord, c'est un peu le truc des Jones avec une interface super léchée, alors que Mumble,
+990740	994760	c'est le truc un peu austère qui a été codé sans doute il y a 20 ans.
+995720	1001260	Et puis, le site, il n'est pas super invitant, enfin, ça n'invite pas trop à l'utiliser,
+1001360	1001720	on va dire.
+1002600	1005980	Et puis, finalement, le troisième truc un peu discutable, c'est la réputation sur
+1005980	1009000	l'accessibilité parce qu'il y a des gens qui se sont dit, bah, vous êtes bien gentil
+1009000	1013120	avec votre liberté d'utiliser le programme pour faire tout, mais en fait, pour les gens
+1013120	1018720	qui sont handicapés visuellement, par exemple, votre logiciel, il n'est pas forcément
+1018720	1023280	super accessible. Alors, il y a un collectif qui s'est créé autour de ça, qui s'appelle
+1023280	1027620	le collectif Liberté Zéro, pour dire, avant tout, pour que le logiciel soit vraiment
+1027620	1032140	libre, il faudrait que les gens qui ont des handicaps ou des déficiences visuelles
+1032140	1036220	ou toutes sortes de trucs dans la vie, puissent réellement utiliser le logiciel.
+1036460	1040240	Donc, on va créer un collectif Liberté Zéro pour promouvoir l'accessibilité dans
+1040240	1043720	les logiciels. Et d'ailleurs, j'ai eu la mauvaise surprise de découvrir que ce truc,
+1043820	1047320	il était un peu mort depuis 2016. En tout cas, le site, il n'a pas trop été mis à jour
+1047320	1053140	depuis certains moments. Alors, bon, tout de même, là, je suis un peu de l'avocat
+1053140	1058400	du diable parce que le logiciel libre, c'est quand même intéressant. Ce qui est intéressant
+1058400	1062820	en fait avec les libertés, c'est que ça crée une transparence sur le code source,
+1062820	1067720	sur le fonctionnement. Et puis, le développement, comme il n'est pas lié à une entreprise,
+1067940	1072860	il est indépendant. Et du coup, tout ça, ça crée de la confiance. Alors, souvent,
+1072860	1077820	le logiciel libre, il est souvent gratuit, même si les libristes, ils n'aiment pas trop
+1077820	1081920	qu'on le dise que le logiciel libre, il est gratuit. Mais en tout cas, les gens dans
+1081920	1086000	la société moderne, ils s'attendent souvent à ce que ce soit gratuit, même si c'est
+1086000	1090240	un truc qu'on va critiquer par la suite. Et puis, il y a un peu une forme de pérennité.
+1090440	1094320	C'est-à-dire que comme le logiciel, il est lié à aucune entité commerciale,
+1094320	1100420	eh bien, ce n'est pas comme s'il allait y avoir l'entreprise qui gère le logiciel
+1100420	1105280	qui coule, et du coup, le logiciel, il coule avec. Là, même s'il y a une boîte
+1105280	1109700	qui contribue à un logiciel, le logiciel, il continue d'exister. Et puis, d'autres
+1109700	1114880	gens peuvent le reprendre plus tard. Donc, ça, ça crée de la pérennité pour le logiciel.
+1117300	1121180	Bref. Alors, et du coup, le truc aussi avec le logiciel, c'est qu'on peut voir ça
+1121180	1125860	comme une espèce de modalité de production super efficace, en fait.
+1125960	1130600	C'est-à-dire que lorsque vous créez un logiciel, vous, eh bien, vous pouvez utiliser
+1130600	1134780	plein de briques qui existent déjà. Et puis, vous avez besoin de demander à personne.
+1135520	1138900	Il n'y a pas besoin de réinventer la roue. Voilà, si vous voulez gérer des images JPEG
+1138900	1142320	dans votre logiciel, il y a déjà des gens qui ont codé le truc pour vous.
+1143180	1147560	C'est super génial. Et puis, il y a même des bénévoles sur Internet dans le monde
+1147560	1150960	qui sont prêts à taffer gratuitement pour améliorer la qualité des trucs.
+1151180	1155460	Et bien, ça, devinez qui ça peut intéresser ?
+1155460	1159320	Eh bien, le grand capital. Parce que exploiter du travail gratuitement
+1159320	1163260	sans avoir le moindre contrat à signer, franchement, c'est un peu le rêve mouillé
+1163260	1166660	des capitalistes. C'est vraiment génial, quoi.
+1167240	1170840	Alors, le seul petit problème, c'est qu'il y a quand même un peu des germes
+1170840	1174080	de communistes. Parce que le logiciel libre, à la base, ça vient un peu
+1174080	1178080	des cauchistes barbus, là, du MIT, Richard Stallman et tout ça.
+1180360	1187160	Même si ça ne se transparaît pas forcément dans les quatre libertés, là, on sait qu'il y a des espèces
+1187160	1190700	d'entourloupes communistes qui traînent dans le truc.
+1190700	1193500	Du coup, ça, on aimerait mettre ça de côté.
+1193780	1198260	Alors, c'est comme ça qu'est né ce qui a été appelé l'open source.
+1199320	1203060	L'open source, eh bien, c'est le logiciel libre aseptisé.
+1203440	1207220	Alors, c'est intéressant parce que lorsqu'on va voir sur Wikipédia, c'est quoi la définition
+1207220	1213380	de l'open source, eh bien, c'est quasiment la même définition que le logiciel libre.
+1213820	1217540	Ça, c'est la définition du logiciel libre. C'est ce que je vous ai expliqué juste avant.
+1217800	1222220	Et l'open source, c'est un truc où on a la possibilité de libre redistribution,
+1223000	1226120	d'accès au code source et de création de travaux dérivés.
+1226280	1229440	Bon, ça ressemble quand même comme deux gouttes d'eau au logiciel libre.
+1229560	1233180	Et d'ailleurs, juridiquement, les deux sont indistinguables.
+1233180	1237340	Et d'ailleurs, pas à but de langage, dans toute la suite et même dans la vie,
+1237480	1240180	lorsque je parle de logiciel libre ou d'open source,
+1240340	1247240	eh bien, pour moi, c'est la même chose parce qu'il n'y a pas de différence technique ou juridique entre les deux.
+1249160	1254340	Alors, il y a des gens qui vont vous dire, oui, mais le logiciel libre, c'est l'open source plus des valeurs.
+1256860	1261820	Et alors, ces valeurs, moi, les valeurs, quelles sont ces valeurs qui sont défendues par le logiciel libre ?
+1261820	1265180	Je ne sais pas. Personne ne semble ne les avoir définis.
+1265780	1269460	Du coup, je ne sais pas si c'est les valeurs de Marine Le Pen ou les valeurs de Philippe Poutou.
+1270480	1273740	Du coup, pour moi, dire ça, c'est un peu du flanc.
+1276220	1279540	Alors, pour finir sur l'open source, il faut comprendre que le terme open source,
+1279540	1286160	il a vraiment été un peu inventé pour faciliter le marketing autour du logiciel libre,
+1286260	1289780	du code ouvert, du code qu'on peut facilement consulter et ainsi de suite.
+1289780	1293080	C'était vraiment pour le rendre entreprise compatible, quoi.
+1295360	1298080	Alors, d'ailleurs, c'est quoi un peu le modèle économique du logiciel libre ?
+1298080	1302320	Ça, vous en avez parlé avec Vincent parce que je suis allé zioter les slides.
+1303760	1304360	Vite fait.
+1305740	1306740	Il y a plusieurs modèles.
+1307220	1310240	Soit vous êtes en bénévolat complet, mais alors le bénévolat complet,
+1310840	1312640	ça ne dure pas une éternité.
+1313280	1314960	Éventuellement, ça peut s'appliquer aux petits projets,
+1314960	1319340	mais lorsque votre projet commence à grossir, souvent le bénévolat, ça ne suffit plus.
+1321040	1323920	Et d'ailleurs, le bénévolat, en gros, ce n'est pas pérenne.
+1324060	1326680	Je vous ai mis un petit triangle, un peu comme les trucs de marketing,
+1326880	1329200	où il faut choisir entre si vous voulez un projet,
+1329320	1334520	est-ce que vous voulez l'avoir rapidement, pas cher et de qualité.
+1335260	1337680	Souvent, on ne peut choisir que deux trucs parmi les trois.
+1338240	1342400	C'est un peu pareil entre la gratuité, la pérennité et le libre ou l'éthique.
+1342400	1345240	Il faut un peu choisir ce que vous voulez.
+1347820	1350040	Le bénévolat complet, par exemple, ce n'est pas pérenne.
+1350240	1354360	C'est gratuit pour les gens et c'est libre-éthique, mais ce n'est pas pérenne.
+1354500	1356460	Du coup, en gros, il n'y a aucune solution magique.
+1358580	1361460	Alors ça, je vais passer parce que ce n'est pas non plus le cœur du sujet,
+1361580	1365740	mais il y a quand même une discussion un peu sur c'est quoi le modèle économique du logiciel libre.
+1365840	1370080	Et tout ça, ça a été un peu laissé sous le tapis par les libristes.
+1370080	1373020	C'est-à-dire qu'il faut te démerder, si tu veux,
+1373360	1376780	parce qu'il faut que le logiciel continue d'exister.
+1377360	1380080	Par contre, tu n'as pas trop le droit de faire des fonctionnalités payantes.
+1380200	1383100	Ça, ils n'aiment pas trop les libristes parce que ça veut dire souvent
+1383100	1385420	que les fonctionnalités, des fois, il y a certaines fonctionnalités
+1385420	1387520	qui sont accessibles que si on paye.
+1387600	1388500	Du coup, elles ne sont pas libres.
+1389560	1391480	Du coup, ça, les libristes, ils n'aiment pas trop parce que ce n'est pas libre.
+1391660	1393640	Mais du coup, à un moment, il faut manger quand même.
+1394280	1396080	Du coup, comment on fait ?
+1396080	1399140	Et au final, d'une certaine manière, les entreprises,
+1399260	1400500	on comprend qu'elles ont un rôle à jouer
+1400500	1404540	parce que si on se base juste sur, je ne sais pas, les dons ou les subventions,
+1405500	1407740	souvent, ça ne suffit pas pour faire tourner le projet.
+1408140	1410320	Et les gens qui ont des sous, souvent, c'est des entreprises.
+1412100	1416780	Du coup, elles sont un peu nécessaires à un moment pour faire tourner les gros projets.
+1416780	1420080	Alors voilà, du coup, l'open source, c'est cool.
+1420700	1424740	Les entreprises, elles se sont rendues compte que c'était quand même pas mal.
+1425540	1427260	Et même Microsoft a fini par kiffer.
+1427600	1434400	Alors, il faut voir qu'en 2000, Microsoft, sa position sur l'open source,
+1434560	1437680	c'était quand même, quand tu programmes de l'open source, tu programmes du communisme.
+1437680	1445840	Et, ouais, littéralement, Balmer, là, le type avec,
+1446060	1447880	il aurait pu le voir dans Fantomas, peut-être,
+1448700	1452320	il disait en 2001, Linux, c'est le cancer.
+1452440	1454080	Il a vraiment dit ça, littéralement.
+1455440	1456780	Et pourtant, en 2014,
+1458020	1460120	en 2014, on ne sait pas trop ce qui s'est passé,
+1460700	1463780	mais alors, Microsoft, ils font une présentation et ils disent,
+1463780	1467420	« Mais nous, on adore Linux, c'est génial ! »
+1467680	1470480	Et alors, en 2014,
+1473500	1476880	qu'est-ce qu'elle a été la réaction des libristes en voyant ça ?
+1476880	1480000	A votre avis, est-ce qu'on est content ou pas content lorsqu'on voit ça ?
+1480000	1486460	Je ne sais pas si les libristes ont réalisé la mesure de ce qui venait de se passer
+1486460	1490500	lorsque Microsoft affirme qu'ils aiment Linux d'amour,
+1491160	1492240	et l'open source aussi.
+1493520	1496060	Si Microsoft en vient à dire ça, c'est que vraiment,
+1496060	1497520	il s'est passé un truc.
+1499720	1502140	Et en plus, il s'est passé un truc, pas juste en 2014,
+1502280	1506240	parce que le temps que Microsoft comprenne qu'ils ont fait une énorme connerie
+1506240	1511260	en disant, « Linux, c'est le cancer, l'open source, c'est le communisme et tout. »
+1511260	1512720	Il faut vraiment qu'il soit passé un truc,
+1512880	1518160	il faut qu'ils réalisent qu'ils ont loupé vraiment le truc dans l'histoire.
+1518160	1524800	Bref, le tournant, c'était pile au milieu, entre 2000 et 2014, 2007.
+1525520	1529000	C'est un peu le tournant où on a eu d'une part les premiers smartphones,
+1529260	1531180	c'est la sortie du premier iPhone en 2007.
+1532800	1536180	Et puis sur Android, il faut savoir que c'est développé par Google.
+1536700	1539660	Et d'ailleurs, Android, c'est open source et c'est basé sur Linux.
+1539660	1545020	Du coup, Google est tout à fait très content de bénéficier des bénévoles
+1545020	1550600	qui veulent améliorer gratuitement la qualité de Android.
+1552180	1554500	Et puis d'autre part, la montée de Facebook,
+1555580	1557300	les plateformes en ligne, le cloud,
+1558420	1559920	ça est basé aussi sur l'open source.
+1560700	1564160	Le cloud, c'est vraiment le fait que les logiciels que vous utilisez dans la vraie vie,
+1564300	1567300	maintenant, de plus en plus, c'est des trucs qui ne tournent pas sur votre machine.
+1567300	1576420	C'est des trucs comme Google Docs, comme Google Agenda, Outlook.
+1576780	1580980	Enfin voilà, tout ça, c'est des services qui tournent en ligne quelque part, ou YouTube.
+1582000	1583840	Tout ça, c'est des trucs qui ne tournent pas sur votre machine.
+1586000	1588320	Et puis, il y a les réseaux sociaux, surtout les réseaux sociaux.
+1588480	1590080	En fait, ce qui est important de comprendre, c'est que
+1590080	1593700	quand bien même Facebook tournerait avec 100% le logiciel libre,
+1594420	1595640	on n'aurait rien gagné du tout,
+1595640	1601720	parce que Facebook serait toujours le truc central où tout le monde se connecte.
+1601820	1606660	Et en fait, on aurait beau connaître le code source de Facebook à 100%,
+1606660	1609560	ce qui est important dans Facebook, ce n'est pas le code source,
+1609760	1610940	c'est les gens qui sont dessus.
+1611320	1613900	Et tout le monde reste sur Facebook à cause de l'effet réseau,
+1614340	1616640	de « je veux être là où sont les gens que je connais ».
+1617700	1622140	Et surtout, c'est Facebook qui maîtrise les données qui circulent sur le réseau.
+1622140	1625560	Ce n'est plus du tout une histoire de logiciel libre.
+1626320	1629380	Tout ça, ce que je décris, c'est l'émergence du capitalisme de surveillance.
+1630060	1632380	Voilà vos smartphones, c'est littéralement des caméras de surveillance
+1632380	1635100	que vous tenez dans votre main devant votre visage, d'une certaine manière,
+1635500	1636280	ou devant votre vie.
+1636840	1639320	Et puis, le but du capitalisme de surveillance,
+1639440	1644860	c'est d'aspirer vos données pour commercialiser, faire des pubs ciblés, etc.
+1644860	1649800	Les règles du jeu ont vraiment changé à partir de 2007.
+1650140	1652980	Les logiciels importants, ils ne tournent plus sur vos machines,
+1653120	1657080	ils tournent sur la machine de quelqu'un d'autre dans le cloud.
+1657580	1659500	Et du coup, peu importe qu'ils soient libres ou non,
+1659940	1661700	ce qui compte, c'est un peu qui gère les données
+1661700	1666060	et dans quelle mesure vous pouvez avoir confiance dans les gens qui gèrent les services.
+1666060	1672400	Voilà, et du coup, en 2014, Microsoft comprend qu'ils ont fait une grave erreur
+1672400	1675360	en refusant l'open source un peu catégoriquement
+1675360	1678020	parce qu'il y avait vraiment un truc à jouer.
+1678880	1681100	Par exemple, ils sont complètement plantés sur les smartphones,
+1681260	1685500	ils auraient pu devancer Google pour créer un OS
+1685500	1687340	qui allait prendre des parts de marché et tout.
+1687340	1692720	Et à la place, ils ont vraiment raté le truc.
+1692720	1700840	Et en fait, pour finir, l'iceberg, le capital de surveillance,
+1700980	1705440	la Facebook, Google, c'est le même iceberg que les logiciels libres.
+1705900	1711120	Alors certes, ce n'est pas Firefox, ce n'est pas VLC, tout ça,
+1711540	1715160	mais tous ces trucs-là, tous les GAFAM, les Airbnb, les Uber,
+1715260	1719340	ils utilisent des briques logicielles développées aussi par les mêmes bénévoles
+1719340	1724340	isolées dans la pampa que c'est les mêmes briques logicielles
+1724340	1726120	qui permettent de construire le libre.
+1728720	1732120	Voilà, et en fait, quand on réfléchit et qu'on regarde vraiment partout,
+1732360	1734740	on se fait bouffer de partout sur le logiciel libre.
+1735360	1736840	Vraiment, c'est un peu un truc dramatique.
+1737640	1742120	Le FOSDEM, c'est la plus grosse conférence sur le libre open source en Europe.
+1742940	1744200	Je pense que c'est la plus grosse.
+1744200	1747660	tous les ans, c'est à Bruxelles.
+1747940	1752020	Et puis, qu'est-ce qu'on trouve dans les sponsors numéro 1 en haut de la liste ?
+1752020	1752960	Et là, on trouve Google.
+1753680	1758060	Alors du coup, quand vous allez au FOSDEM dénoncer le capitalisme de surveillance
+1758060	1760000	alors que le sponsor numéro 1, c'est Google,
+1760620	1762960	et bien c'est un peu bizarre, vous ne pouvez pas trop faire ça.
+1763200	1764200	C'est un peu...
+1764200	1768420	Et puis des exemples comme ça, on en trouve d'autres.
+1768700	1770480	Alors des exemples un peu plus techniques.
+1770480	1773180	Alors je ne vais pas rentrer vraiment dans le détail,
+1773300	1778120	mais MongoDB, c'est une technologie de base de données libre.
+1779400	1782280	Et puis Amazon s'est emparé de MongoDB.
+1782520	1784600	Et en gros, ils ont dit, tiens, MongoDB, c'est génial.
+1785240	1786640	Nous, on ne veut pas du tout modifier le code.
+1786760	1788580	Par contre, on est super OK pour l'utiliser
+1788580	1792200	et en particulier vendre du service avec MongoDB.
+1793360	1795920	Voilà, donc ils ont littéralement pris du travail gratuit
+1795920	1798880	développé par des bénévoles.
+1798880	1800540	Enfin, en tout cas, ils n'ont pas contribué en retour.
+1800940	1803460	Et puis eux, ils ont monté leur truc de vente,
+1803920	1805700	en gros, de MongoDB en ligne.
+1806280	1808060	Et puis, ils avaient juste de l'argent gratuit.
+1810500	1812720	Alors du coup, MongoDB, les développeurs,
+1812800	1813780	ils n'étaient pas contents.
+1813960	1815660	Ils se sont dit, OK, on va contre-attaquer.
+1815760	1818700	On va créer une nouvelle licence, la SSPL,
+1819400	1822640	qui va imposer que si tu vends du service
+1822640	1826040	qui est basée sur MongoDB,
+1826220	1829240	tu dois forcément tout rendre disponible
+1829240	1830060	de ton infrastructure.
+1830360	1833000	Enfin, tu dois ouvrir le code de toute ton infrastructure
+1833000	1835380	pour que n'importe qui puisse refaire la même chose.
+1835900	1837940	Et en fait, cette licence, elle était tellement vénère
+1837940	1839340	sur ce qu'elle imposait
+1839340	1841100	qu'elle a été considérée comme pas libre
+1841100	1842180	par les libristes.
+1842440	1843460	Parce que c'était trop...
+1843460	1845840	Alors du coup, vraiment, c'est là qu'on commence à voir
+1845840	1846420	que le libre,
+1847020	1849580	slash open source, il est mis un peu en échec et mat.
+1849580	1853180	C'est-à-dire que soit le grand capital profite du travail gratuitement,
+1854220	1855840	soit il faut restreindre l'usage.
+1856400	1857880	Et dans ce cas-là, on sort du logiciel libre.
+1860360	1862220	Et puis un autre truc un peu dramatique
+1862220	1864540	et vraiment triste, c'est Firefox
+1864540	1868180	qui est financé à 90% par Google.
+1869540	1872740	Ça, ça fait mal quand on apprend ça.
+1872840	1875640	90% du financement de Firefox,
+1875760	1878680	c'est Google, c'est quelque chose comme 400 millions par an
+1878680	1879680	ou 450 millions.
+1880880	1883020	La CEO, elle est payée 3 millions.
+1883800	1884760	Et puis, elle dit oui,
+1884860	1886640	mais ce n'est pas beaucoup en tant que CEO
+1886640	1887840	d'être payée 3 millions.
+1889620	1890600	Du coup, les employés,
+1890640	1892720	ils sont payés un salaire relativement normal,
+1892880	1893900	mais elle est payée 3 millions.
+1894400	1895180	Ça aussi, c'est genre,
+1895300	1896960	est-ce que c'est vraiment ça qu'on défend
+1896960	1899680	comme société lorsqu'on utilise Firefox
+1900340	1901300	ou les logiciels libres ?
+1901300	1902020	Je ne suis pas sûr.
+1902460	1904540	Et puis il y a plein de choix stratégiques discutables
+1904540	1907000	qui tombent régulièrement.
+1907240	1908160	Firefox, ils font des trucs
+1908680	1912280	un peu à côté de la plaque,
+1912980	1913700	on pourrait dire.
+1915200	1916600	Firefox, on dit aux gens
+1916600	1917320	d'utiliser Firefox.
+1917580	1918700	D'ailleurs, c'est très important
+1918700	1920320	de continuer à utiliser Firefox.
+1920880	1922020	Mais c'est surtout le moins pire
+1922020	1923140	des navigateurs, malheureusement.
+1923720	1925100	Et pourtant, il y a vraiment un enjeu
+1925100	1926860	autour des navigateurs,
+1926940	1928180	d'avoir un navigateur libre,
+1928580	1929880	parce qu'avoir un navigateur libre,
+1929940	1931600	ça permet de participer
+1931600	1933340	à la définition des règles
+1933340	1934260	de fonctionnement du web.
+1934260	1935280	et ça, vraiment,
+1937080	1938860	je ne peux que souligner
+1938860	1940000	à quel point stratégiquement,
+1940180	1941780	c'est nécessaire, important d'avoir
+1941780	1944040	un navigateur libre.
+1944180	1945240	Mais Firefox, malheureusement,
+1946780	1949340	il y aurait d'autres trucs à faire
+1949340	1950180	que ce qu'ils font.
+1950180	1953100	Alors voilà, si on résume,
+1953220	1954640	ça, c'est la première partie.
+1954780	1955540	Le logiciel libre,
+1955960	1957220	on pensait que c'était un truc
+1957220	1958940	un peu de gauchiste.
+1959100	1960000	Voilà, on allait aller vers
+1960000	1961380	l'autogestion des communs.
+1961500	1963240	Ça allait être génial.
+1963780	1964360	Et puis, en fait,
+1964440	1965600	les géants du web sont un peu
+1965600	1966400	arrivés par derrière.
+1966600	1969220	On se dit, ça, c'est cool.
+1969320	1970560	Nous, on aime bien le travail gratuit.
+1970560	1973040	Et on va construire
+1973040	1975420	le capitalisme de surveillance avec.
+1976620	1977840	Voilà, donc, résumé de la partie 1,
+1977940	1978800	logiciel libre partout,
+1978940	1979680	liberté nulle part.
+1979880	1982620	Vraiment, dans votre smartphone,
+1982740	1984060	vous avez du logiciel libre à gogo.
+1984500	1985380	Et pourtant, c'est quand même
+1985380	1987400	un dispositif qui vous espionne.
+1987860	1989620	Et puis, Facebook et tous les trucs,
+1989720	1990400	les réseaux sociaux,
+1990820	1991700	les Google, les machins,
+1992100	1993240	il y a du logiciel libre partout.
+1994200	1995100	Mais pour autant,
+1995200	1997940	on n'est pas dans l'utopie
+1997940	1998500	de la liberté.
+1998500	1999300	Au contraire,
+2000560	2002360	le logiciel libre ne rend pas
+2002360	2002980	les gens libres.
+2003260	2005180	Il faut vraiment arrêter
+2005180	2007180	de se voiler la face là-dessus.
+2008120	2009560	Les libristes qui prétendent
+2009560	2010380	libérer les gens
+2010380	2011900	à grand coup de logiciel libre,
+2012320	2014620	c'est vraiment un truc
+2014620	2016300	genre non,
+2016420	2017460	c'est pas comme ça que ça se passe.
+2018040	2018700	Le logiciel libre,
+2018780	2020080	ça libère surtout les développeurs
+2020080	2020980	et surtout les développeurs
+2020980	2021760	qui ont de l'argent.
+2022420	2023940	C'est surtout la Silicon Valley,
+2024660	2025340	les GAFAM,
+2026420	2028100	les Airbnb et ainsi de suite.
+2028940	2030360	Le logiciel libre a retourné
+2030360	2031560	le copyright contre lui-même,
+2032100	2032980	mais en retour,
+2033140	2034760	le grand capital a retourné
+2034760	2036140	le logiciel libre contre lui-même
+2036140	2037420	en créant une sorte
+2037420	2038780	de logiciel libéral.
+2039580	2040180	On aurait appelé ça
+2040180	2040800	l'open source,
+2040900	2041160	mais en gros,
+2041240	2042140	c'est du logiciel libéral,
+2042240	2042740	on pourrait dire.
+2043740	2044280	Et puis finalement,
+2044460	2045260	le logiciel libre
+2045260	2046400	et Internet,
+2046580	2047480	qui est aussi Internet,
+2047580	2048620	c'est un peu un truc construit
+2048620	2050500	dans le même état d'esprit
+2050500	2051240	que les logiciels libres,
+2051480	2052640	c'est des pierres angulaires
+2052640	2054040	aujourd'hui du capitalisme
+2054040	2054520	de surveillance.
+2054640	2055460	Le capitalisme de surveillance
+2055460	2056540	ne pourrait pas fonctionner
+2056540	2058020	sans le logiciel libre.
+2060360	2060840	Voilà.
+2061440	2062800	Ça, c'était la première partie.
+2063760	2063940	Voilà,
+2064060	2065380	le capitalisme de surveillance
+2065380	2066700	est construit sur le logiciel libre.
+2066820	2067180	Alors on pourrait dire,
+2067220	2067700	bon, d'accord,
+2067800	2068380	mais les libristes,
+2068460	2069420	ils ne vont pas juste
+2069420	2071360	continuer bêtement
+2071360	2072200	pendant 30 ans
+2072200	2073200	de défendre le logiciel libre
+2073200	2073820	sans se poser
+2073820	2074940	la moindre question
+2074940	2078140	et penser que le logiciel libre
+2078140	2078820	va libérer
+2078820	2080520	les utilisateurs.
+2080520	2085040	Du coup,
+2085080	2085420	ça nous amène
+2085420	2086460	à la question suivante.
+2086700	2087700	Pour secouer le cocotier
+2087700	2088300	consensuel,
+2088440	2089300	est-ce que la culture
+2089300	2089800	en libris
+2089800	2093000	est subversive ?
+2093000	2094460	C'est là le moment
+2094460	2094880	où je commence
+2094880	2095460	à avoir des slides
+2095460	2095820	un peu
+2095820	2097960	à l'emporte-pièce.
+2098200	2098840	J'ai fait une espèce
+2098840	2100200	de sociologie
+2100200	2100860	de comptoir
+2100860	2101140	des,
+2101680	2102200	ce que j'appelais
+2102200	2103460	des kikidino-libristes
+2103460	2104060	radicaux
+2104060	2106520	qui pensent
+2106520	2107780	libérer les gens
+2107780	2108960	à grands coûts
+2108960	2110380	de logiciels libres.
+2110520	2111340	En termes
+2111340	2112380	de subversivité,
+2112600	2113000	déjà,
+2114000	2115060	les geeks libristes,
+2115280	2115540	souvent,
+2115700	2117700	c'est des hommes blancs,
+2117700	2119680	hétéros,
+2120900	2121160	cis,
+2121260	2121580	valides,
+2121680	2122340	bien éduqués.
+2122780	2123780	On a quand même
+2123780	2124320	connu mieux
+2124320	2126860	comme substrat
+2126860	2128720	pour la subversivité.
+2129860	2130340	Souvent,
+2130620	2131640	on rencontre
+2131640	2131960	quand même
+2131960	2132940	dans les milieux libristes
+2132940	2133840	que j'ai fréquentés,
+2134600	2135440	moi-même,
+2135480	2135660	d'ailleurs,
+2135760	2136100	j'ai tenu
+2136100	2136700	des positions
+2136700	2137780	technolithistes
+2137780	2139480	pendant un long temps.
+2141200	2141840	C'est des gens
+2141840	2142100	quand même
+2142100	2143400	assez technosolutionnistes,
+2143540	2144440	technolithistes,
+2144900	2145640	un peu perchés
+2145640	2147940	dans leurs trucs numériques.
+2149280	2149600	Souvent,
+2149680	2150440	des trucs qu'on entend,
+2150680	2150960	c'est genre,
+2151040	2151640	tout le monde
+2151640	2152720	devrait savoir coder,
+2153220	2154400	les interfaces graphiques,
+2154700	2155180	c'est nul.
+2156860	2157200	Souvent,
+2157260	2157860	ils font des outils
+2157860	2158680	qui marchent pour eux
+2158680	2159420	et puis ils disent,
+2159500	2160380	si tu n'aimes pas,
+2160440	2161200	tu n'as qu'à contribuer.
+2161440	2161460	Alors,
+2161560	2161720	du coup,
+2161820	2162340	moi,
+2162340	2163060	je n'ai pas le temps
+2163060	2163400	ou alors,
+2163480	2166540	je ne sais pas lire du code,
+2166620	2167260	je ne sais même pas comment
+2167260	2168760	contribuer à WCL.
+2170520	2171000	Et puis,
+2171120	2171540	en retour,
+2171700	2171960	souvent,
+2172160	2172380	ils vont,
+2172820	2173060	ça,
+2173120	2173800	c'est des trucs qu'on voit aussi,
+2173860	2175000	ils vont mépriser le grand public
+2175000	2175740	qui, selon eux,
+2175820	2176780	choisit délibérément
+2176780	2177760	d'utiliser les GAFAM.
+2179780	2180160	Et même,
+2180220	2180860	on entend des choses,
+2180980	2181100	genre,
+2181400	2181540	ça,
+2181580	2183020	c'est un truc que j'ai vu,
+2183160	2184340	utiliser Microsoft,
+2184440	2185280	c'est soutenir le fascisme.
+2185420	2185440	Alors,
+2185500	2185620	du coup,
+2186160	2187080	vous êtes super content,
+2187220	2187360	vous êtes,
+2187480	2187580	ok,
+2187720	2188440	j'utilise Microsoft,
+2188560	2189280	je soutiens le fascisme,
+2189360	2190000	super génial.
+2190860	2192720	Où est-ce qu'on va avec ça ?
+2192720	2193980	Bon,
+2193980	2194620	bon,
+2197260	2199000	c'est un peu l'équivalent de,
+2199100	2199520	si vous voulez,
+2199600	2200560	c'est un peu l'équivalent numérique,
+2200680	2200780	là,
+2200980	2201120	de,
+2201120	2202220	les pauvres,
+2202280	2203100	ils ne veulent pas d'écologie,
+2203620	2203920	regardez,
+2204000	2205080	ils prennent la voiture tous les matins
+2205080	2205840	pour aller au travail.
+2206280	2206680	En fait,
+2206760	2208100	c'est plus compliqué que ça,
+2208180	2208400	quand même.
+2208400	2213960	Les geeks libri,
+2214020	2214620	c'est quand même des gens
+2214620	2216660	souvent paumés politiquement,
+2217900	2218340	souvent,
+2218740	2220320	il y a un peu un truc qui traîne
+2220320	2221620	du style de la technologie,
+2221780	2222340	c'est neutre.
+2224580	2224620	Bon,
+2225380	2226680	la liberté absolue,
+2226820	2227540	c'est très important,
+2227680	2230740	la liberté absolue d'utiliser le logiciel
+2230740	2231640	pour tous les usages,
+2231740	2232880	même pour faire des trucs dégueulasses,
+2232980	2233060	voilà,
+2233120	2234740	c'est un truc qui est défendu vraiment,
+2235280	2238380	explicitement par la communauté libriste.
+2238540	2239440	Alors que pourtant,
+2239560	2241560	on sait que la liberté d'expression absolue,
+2242300	2242440	voilà,
+2242560	2242760	par exemple,
+2242840	2243300	Elon Musk,
+2243340	2244820	qui défend la liberté d'expression absolue,
+2244960	2247100	on sait comment ça se passe.
+2247400	2247680	Souvent,
+2247820	2250700	quand on défend des libertés absolues,
+2251880	2253620	ça tend à défendre le statut quo.
+2254340	2256400	C'est quand même une problématique compliquée,
+2257520	2258060	mais il y a quand même des gens
+2258060	2259300	qui ont inventé un truc
+2259300	2260700	qui s'appelle le paradoxe de la tolérance,
+2260840	2262400	qui montre qu'il faut être intolérant,
+2263420	2264400	à l'intolérance,
+2265080	2267400	si on veut garder une société tolérante.
+2269220	2271340	Pas trop de connexion avec les autres luttes.
+2271440	2271580	Et puis,
+2271660	2272440	de manière générale,
+2273180	2274180	les geeks libristes,
+2274280	2276260	ils sont un peu à côté de la plaque sur le féminisme.
+2276620	2279980	C'est quand même pas rare de voir un article écrit
+2279980	2281060	avec de l'écriture inclusive.
+2281920	2282400	Et en dessous,
+2282440	2283060	dans les commentaires,
+2283340	2285080	il y a les libristes qui,
+2285140	2285600	d'un seul coup,
+2285740	2285820	sont,
+2285960	2287220	j'ai les yeux qui saignent,
+2287660	2288040	machin,
+2288560	2288700	enfin,
+2288700	2289360	le truc classique,
+2289420	2289560	quoi.
+2289560	2292060	ça pourrait être cool
+2292060	2293240	si on dépassait un peu ça.
+2293720	2294000	Et puis,
+2294100	2294980	de manière générale,
+2295040	2297160	il y a un peu une espèce de vision dogmatique
+2297160	2297900	et sacralisée
+2297900	2298840	des quatre libertés
+2298840	2299880	et du logiciel libre
+2299880	2301240	avec vraiment des gens
+2301240	2304480	qui confondent la finalité
+2304480	2305500	et les moyens.
+2305500	2306180	Ils ont appris,
+2306260	2306420	voilà,
+2306480	2307740	logiciel libre égale bien,
+2308260	2309960	pas logiciel libre égale mal.
+2311140	2312980	Et s'il y a un seul pet
+2312980	2314060	qui n'est pas du logiciel libre,
+2314160	2314320	on va dire,
+2314400	2314860	c'est pas bien.
+2316480	2318500	C'est un peu...
+2318500	2320340	Et c'est vraiment une vision binaire,
+2320480	2320600	en mode,
+2320680	2321180	soit c'est libre,
+2321320	2322220	soit c'est propriétaire,
+2322280	2322400	quoi.
+2324900	2325500	Et puis,
+2325960	2326160	bon,
+2326160	2326740	il y a d'autres trucs,
+2326880	2327040	mais voilà,
+2327140	2327680	grosso modo,
+2328120	2329680	ils font un peu l'autruche
+2329680	2331060	sur la réalité du logiciel libre
+2331060	2332240	à l'ère du cloud et du mobile.
+2333240	2334820	J'ai ligné un article qui dit,
+2334820	2336020	mais la FSF,
+2336100	2337240	la Free Software Foundation,
+2337960	2338380	qui est un peu
+2338380	2341740	l'institution parente
+2341740	2342420	du logiciel libre,
+2342540	2342900	on va dire,
+2344540	2344780	vraiment,
+2344860	2345740	ils sont à côté de la plaque
+2345740	2346320	depuis dix ans.
+2346420	2347580	Ils n'ont pas du tout pris acte
+2347580	2348480	que maintenant,
+2348580	2349440	on vit dans une société
+2349440	2350480	où il y a des réseaux sociaux,
+2351080	2351880	où plein de gens
+2351880	2353400	utilisent des services en ligne
+2353400	2355400	et où on a des smartphones
+2355400	2356200	dans les mains tout le temps.
+2356460	2356640	Et ça,
+2357960	2358940	ils n'en ont vraiment rien fait.
+2359560	2359960	Alors du coup,
+2360020	2361380	j'ai pris un exemple
+2361380	2363340	pour vous montrer
+2363340	2364340	vraiment
+2364340	2365900	très contemporain
+2365900	2366220	et très,
+2366640	2368780	c'était il y a quelques semaines,
+2368840	2369480	il y a quelques mois,
+2370240	2371360	le librisme radical
+2371360	2372400	dans le collectif chaton
+2372400	2373220	qui empêche
+2373220	2374020	vraiment,
+2374220	2374780	à mon sens,
+2375920	2376800	la lutte,
+2376800	2377920	la lutte numérique,
+2378180	2379740	la lutte alternumérique,
+2379820	2380660	je ne sais pas comment appeler ça,
+2381200	2382300	qui empêche
+2382300	2382880	d'avancer
+2382880	2383720	dans le collectif chaton.
+2385040	2386100	Alors le collectif chaton,
+2386220	2387240	alors qu'est-ce que c'est ?
+2387240	2387580	C'est un peu
+2387580	2388720	les amables du numérique.
+2389260	2389820	Alors vous connaissez
+2389820	2390780	sans doute Framasoft
+2390780	2391860	qui est une association
+2391860	2393760	qui fait des services
+2393760	2395520	un peu
+2395520	2397360	bienveillants,
+2397520	2398040	loyaux,
+2398320	2398620	tout ça,
+2398760	2399860	la bonne informatique
+2399860	2400380	comme on aime,
+2401380	2402440	avec les Framaspad,
+2402540	2403020	par exemple,
+2403200	2403960	ou les Framasdate.
+2405620	2406660	Entre 2014
+2406660	2408260	et 2017,
+2408380	2409360	ils ont fait une campagne
+2409360	2409780	qui s'appelait
+2409780	2411720	« Dégouglisons Internet »
+2411720	2412500	où en gros,
+2412560	2412840	ils ont dit
+2412840	2413660	« Ciao les gars-femmes,
+2413800	2414420	nous on va essayer
+2414420	2414880	de créer
+2414880	2418220	une plateforme
+2418220	2420080	avec plein de petits services
+2420080	2420920	libres,
+2421880	2423140	en tout cas des équivalents
+2423140	2424260	avec des logiciels libres,
+2424660	2426220	de tous les services centralisés,
+2426460	2427120	genre voilà,
+2427420	2428100	Google Docs,
+2428160	2429120	ils ont créé
+2429120	2429780	Framaspad,
+2430560	2431040	ou alors
+2431040	2432000	Google Agenda,
+2432120	2432500	ils ont créé
+2432500	2433260	Framasagenda,
+2434320	2436000	les petits services
+2436000	2437340	pour héberger des images,
+2437880	2438340	Doodle,
+2438540	2440040	le truc pour se mettre
+2440040	2440980	d'accord sur une date
+2440980	2441440	de réunion,
+2441560	2441960	ils ont créé
+2441960	2442600	Framasdate,
+2443020	2443360	et ainsi de suite.
+2443520	2444240	Donc ils ont pris
+2444240	2445040	un par un
+2445040	2447320	tous les services
+2447320	2448060	centralisés
+2448060	2448640	des GAFAM
+2448640	2449100	et puis ils se sont dit
+2449100	2449880	« Nous, on va créer
+2449880	2450840	un Framas machin
+2450840	2452760	comme alternative. »
+2452760	2453040	Et du coup,
+2453080	2454060	ça a vachement bien marché,
+2454580	2454780	du coup,
+2454820	2455740	ils commençaient à grossir,
+2455840	2456560	grossir, grossir,
+2456600	2456980	et puis à un moment,
+2457060	2457340	ils se sont dit
+2457340	2457780	« Mais attendez,
+2458380	2458680	le but,
+2458780	2459360	ce n'est pas que nous,
+2459420	2460420	on recentralise
+2460420	2461680	l'Internet autour de nous,
+2462180	2462360	nous,
+2462500	2463340	on promeut
+2463340	2465080	un modèle décentralisé. »
+2465080	2465740	Donc ils se sont lancés
+2465740	2468080	dans une dynamique
+2468080	2468740	d'essaimage
+2468740	2469980	pour créer un peu
+2469980	2470900	des amables du numérique,
+2471040	2471900	plein d'amables du numérique
+2471900	2472440	un peu partout.
+2473480	2473960	Et ils ont appelé ça
+2473960	2474580	« Les chatons ».
+2474580	2475860	Alors c'est un acronyme
+2475860	2476400	un peu rigolo,
+2476540	2478140	c'est le collectif
+2478140	2479060	des hébergeurs
+2479060	2480200	alternatifs,
+2480300	2480940	transparents,
+2481000	2481280	ouverts,
+2481420	2482320	neutres et solidaires.
+2482880	2483340	Et puis du coup,
+2483420	2483860	il y en a plein,
+2484000	2484600	je ne sais pas combien
+2484600	2485640	ils sont exactement maintenant,
+2485760	2486680	entre 50 et 100,
+2486780	2487060	je pense,
+2487860	2489040	soit des collectifs,
+2489200	2491480	soit des particuliers,
+2491580	2491780	des fois,
+2491840	2492620	il y a même potentiellement
+2492620	2493260	des entreprises
+2493260	2494280	ou des sociétés dedans.
+2495900	2496360	Et tout ça,
+2496440	2496920	c'est défini
+2496920	2498220	par rapport à une charte.
+2498220	2500540	Et dans la charte,
+2500600	2500860	eh bien,
+2501460	2502160	était écrit
+2502160	2503520	« Il faut 100%
+2503520	2505000	de logiciel libre. »
+2505000	2505880	Vraiment 100%,
+2505880	2507420	genre pas 95%,
+2507420	2508740	pas 99%,
+2508740	2509500	mais 100%
+2509500	2510260	de logiciel libre.
+2511200	2511460	Et en fait,
+2511540	2512060	ça a été quand même
+2512060	2512740	rapidement,
+2513540	2513840	c'est quand même
+2513840	2514560	apparu rapidement
+2514560	2516760	que c'était un truc
+2516760	2517600	un peu intenable,
+2518080	2518460	ambigu,
+2518720	2519740	plein de zones grises.
+2519740	2521820	par exemple,
+2522600	2523260	par exemple,
+2523380	2524460	dans les chatons,
+2524920	2525380	il y a des gens
+2525380	2525960	qui ont montré
+2525960	2526460	des ponts
+2526460	2527360	entre WhatsApp
+2527360	2529480	et puis une autre,
+2530020	2530420	on va dire,
+2530540	2531220	une autre application
+2531220	2531960	de messagerie
+2531960	2533040	libre et décentralisée
+2533040	2533780	qui s'appelle Matrix.
+2534920	2535380	Ils ont monté
+2535380	2535960	un pont comme ça
+2535960	2537040	pour que ce soit possible
+2537040	2537960	de discuter avec des gens
+2537960	2538560	sur WhatsApp
+2538560	2540380	sans être inscrit
+2540380	2540980	sur WhatsApp.
+2541920	2542660	Parce que souvent,
+2542780	2544320	on est dans le dilemme
+2544320	2545520	infernal de soit
+2545520	2547120	tu es en lien
+2547120	2547980	avec ta famille
+2547980	2548620	et tes amis,
+2548620	2549600	mais tu es sur WhatsApp
+2549600	2551060	et ce n'est pas bien
+2551060	2552340	parce que c'est méchant.
+2553540	2553940	Soit,
+2554180	2555580	tu ne te cites pas WhatsApp
+2555580	2557640	mais tu es isolé socialement.
+2558060	2558860	C'est un peu dommage.
+2559520	2560560	En recréant
+2560560	2561960	de l'interopérabilité,
+2562100	2563060	comme on dit techniquement,
+2563200	2564200	en recréant des ponts
+2564200	2564900	entre WhatsApp
+2564900	2565800	et d'autres technologies,
+2566340	2567740	ça permet de sortir
+2567740	2569360	un peu de ce dilemme
+2569360	2570060	stupide.
+2572380	2572780	Pourtant,
+2572900	2573660	pour faire ce pont,
+2573820	2575160	ça nécessite que quelque part
+2575160	2576460	dans la map du numérique,
+2576580	2577060	le chaton,
+2577560	2578600	il y ait une brique logiciel
+2578600	2579380	il y ait WhatsApp
+2579380	2581920	qui tourne sur une machine virtuelle,
+2581980	2582660	un truc, machin.
+2582800	2583020	Du coup,
+2583060	2584280	il y a un logiciel propriétaire
+2584280	2585320	dans l'infrastructure
+2585320	2586260	des chatons.
+2587020	2587220	Du coup,
+2587280	2587800	pas bien,
+2588000	2588120	là,
+2588200	2588460	les livres,
+2588560	2588700	ils se disent,
+2588760	2589420	c'est pas bien.
+2590700	2592020	Et même dans les débats,
+2592320	2593140	dans les discussions,
+2593380	2595060	ils ont même réalisé
+2595060	2596060	que le logo chaton,
+2596200	2596740	celui-là,
+2596840	2597600	il a été fait avec
+2597600	2599260	Adobe Illustrator
+2599260	2599660	et alors là,
+2599700	2600260	il y avait vraiment des gens
+2600260	2602000	pour soutenir le fait
+2602000	2603240	que c'est pas bien,
+2603340	2604220	il faut refaire le logo.
+2604220	2608340	Ça va jusqu'où cette histoire ?
+2608340	2608760	Est-ce que j'ai le droit
+2608760	2609360	d'avoir des amis
+2609360	2610300	qui utilisent des logiciels
+2610300	2611240	propriétaires aussi ?
+2611240	2612680	Est-ce que c'est interdit ?
+2614420	2615760	Et c'était même excluant
+2615760	2617620	parce qu'il y a même
+2617620	2618280	des collectifs
+2618280	2619200	qui se faisaient refouler
+2619200	2619880	qui ne pouvaient pas
+2619880	2620660	devenir chatons
+2620660	2621480	parce qu'ils avaient
+2621480	2622220	une petite bricole
+2622220	2623000	de logiciels libres
+2623000	2623820	dans l'infrastructure
+2623820	2624800	qui pourtant était
+2624800	2625880	potentiellement légitime
+2625880	2626380	parce que c'était
+2626380	2628280	quand même une zone grise.
+2628440	2629040	C'est pas juste
+2629040	2629720	si c'est libre,
+2629820	2630240	c'est proprio.
+2630240	2633700	Alors du coup,
+2633760	2634340	il y a une proposition
+2634340	2635280	d'adapter la charte
+2635280	2635620	pour dire,
+2635800	2636020	en fait,
+2636180	2636820	on ne veut pas 100%
+2636820	2637280	de logiciels libres,
+2637340	2638260	c'est une espèce d'idéal
+2638260	2638860	qu'il faut chercher
+2638860	2639900	à atteindre
+2639900	2641040	et puis il faut prendre acte
+2641040	2641860	qu'il y a des zones grises
+2641860	2643700	qui sont parfois légitimes
+2643700	2643980	et tout.
+2644560	2644780	Et du coup,
+2644920	2645040	là,
+2645220	2646320	c'est un gros schisme
+2646320	2647900	dans la...
+2647900	2649140	Il y a un peu un schisme
+2649140	2649700	qui s'est fait
+2649700	2651200	dans la communauté
+2651200	2651720	des chatons
+2651720	2652880	avec d'un côté
+2652880	2654180	les libristes radicales
+2654180	2654580	qui disaient
+2654580	2654800	non,
+2654860	2655640	il faut 100%
+2655640	2656360	de logiciels libres
+2656360	2657500	quoi qu'il en coûte
+2657500	2658300	quitte à exclure
+2658300	2659100	des collectifs
+2659100	2660200	du collectif
+2660240	2661040	quitte à exclure
+2661040	2661580	des personnes,
+2661740	2662180	quitte à exclure
+2662180	2662800	des usages,
+2663000	2664500	quitte à toucher
+2664500	2665400	des millions de personnes
+2665400	2665860	en moins,
+2666060	2666760	peu importe,
+2666860	2668420	on ne va pas se contenter
+2668420	2669740	de 99% de libres,
+2670140	2671820	vraiment 100% de libres.
+2673700	2674180	Et puis,
+2674240	2674640	de l'autre côté,
+2674740	2675560	les gens qui sont plus
+2675560	2676100	pour un truc,
+2676300	2676480	voilà,
+2676660	2677100	l'important,
+2677300	2678080	c'est l'émancipation,
+2678360	2680140	c'est d'équilibrer
+2680140	2680780	le pragmatisme
+2680780	2681520	avec la finalité.
+2681660	2681780	D'ailleurs,
+2681860	2682360	le logiciel libre,
+2682440	2683280	il n'est ni suffisant
+2683280	2683920	ni nécessaire.
+2684400	2684540	Ça,
+2684600	2685340	je vais l'expliquer
+2685340	2685880	juste après
+2685880	2687960	pourquoi il n'est nécessaire.
+2687960	2689760	Et puis,
+2689760	2689940	en fait,
+2690000	2690700	quand on réfléchit,
+2690780	2691040	les gens,
+2691120	2691800	ils ne viennent pas utiliser
+2691800	2692360	le chaton
+2692360	2692820	ou ils ne viennent pas
+2692820	2693640	utiliser Framasoft
+2693640	2695400	pour avoir la certitude
+2695400	2696160	qu'il y a 100%
+2696160	2696880	de logiciel libre
+2696880	2697960	et pas 99%
+2697960	2698400	de logiciel libre.
+2698760	2699460	Ils viennent pour
+2699460	2701900	l'informatique décentralisée,
+2702020	2702640	bienveillante,
+2702800	2703220	loyale,
+2703360	2703840	solidaire,
+2703960	2704460	conviviale,
+2704560	2704800	tout ça,
+2704940	2705060	voilà,
+2705140	2705780	tous les mots
+2705780	2706720	qu'on a envie d'avoir.
+2706720	2709860	Et vraiment,
+2710020	2710880	ça en est vraiment venu
+2710880	2711940	au point où malheureusement,
+2712560	2714180	le librisme radical,
+2714300	2716180	il freine l'évolution
+2716180	2716760	de la lutte
+2716760	2717660	vers des trucs
+2717660	2718980	qui seraient pertinents.
+2720260	2720620	Alors,
+2720680	2721140	je dis schisme,
+2721260	2721580	au final,
+2721700	2721800	bon,
+2721860	2721980	voilà,
+2722020	2722580	ils ont voté
+2722580	2723240	et puis du coup,
+2723360	2723800	il y avait quand même
+2723800	2725020	une majorité de chatons
+2725020	2725760	qui étaient plutôt
+2725760	2727060	dans l'informatique
+2727060	2727740	émancipatrice
+2727740	2728940	plutôt que dans le librisme radical,
+2729220	2731600	mais il y a eu quand même
+2731600	2733240	beaucoup d'énergie perdue
+2733240	2733840	là-dedans.
+2734000	2734480	Il y a même des gens
+2734480	2735100	qui se sont barrés
+2735100	2737040	juste parce qu'il y avait
+2737040	2737960	des débats interminables.
+2738340	2738480	Alors,
+2738600	2739460	je propose de parler
+2739460	2740300	d'un autre exemple.
+2740460	2740520	Alors,
+2740520	2740820	je suis en train
+2740820	2741700	d'exploser le temps.
+2742400	2742680	Malheureusement,
+2742840	2743040	je crois,
+2743120	2743620	je ne sais pas trop.
+2743760	2744080	Je vais essayer
+2744080	2745720	d'aller vite.
+2746400	2747260	Un autre exemple,
+2747500	2749260	ça raccroche
+2749260	2750400	aux coopératives là.
+2751860	2753600	La licence copyleft
+2753600	2755080	de CoopCycle.
+2755660	2756120	Il me semble qu'il y avait
+2756120	2757140	quelqu'un dans les commentaires
+2757140	2758780	sur l'extranet
+2758780	2760420	qui avait dit
+2760420	2760580	« Ouais,
+2760620	2760720	moi,
+2760720	2761400	je suis dans copyleft
+2761400	2761740	et justement,
+2761820	2762540	ça m'intéresse vachement
+2762540	2763400	parce que c'est construit
+2763400	2764540	sur la critique
+2764540	2765260	de le salier machin.
+2765940	2766260	Copyleft,
+2766360	2768340	c'est une société,
+2768800	2769520	une coopérative
+2769520	2769740	pardon,
+2769980	2770440	de livreurs
+2770440	2773340	de repas
+2773340	2773760	ou quelque chose
+2773760	2774040	comme ça,
+2774120	2774740	livreurs à vélo.
+2776020	2776240	Et puis,
+2776340	2776900	pour gérer
+2776900	2778700	leur livraison,
+2778840	2779120	ils développent
+2779120	2779900	un logiciel.
+2780360	2780380	Alors,
+2780480	2781420	c'est à la fois
+2781420	2781980	une plateforme
+2781980	2782320	et à la fois
+2782320	2782900	une application
+2782900	2783340	qui s'appelle
+2783340	2784100	CoopCycle.
+2784800	2785400	C'est le même nom
+2785400	2787420	que la coopérative.
+2788080	2788260	Et puis,
+2788360	2788780	ils ont commencé
+2788780	2789300	à se dire
+2789300	2790000	« En fait,
+2790180	2791920	si Uber
+2791920	2792720	est délivré
+2792720	2793260	ou il chope
+2793260	2793940	notre logiciel
+2793940	2794600	et puis ils commencent
+2794600	2795940	à gérer
+2795940	2797040	leur livraison
+2797040	2797440	eux aussi
+2797440	2797960	avec le truc,
+2798020	2798960	on aura tout perdu
+2798960	2799640	parce qu'on aura
+2799640	2800620	travaillé gratuitement
+2800620	2802020	pour le néolibéralisme.
+2802780	2803060	Du coup,
+2803160	2803580	c'est quand même
+2803580	2804040	pas ouf.
+2804160	2804320	Du coup,
+2804400	2804860	ce serait quand même
+2804860	2805960	assez cool
+2805960	2807200	de trouver un truc
+2807200	2810060	pour que ça ne se produise pas.
+2810060	2812460	ils ont choisi
+2812460	2813140	de limiter
+2813140	2813980	l'usage commercial
+2813980	2816440	de leur logiciel
+2816440	2817320	aux seules entreprises
+2817320	2817800	coopératives
+2817800	2819720	avec une nouvelle licence
+2819720	2820240	qui s'appelle
+2820240	2821580	le copyleft.
+2821700	2821800	Voilà,
+2821880	2822540	c'est un petit jeu de mots.
+2823800	2824200	Il y a aussi
+2824200	2825220	l'histoire du copyright.
+2825620	2826100	Le copyright,
+2826260	2827360	c'est le droit d'auteur
+2827360	2827740	et puis,
+2827860	2828040	du coup,
+2828120	2828380	il y a les gens
+2828380	2828980	qui ont inventé
+2828980	2830340	le copyleft.
+2830600	2830840	C'est un peu
+2830840	2831800	le gauche d'auteur
+2831800	2832560	et du coup,
+2832640	2833400	le copyleft,
+2833500	2834800	c'est le coopératif
+2834800	2835700	gauchiste d'auteur.
+2839780	2840700	Et du coup,
+2840820	2840940	ça,
+2841020	2841340	c'est un truc
+2841340	2842180	tout à fait légitime
+2842180	2842640	mais pourtant,
+2842740	2843200	les libristes,
+2843280	2844020	ils ne sont pas contents
+2844020	2844420	parce que,
+2844420	2846200	tu limites
+2846200	2847500	l'usage commercial
+2847500	2848780	aux entreprises coopératives,
+2848920	2849120	du coup,
+2849200	2849760	ça veut dire que
+2849760	2851020	la liberté zéro
+2851020	2851720	du logiciel libre
+2851720	2852600	n'est pas respectée
+2852600	2852980	et du coup,
+2853060	2853880	ce n'est pas du logiciel libre.
+2855260	2855700	En fait,
+2855740	2856320	des trucs comme ça,
+2856420	2857920	il y en a d'autres
+2857920	2858780	qui commencent à émerger.
+2859060	2859200	En fait,
+2859260	2859940	la problématique
+2859940	2860680	que les gens se posent,
+2860800	2861700	c'est comment est-ce
+2861700	2863000	qu'on casse ce truc
+2863000	2864640	où on pense faire
+2864640	2865500	des communs
+2865500	2865880	et en fait,
+2865980	2866580	ça nourrit
+2866580	2868120	le capital néolibéral.
+2868960	2869940	Comment est-ce qu'on fait
+2869940	2871400	pour imposer une réciprocité
+2871400	2871980	ou alors,
+2872200	2872620	comment est-ce qu'on fait
+2872620	2873760	pour séparer complètement
+2873760	2876040	les deux ?
+2876040	2876220	Voilà,
+2876260	2876340	ça,
+2876400	2876800	c'est ce qu'on appelle
+2876800	2877880	le post-open source
+2877880	2879080	ou le copyleft,
+2879420	2881660	l'extrême gauche d'auteur,
+2881780	2882380	on pourrait dire.
+2883580	2883880	Tout ça,
+2883940	2884180	c'est un peu
+2884180	2885280	des licences
+2885280	2886940	qui expérimentent
+2886940	2887240	avec
+2887240	2889480	qu'est-ce qu'on peut voir
+2889480	2890020	au-delà
+2890020	2890880	du logiciel libre.
+2891620	2891640	Donc,
+2891660	2892680	il y a la licence copyleft,
+2892760	2893200	il y a la licence
+2893200	2894160	anticapitaliste
+2894160	2894580	où en gros,
+2894660	2895120	c'est un peu comme
+2895120	2895920	la licence copyleft,
+2896020	2896160	en gros,
+2896220	2896600	vous avez le droit
+2896600	2897580	d'utiliser le logiciel
+2897580	2899140	sauf si vous êtes
+2899140	2900200	un truc qui profite,
+2901300	2901940	qui fait du profit
+2901940	2902960	sur le dos des travailleurs.
+2904800	2905720	Sous un autre angle,
+2905820	2906400	il y a la licence
+2906400	2907100	hypocrate
+2907100	2909700	qui interdit
+2909700	2909980	en gros
+2909980	2910720	les trucs dégueulasses,
+2910880	2911640	c'est-à-dire qu'on n'a pas
+2911640	2912100	le droit d'utiliser
+2912100	2912700	le logiciel
+2912700	2913880	pour faire des atteintes
+2913880	2914480	aux droits de l'homme,
+2914920	2915380	on n'a pas le droit
+2915380	2915960	d'utiliser le logiciel
+2915960	2917880	pour faire des écocides,
+2918100	2919140	là, tout le truc
+2919140	2920580	de faire de l'extraction
+2920580	2921860	de ressources fossiles,
+2921860	2923220	tout ça interdit.
+2924180	2925160	Exploiter les travailleurs,
+2925280	2925540	pareil.
+2927040	2927280	Voilà, ça,
+2927360	2927780	c'est un truc,
+2927840	2929200	une tentative de codification
+2929200	2930180	des usages
+2930180	2930920	qui sont autorisés,
+2931000	2931520	pas autorisés.
+2932280	2933580	La licence non violente
+2933580	2935700	et la version coopérative,
+2935860	2935920	aussi,
+2936020	2936840	c'est le même genre
+2936840	2937920	de truc.
+2938100	2938520	Ou alors,
+2938580	2938740	voilà,
+2938780	2938960	il y a aussi
+2938960	2940280	les licences à réciprocité.
+2940440	2940460	Alors,
+2940540	2940900	j'ai pas trop,
+2941280	2941960	j'ai cherché pourtant,
+2942020	2942840	mais j'ai pas trop compris
+2942840	2944260	vraiment les modalités précises
+2944260	2944560	de,
+2945360	2946580	c'est quoi la réciprocité,
+2946740	2947320	mais en gros,
+2947520	2947760	l'idée,
+2947860	2948660	c'est d'essayer de dire
+2948660	2950040	la commercialisation,
+2950200	2951260	c'est possible seulement
+2951260	2951980	en échange
+2951980	2953300	d'une contrepartie financière.
+2954660	2954780	Voilà,
+2954820	2955640	donc toujours avec cette idée
+2955640	2956320	de limiter
+2956320	2958220	le truc
+2958220	2958980	où les communs
+2958980	2959920	peuvent nourrir le capital.
+2960520	2960620	Voilà,
+2960720	2960980	au moins,
+2961060	2962060	si le capital utilise
+2962060	2963060	les communs,
+2963140	2963640	il faut qu'il y ait
+2963640	2964320	un truc en retour.
+2965400	2965860	Et tout ça,
+2965980	2967720	c'est pas du logiciel libre,
+2967800	2968440	c'est pas du logiciel libre,
+2968720	2969040	en tout cas,
+2969100	2970480	pas au sens classique du terme.
+2972880	2973160	Voilà,
+2973260	2973720	les libristes,
+2973780	2974220	ils sont pas contents.
+2974340	2974440	Alors,
+2974520	2974920	heureusement,
+2975040	2975780	tout le monde n'est pas
+2975780	2977180	dans le librisme radical.
+2977180	2979440	Il y a des gens
+2979440	2981040	qui se revendiquent
+2981040	2981560	libristes,
+2982040	2982940	mais qui ont bien compris
+2982940	2984900	que la problématique
+2984900	2985800	dépasse tout à fait
+2985800	2986560	le cadre du logiciel libre
+2986560	2987340	et qu'il ne faut pas non plus
+2987340	2988780	rentrer dans un truc dogmatique
+2988780	2990980	sur absolument défendre
+2990980	2991820	les quatre libertés
+2991820	2992660	et avoir 100%
+2992660	2993420	de logiciel libre.
+2993960	2994060	Voilà,
+2994140	2994700	Framasoft,
+2994780	2995200	par exemple,
+2995320	2995720	c'est vraiment
+2995720	2996480	l'avant-garde
+2996480	2996780	un peu
+2996780	3001860	de la lutte
+3001860	3004800	cyber-libertaire.
+3004900	3005160	Je ne sais pas
+3005160	3005720	comment on peut le faire.
+3005720	3008360	finir là-dessus
+3008360	3009120	juste après.
+3010500	3011740	Mais le fait est
+3011740	3012960	que les libristes,
+3013040	3013160	là,
+3013260	3014200	ils nous retiennent
+3014200	3014920	par le col.
+3015020	3015180	On dit
+3015180	3015660	« Non, non, non,
+3015700	3016580	tu ne peux pas aller faire ça,
+3016660	3018280	ce n'est pas du logiciel libre. »
+3018280	3018800	Et comme, en fait,
+3018840	3020180	on n'a pas de référentiel
+3020180	3021320	pour dire
+3021320	3021520	« Ah non,
+3021540	3021760	mais nous,
+3021820	3022440	on ne défend pas
+3022440	3022940	le logiciel libre,
+3023020	3024460	on défend autre chose. »
+3024460	3024640	Eh bien,
+3024680	3025620	on est vraiment bloqué
+3025620	3026720	un peu dans le statut quo
+3026720	3027860	où tout le monde
+3027860	3028780	est super frileux
+3028780	3029720	d'utiliser
+3029720	3031720	les licences comme ça.
+3032240	3032440	Alors là,
+3032460	3032840	on a quand même
+3032840	3033800	des exemples
+3033800	3035400	comme Copcycle
+3035400	3036760	qui font des trucs,
+3036840	3037280	mais ça reste
+3037280	3037860	pour le moment
+3037860	3038700	un peu des trucs
+3038700	3039200	d'exception.
+3041120	3041680	Alors voilà,
+3041960	3042800	ça m'emmène un peu
+3042800	3043880	vers la conclusion doucement,
+3043960	3044280	mais sûrement,
+3044420	3045100	qu'est-ce qu'on défend
+3045100	3046980	vraiment derrière tout ça ?
+3046980	3047400	Et comment est-ce
+3047400	3048120	qu'on pourrait mettre
+3048120	3048520	des mots
+3048520	3049220	sur ce qu'on défend
+3049220	3049700	vraiment
+3049700	3051640	au travers du logiciel libre,
+3051800	3052700	mais pas que ?
+3052700	3053860	Parce que le logiciel libre,
+3054540	3055720	c'est juste
+3055720	3057900	un morceau de lutte
+3057900	3059320	parmi toutes les luttes
+3059320	3061360	un peu cyber-numériques.
+3061360	3062360	Moi, là,
+3062360	3062680	j'ai essayé
+3062680	3063380	de représenter
+3063380	3064160	graphiquement
+3064160	3067460	les différents combats
+3067460	3069060	qui sont menés
+3069060	3071080	depuis 40-50 ans
+3071080	3071440	maintenant.
+3073360	3073900	Là, il y a
+3073900	3074520	le logiciel libre
+3074520	3075800	versus le logiciel propriétaire,
+3075900	3076040	mais ça,
+3076480	3076940	on pourrait dire
+3076940	3077380	que c'est un truc
+3077380	3078180	un peu plus général
+3078180	3080260	de la propriété intellectuelle
+3080260	3081180	versus l'économie
+3081180	3082080	des communs
+3082080	3082960	qui touche aussi bien
+3082960	3083560	à la culture
+3083560	3084400	que la science,
+3085040	3085960	les semences,
+3086080	3086480	les brevets
+3086480	3087260	sur les technologies,
+3087400	3087560	etc.
+3087780	3088000	Des fois,
+3088860	3089720	les brevets,
+3089720	3091420	même Apple,
+3091480	3092580	ils ont limite breveté
+3092580	3093640	le rectangle arrondi
+3093640	3094020	à un moment.
+3094560	3095180	On en est là,
+3095280	3096220	ils brevettent
+3096220	3097520	des formes géométriques.
+3099900	3100700	De l'autre côté,
+3100860	3102400	on a le capitalisme
+3102400	3102880	de surveillance,
+3103140	3104140	l'économie de l'attention,
+3105000	3105780	la technopolis,
+3105940	3107640	les différents États
+3107640	3108280	qui essayent
+3108280	3108540	de mettre
+3108540	3108860	une espèce
+3108860	3109860	de contrôle social
+3109860	3110700	au nom
+3110700	3112240	de la lutte
+3112240	3112920	antiterroriste,
+3113040	3113220	etc.
+3113220	3115600	de la surveillance
+3115600	3116620	généralisée partout.
+3116780	3116900	Nous,
+3116940	3117380	on défend
+3117380	3118700	Internet décentralisé,
+3118860	3119520	la vie privée,
+3119680	3120140	et ainsi de suite.
+3120720	3120900	Et puis,
+3120960	3121220	il y a aussi
+3121220	3121820	un autre truc
+3121820	3123780	un peu plus flou,
+3123940	3126140	c'est l'obscurantisme
+3126140	3126760	technologique
+3126760	3127520	qui est un peu
+3127520	3128140	refourgué
+3128140	3129220	par les multinationales
+3129220	3130580	de la Big Tech.
+3131720	3132120	Nous,
+3132200	3132380	on essaie
+3132380	3132880	de défendre
+3132880	3133760	une émancipation,
+3133860	3134460	une éducation
+3134460	3135180	aux technologies.
+3137080	3137760	L'apologie
+3137760	3138440	de la high tech,
+3138880	3139060	ça,
+3139140	3139560	c'est un truc
+3139560	3140220	qui n'est pas forcément
+3140220	3141720	critiqué
+3141720	3143360	par les libristes,
+3143460	3143980	alors que pourtant,
+3144180	3144820	Dieu sait que maintenant,
+3144940	3145400	il faudrait quand même
+3145400	3145980	réfléchir à
+3145980	3146980	la sobriété
+3146980	3148820	dans l'espace numérique.
+3149320	3149800	Et puis aussi,
+3149880	3150680	l'inclusivité,
+3150780	3151420	l'accessibilité
+3151420	3151940	des outils,
+3152220	3152840	ça commence à devenir
+3152840	3153080	un truc
+3153080	3153560	qu'on ne peut plus
+3153560	3155500	faire l'impasse dessus.
+3157820	3158400	J'ai essayé
+3158400	3159020	de représenter ça
+3159020	3159560	différemment
+3159560	3161020	pour représenter
+3161020	3161940	le fait que
+3161940	3162760	les libristes
+3162760	3164380	critiquent un peu
+3164380	3164660	l'espèce
+3164660	3165940	de néo-féodalisme.
+3166140	3166880	Le néo-féodalisme,
+3166980	3167240	si vous voulez,
+3167360	3167820	c'est que vous êtes
+3167820	3168520	chez Microsoft,
+3169080	3169820	vous êtes un peu
+3169820	3170400	un péon
+3170400	3172620	dans le paysage
+3172620	3173100	de Microsoft,
+3173280	3174080	ils vous imposent
+3174080	3175720	leur choix technique,
+3176060	3176560	ils vous imposent
+3176560	3177200	comment ça fonctionne
+3177200	3178120	et puis vous,
+3178160	3178740	vous avez juste
+3178740	3179360	à accepter
+3179360	3180320	et vous n'avez pas
+3180320	3181060	votre mot à dire.
+3181880	3182160	Alors du coup,
+3182220	3182900	ce que les libristes
+3182900	3183320	y défendent,
+3183380	3183620	c'est un peu
+3183620	3184280	ce qu'on pourrait appeler
+3184280	3185480	une espèce de démocratie
+3185480	3186240	technocratique,
+3186400	3187200	c'est-à-dire que,
+3187560	3188080	étant donné
+3188080	3189700	les quatre libertés
+3189700	3190920	avec les trois libertés
+3190920	3191760	qui concernent
+3191760	3192300	les développeurs,
+3193100	3194240	alors certes,
+3194260	3195020	c'est de la démocratie,
+3195200	3195640	donc c'est pour ça
+3195640	3196500	qu'ils sont convaincus
+3196500	3197900	que c'est nécessaire,
+3197900	3199560	peut-être que ce n'est pas
+3199560	3199900	suffisant,
+3199980	3200540	mais c'est nécessaire,
+3200740	3201000	mais en fait,
+3201060	3202240	la démocratie qu'ils défendent,
+3202320	3202940	c'est une démocratie
+3202940	3203760	technocratique
+3203760	3205240	où les utilisateurs,
+3205320	3206080	ils ne font pas du tout
+3206080	3207860	partie de ces gens,
+3207940	3209840	ils n'ont pas trop
+3209840	3210620	leur mot à dire
+3210620	3212400	s'ils ne savent pas
+3212400	3213000	coder
+3213000	3213740	ou s'ils ne savent pas
+3213740	3214780	aller poster un ticket
+3214780	3216180	sur l'interface
+3216180	3216660	où on rapporte
+3216660	3217040	les problèmes
+3217040	3217620	avec le logiciel.
+3221120	3221620	Et du coup,
+3221700	3222020	la question,
+3222180	3222420	c'est en fait,
+3222500	3223080	comment est-ce qu'on va
+3223080	3224720	plus loin que la démocratie
+3224720	3225700	technocratique défendue
+3225700	3228300	par les libristes ?
+3228300	3228580	Alors voilà,
+3228960	3229060	moi,
+3229780	3230780	la manière dont je formule
+3230780	3231380	les choses maintenant,
+3231500	3231800	c'est que je dis,
+3232120	3232280	en fait,
+3232320	3232900	ce qu'on défend
+3232900	3233880	dans toutes ces luttes-là,
+3234080	3235920	c'est une vision libertaire
+3235920	3237780	appliquée à l'espace numérique,
+3237900	3239980	au cyberespace,
+3241060	3242100	ou à l'espace numérique,
+3242180	3243120	si vous préférez.
+3243520	3243740	Et du coup,
+3243740	3243940	voilà,
+3244100	3244560	pour moi,
+3244740	3245320	ce qu'on défend,
+3246120	3247300	ou ce que Framasoft défend,
+3247420	3248020	par exemple,
+3248100	3248960	même s'ils ne le disent pas,
+3249060	3249480	pour moi,
+3249600	3250120	à mon sens,
+3250620	3252120	c'est le cyberanarchisme,
+3252280	3253080	c'est l'application
+3253080	3254740	des principes libertaires
+3254740	3256820	dans l'espace numérique,
+3256900	3257140	c'est-à-dire,
+3257240	3258160	on combat les rapports
+3258160	3258620	de domination
+3258620	3259640	qui sont véhiculés
+3259640	3260920	par la technologie.
+3261340	3262000	Combattre les rapports
+3262000	3262440	de domination,
+3262620	3262860	pour moi,
+3262880	3263820	c'est vraiment la définition
+3263820	3265160	de l'anarchisme
+3265160	3266580	ou de l'idéologie libertaire.
+3267820	3269180	Et lorsqu'on pose ça,
+3269340	3271040	le logiciel libre,
+3271180	3271600	c'est un rapport
+3271600	3272120	de domination
+3272120	3273340	parce que c'est une technocratie.
+3276340	3276580	Voilà,
+3276720	3277080	alors j'en arrive
+3277080	3277740	aux conclusions,
+3277900	3279220	même si j'ai dépassé
+3279220	3279880	le temps.
+3282060	3282980	Le logiciel libre,
+3282980	3283400	à mon sens,
+3283500	3283740	c'est vraiment
+3283740	3284680	une lutte obsolète.
+3284840	3285180	C'est pour ça
+3285180	3286000	que j'ai fait cette conférence.
+3286460	3286580	Moi,
+3286660	3287560	je défends le fait
+3287560	3289280	que c'est une lutte obsolète.
+3289980	3290840	Ça n'a pas évolué
+3290840	3292340	depuis 20 ans.
+3292480	3293040	En 2007,
+3293120	3293820	on aurait dû commencer
+3293820	3294560	à réaliser
+3294560	3296380	qu'il y avait
+3296380	3297800	un problème.
+3297980	3298560	Et en 2014,
+3298780	3299400	lorsque Microsoft
+3299400	3299760	dit,
+3299860	3300000	nous,
+3300060	3300720	on kiffe grave,
+3301260	3301680	Linux,
+3301860	3302340	les libristes
+3302340	3303480	auraient dû être terrifiés
+3303480	3304260	et auraient dû
+3304260	3304920	vraiment se remettre
+3304920	3305320	en question
+3305320	3307020	sur ce qu'ils défendaient.
+3308340	3309500	C'est ni une fin en soi,
+3309640	3310360	c'est ni suffisant,
+3310480	3311060	ni nécessaire,
+3311060	3312520	parce qu'on l'a vu
+3312520	3313500	avec le CobbCycle,
+3313580	3315080	on peut faire du logiciel
+3315080	3316600	éthique sans qu'il soit libre.
+3317400	3317460	Donc,
+3317520	3318680	il faut vraiment faire le deuil
+3318680	3318840	de,
+3318900	3319020	voilà,
+3319080	3319500	c'est libre,
+3319940	3321860	c'est bon,
+3321900	3322280	on a fini.
+3324120	3324880	Reconnaître que le problème,
+3324960	3325680	il est systémique
+3325680	3327460	et ça dépasse grandement
+3327460	3329040	le cadre du juridico-technique.
+3329200	3329880	C'est comment est-ce
+3329880	3332300	qu'on invente,
+3332560	3335340	comment est-ce qu'on réalise
+3335340	3336540	que la gouvernance,
+3336580	3336940	par exemple,
+3337020	3337700	des logiciels libres,
+3337780	3338020	tout ça,
+3338080	3338440	c'est un truc,
+3338620	3339160	on ne peut pas faire
+3339160	3339800	l'impasse dessus,
+3339800	3340260	on ne peut pas avoir
+3340260	3341260	des gouvernances toxiques
+3341260	3343380	avec des gens
+3343380	3344700	qui juste refusent
+3344700	3346200	qu'on contribue,
+3346400	3346540	enfin,
+3346640	3348480	qu'il impose
+3348480	3350940	qu'il faille forcément
+3350940	3351960	être un technicien
+3351960	3352720	pour pouvoir contribuer,
+3352780	3353000	tout ça,
+3353140	3353380	bref.
+3354340	3355080	À côté de ça,
+3355160	3355680	dans les autres luttes,
+3355740	3356200	on se fait bouffer
+3356200	3357260	par l'extrême droite,
+3357360	3358040	le néolibéralisme,
+3358120	3358720	la technopolis,
+3358840	3359660	la crise climatique,
+3359760	3359860	voilà,
+3359900	3360140	tout ça,
+3360280	3360540	maintenant,
+3360640	3362160	il faut qu'on pense
+3362160	3362880	la sobriété
+3362880	3365580	dans le numérique,
+3365660	3366700	on ne peut pas faire
+3366700	3367280	du logiciel libre
+3367280	3370120	sans penser ça,
+3370200	3370600	maintenant.
+3372380	3373280	Il faudrait aussi
+3373280	3374320	qu'ils discutent un peu,
+3374440	3374880	les libristes,
+3375000	3376000	avec les autres luttes
+3376000	3376520	pour arrêter
+3376520	3377380	de critiquer
+3377380	3380080	l'écriture inclusive
+3380080	3380600	et tout ce genre
+3380600	3380880	de trucs,
+3380960	3381320	par exemple.
+3382780	3383620	Nécessité d'expliquer
+3383620	3384240	les valeurs,
+3384340	3385500	de définir un nouveau référentiel,
+3385580	3385800	pour moi,
+3385860	3386440	on est bloqué
+3386440	3387320	dans le logiciel libre
+3387320	3388780	parce que le logiciel libre,
+3388860	3389200	c'est un truc,
+3389280	3389700	on peut dire,
+3389760	3389880	voilà,
+3389920	3390020	ça,
+3390080	3390840	c'est du logiciel libre.
+3390840	3391600	Et par contre,
+3391640	3392100	quand on discute
+3392100	3392680	avec les libristes
+3392680	3393080	pour dire,
+3393160	3393740	en fait,
+3394320	3394700	il n'y a pas besoin
+3394700	3395380	d'avoir 100%
+3395380	3396220	de logiciel libre,
+3396340	3396720	machin,
+3396880	3397360	si on défend,
+3397440	3398080	c'est de l'Internet,
+3398160	3399160	émancipateur et tout,
+3399700	3400000	en fait,
+3400040	3400820	on n'a pas de mots,
+3400980	3401420	ça n'a pas été
+3401420	3402500	vraiment formalisé.
+3403080	3403180	Alors,
+3403220	3403540	il faut voir
+3403540	3404000	dans quelle mesure
+3404000	3405180	on peut formaliser un truc,
+3405320	3405680	mais voilà,
+3405820	3407760	comment est-ce qu'on définit
+3407760	3408880	un numérique convivial,
+3408980	3409440	inclusif,
+3409560	3410400	comment est-ce qu'on met
+3410400	3411080	des contours
+3411080	3412600	pour dire aux libristes,
+3412820	3412920	nous,
+3412980	3413760	on ne défend pas la même chose,
+3413840	3413900	nous,
+3413940	3414940	on défend ce truc-là.
+3415480	3415900	Pour moi,
+3415960	3416300	il faut qu'on ait
+3416300	3417240	un nouveau référentiel,
+3417360	3417980	il faut qu'on définisse
+3417980	3418780	un manifeste,
+3418860	3419080	un truc.
+3421500	3422300	Comment est-ce qu'on fait
+3422300	3422580	autre chose
+3422580	3423560	que du logiciel libéral
+3423560	3424340	qui donne à manger
+3424340	3425640	au capitalisme ?
+3425640	3426000	Tout ça,
+3426040	3426300	tout ça.
+3427100	3427420	Et puis,
+3427500	3428480	un truc pour finir
+3428480	3428900	sur un truc
+3428900	3430140	que tout le monde
+3430140	3431140	peut faire dès maintenant,
+3431340	3432040	c'est refuser
+3432040	3432960	la technocratie,
+3433600	3434600	le technolétisme,
+3434700	3435560	la pureté militante
+3435560	3436160	dès maintenant.
+3437240	3438000	Et j'ai une anecdote,
+3438320	3438740	parce que j'étais
+3438740	3439940	dans le bureau
+3439940	3440600	avec Valérie
+3440600	3441100	l'autre jour
+3441100	3443140	qui fait les recouvrements,
+3443280	3443300	là,
+3443400	3443660	et puis,
+3443660	3445840	elle avait un bug
+3445840	3446420	qui l'empêchait
+3446420	3447600	d'accéder à l'interface
+3447600	3448420	d'Odo ou un truc.
+3449020	3449460	Et puis,
+3449520	3450440	ça faisait déjà un moment
+3450440	3450900	et on lui dit
+3450900	3451320	« Mais pourquoi
+3451320	3452200	tu nous as pas dit
+3452200	3453080	que t'avais un bug ?
+3453080	3454560	C'était pas normal. »
+3454560	3454860	Et puis,
+3454920	3455400	elle nous a dit
+3455400	3456100	« Mais moi,
+3456160	3457100	je pensais que c'était
+3457100	3457640	comme ça,
+3457820	3459760	que vous aviez décidé
+3459760	3460760	que j'avais pas le droit
+3460760	3461660	pour mon travail
+3461660	3462340	de faire ça. »
+3462340	3462600	Et du coup,
+3463300	3463460	ça,
+3463520	3463720	pour moi,
+3463760	3465240	c'était vraiment symptomatique
+3465240	3466700	du fait que
+3466700	3468080	c'est un peu genre
+3468080	3468260	vraiment,
+3468340	3469040	il y a les développeurs
+3469040	3469360	au-dessus
+3469360	3470560	qui décident pour vous
+3470560	3473120	et puis,
+3473120	3473980	il y a juste à accepter,
+3474060	3474380	il n'y a même pas
+3474380	3475640	à poser de questions
+3475640	3476260	sur pourquoi
+3476260	3477000	c'est fait comme ça.
+3479300	3479980	C'est comme ça,
+3480020	3480380	les développeurs,
+3480420	3480760	ils ont choisi,
+3480920	3481260	c'est comme ça.
+3481800	3481960	Et ça,
+3482040	3483000	c'est vraiment symptomatique
+3483000	3484220	du techno-élitisme,
+3484300	3485160	de la technocratie.
+3485800	3486300	Et il faut vraiment
+3486300	3487380	s'enlever ça de la tête
+3487380	3488460	et il faut vraiment
+3488460	3489080	se dire que
+3489080	3490180	normalement,
+3490240	3491020	vous devriez être
+3491020	3491920	au contrôle des outils.
+3492260	3492620	Alors certes,
+3492640	3493340	c'est les développeurs
+3493340	3494320	qui créent les outils,
+3494880	3495860	mais vous êtes censés,
+3496300	3496940	les développeurs,
+3497020	3497500	ils sont censés
+3497500	3498300	être à vos ordres,
+3498360	3498520	en fait,
+3498580	3499180	d'une certaine manière.
+3499320	3500120	Ils sont censés...
+3500120	3501300	Sinon,
+3501540	3504440	on a toujours un problème.
+3505240	3506100	Le deuxième truc
+3506100	3506920	que vous pouvez faire
+3506920	3508260	dès aujourd'hui,
+3508380	3509520	c'est arrêter de dire
+3509520	3510140	que vous êtes nul
+3510140	3510960	en informatique.
+3511380	3512100	Ça, c'est vraiment un truc.
+3512220	3513080	Moi, ça me rend furieux.
+3513540	3514100	Les gens qui disent
+3514100	3514740	« Moi, je suis nul
+3514740	3515620	en informatique »,
+3515620	3516160	ce n'est pas vous
+3516160	3517260	qui êtes nul en informatique,
+3517620	3518320	c'est la machine
+3518320	3519420	qui n'est pas ergonomique.
+3519880	3521200	Ce n'est pas à vous
+3521200	3521900	de vous adapter
+3521900	3523120	pour...
+3523120	3525560	de vous adapter,
+3525800	3527080	de vous aliéner le cerveau
+3527080	3528100	pour que la machine,
+3528400	3529340	pour que vous puissiez
+3529340	3530060	comprendre la machine.
+3530120	3531700	Si elle était bien faite,
+3531800	3531920	eh bien,
+3532000	3532980	vous auriez...
+3532980	3533700	ça coulerait
+3533700	3534460	relativement de source.
+3536040	3536760	Et ça,
+3536820	3537040	c'est vraiment
+3537040	3537720	un truc important
+3537720	3538300	pour lutter
+3538300	3538980	contre ce truc
+3538980	3540080	de technocratie ambiante
+3540080	3540520	qui est vraiment
+3540520	3541560	internalisé
+3541560	3542580	dans les subconscients.
+3544520	3545580	On peut utiliser Google,
+3545760	3546180	mais se battre
+3546180	3547340	pour un numérique libertaire
+3547340	3549480	sans s'auto-flageller.
+3549800	3550520	C'est précisément
+3550520	3551020	parce que
+3551020	3552160	c'est super galère
+3552160	3552780	de s'extraire
+3552780	3553140	de Google
+3553140	3554260	et de l'hégémonie
+3554260	3556380	techno-néo-féodale
+3556380	3558320	que c'est justement
+3558320	3559260	parce que c'est la merde
+3559260	3560180	de s'en extraire
+3560180	3561660	que l'on le critique.
+3562180	3562560	Et il ne faut pas
+3562560	3563340	s'auto-flageller
+3563340	3563480	en disant
+3563480	3563700	« Ah oui,
+3563700	3564240	j'utilise Google,
+3564340	3564800	ce n'est pas bien. »
+3564800	3565000	Alors ça,
+3565060	3565380	c'est vraiment
+3565380	3566720	niveau zéro
+3566720	3568080	de la réflexion politique.
+3568480	3569700	C'est un truc
+3569700	3570600	pareil ambiant
+3570600	3570940	qui traîne
+3570940	3571660	dans les subconscients,
+3571780	3572160	mais moi,
+3572220	3572600	je pense qu'il faut
+3572600	3573280	arrêter avec ça.
+3573840	3574320	Ça ne veut pas dire
+3574320	3574740	qu'il ne faut pas
+3574740	3575540	essayer de faire autrement,
+3575640	3576240	mais il faut arrêter
+3576240	3576920	de s'auto-flageller
+3576920	3577380	là-dessus.
+3578040	3578300	Et puis,
+3578360	3579180	il faut demander
+3579180	3580360	aux geeks libristes
+3580360	3581120	des alternatives
+3581120	3582040	qui fonctionnent
+3582040	3583300	même pour les non-geeks
+3583300	3583800	parce qu'il y en a
+3583800	3584240	un peu marre
+3584240	3585900	des geeks libristes
+3585900	3586560	qui font des outils
+3586560	3587740	qui fonctionnent pour eux
+3587740	3588560	et ensuite,
+3588720	3588900	ils disent
+3588900	3589080	« Ah ben,
+3589120	3589500	c'est de ta faute,
+3589580	3589940	tu n'as qu'à utiliser
+3589940	3590380	le logiciel
+3590380	3590600	que moi,
+3590660	3590960	j'ai codé
+3590960	3591920	alors qu'il n'y a
+3591920	3592100	qu'eux
+3592100	3593800	qui le comprennent. »
+3593800	3594000	Et puis,
+3594060	3594460	pour finir,
+3595020	3596700	à quand des services publics,
+3596800	3597560	des communs numériques
+3597560	3598000	en opposition
+3598000	3598740	à la Startup Nation
+3598740	3599980	parce que,
+3599980	3601420	en vrai,
+3601500	3602880	c'est un peu saoulant
+3602880	3603320	de voir
+3603320	3604740	l'État français
+3604740	3605300	qui essaye
+3605840	3606240	de copier
+3606240	3606960	les Américains
+3606960	3607720	avec des startups
+3607720	3608160	pour essayer
+3608160	3608800	de concurrencer
+3608800	3609380	les GAFAM,
+3609380	3610140	etc.,
+3610140	3610640	ça ne marche pas.
+3610840	3611940	L'État français
+3611940	3612560	ou l'Europe
+3612560	3613120	pourraient prendre
+3613120	3614460	complètement le contre-pied
+3614460	3616180	des GAFAM
+3616180	3616480	en disant
+3616480	3616720	« Nous,
+3616800	3618100	on va devenir leader
+3618100	3619520	sur les logiciels
+3619520	3620000	qui respectent
+3620000	3620600	la vie privée,
+3620700	3620900	etc.
+3621100	3621620	On va créer
+3621620	3623060	des communs numériques,
+3623140	3624000	des services publics
+3624000	3625400	pour maintenir ces communs
+3625400	3626320	et ce serait
+3626320	3627280	complètement ouf
+3627280	3628740	mais à la place,
+3628860	3629300	on est bloqué
+3629300	3631440	dans un truc néolibéral
+3631440	3632000	où on est bloqué
+3632000	3633260	dans essayer
+3633260	3634040	de faire des startups
+3634040	3634680	pour concurrencer
+3634680	3635100	les GAFAM
+3635100	3635680	et ça ne marche pas.
+3637800	3638160	Voilà,
+3638280	3638400	et puis,
+3638460	3638840	je vous ai mis
+3638840	3639580	plein de références
+3639580	3640240	et puis du coup,
+3640300	3640720	mes slides
+3640720	3641800	sont accessibles.
+3644080	3645180	On pourra les partager
+3645180	3645800	sans doute après
+3645800	3646980	la conférence.
+3647040	3647480	Je suis désolé,
+3647540	3647880	j'ai complètement
+3647880	3648660	explosé le temps.
+3648760	3649280	Je pense que j'ai fait
+3649280	3649760	une heure au lieu
+3649760	3650420	de 40 minutes.
+3655200	3655840	T'inquiète,
+3656020	3657120	tu es sur le timing
+3657120	3657720	habituel.
+3658360	3658940	Ah, ok, ça va.
+3659660	3660760	On dit toujours 40
+3660760	3661440	et ça fait une heure
+3661440	3662100	mais il ne faut pas
+3662100	3662680	trop le dire.
+3663300	3663380	Ok.
+3666200	3666920	Super, merci.
+3667320	3668820	C'était hyper intéressant.
+3668840	3669440	intéressant et là,
+3669540	3670880	on se passe la main
+3670880	3672940	à ceux qui ont des questions.
+3673320	3674100	Il y a eu pas mal
+3674100	3674640	de réactions
+3674640	3676260	dans le chat.
+3676500	3676520	Donc,
+3676760	3677680	si vous voulez intervenir,
+3677760	3678400	poser des questions,
+3678560	3678940	réagir,
+3679700	3680160	allez-y.
+3681360	3682120	C'est possible.
+3685320	3685640	Oui,
+3685700	3686080	il y a eu des gens
+3686080	3686540	qui ont parlé
+3686540	3686920	dans le chat,
+3687000	3687340	effectivement.
+3691340	3691660	Oui,
+3691920	3692140	après,
+3692200	3692700	les gens sont en train
+3692700	3693040	de manger
+3693040	3693360	donc,
+3693940	3694860	ce n'est jamais facile
+3694860	3695640	pour poser une question
+3695640	3697140	mais...
+3698840	3707820	tu as des bravos
+3707820	3708440	pour l'instant.
+3709720	3710120	Cool.
+3715520	3716380	Personne n'a de question?
+3716380	3721360	Ah,
+3721480	3722020	je crois qu'il y en a
+3722020	3722440	une qui arrive.
+3725800	3726560	Je ne veux pas parler.
+3728000	3728120	Ah,
+3728180	3728300	ok.
+3728300	3731840	Alexandre est en train
+3731840	3732140	de t'écrire
+3732140	3732620	une question.
+3735740	3736420	Je mets un lien
+3736420	3737400	vers les supports
+3737400	3740160	si vous voulez
+3740160	3740780	à les yeux télé.
+3742360	3742640	Ok.
+3743080	3743980	C'est ton site internet,
+3744120	3744480	c'est ça?
+3746200	3746880	C'est là où je mets
+3746880	3747200	mes supports
+3747200	3747620	de formation
+3747620	3748500	lorsque je fais des formations.
+3748680	3748780	Du coup,
+3748840	3749140	je me suis dit
+3749140	3750460	que c'est pratique.
+3752300	3752500	Ah,
+3752520	3752940	il y a Anne.
+3754280	3755280	Anne qui a levé la main.
+3756420	3756580	Oui.
+3757460	3757900	Je ne sais pas
+3757900	3758260	comment on gère
+3758260	3758740	la question.
+3761380	3762380	On t'entend pas, Anne.
+3762380	3762880	Je gère la question, Thibon.
+3763780	3764020	Oui.
+3764020	3766580	J'essaye.
+3767800	3768080	Bon,
+3768140	3768660	le temps qu'Anne,
+3768740	3770020	elle a un petit souci
+3770020	3770400	de micro,
+3770520	3770800	je pense.
+3771800	3772400	Le temps qu'elle puisse
+3772400	3772760	le résoudre.
+3772840	3772980	Sinon,
+3773040	3773160	Anne,
+3773200	3773560	tu peux écrire
+3773560	3774060	dans le chat.
+3775360	3775980	On verra.
+3777680	3778200	N'hésite pas
+3778200	3778840	à écrire dans le chat
+3778840	3779640	si ton micro ne marche pas.
+3780560	3781060	Mais en tout cas,
+3781100	3781540	il y a une question
+3781540	3782120	d'Alexandra
+3782120	3783240	qui dit
+3783240	3784640	comment en tant qu'entreprise
+3784640	3785840	on peut soutenir tout ça
+3785840	3787240	au-delà de ce qu'on fait déjà
+3787240	3787760	à Copaname.
+3792440	3793340	Je crois que c'est une question
+3793340	3793760	pour toi.
+3794020	3794820	Je ne sais pas.
+3795180	3795400	OK.
+3795900	3796340	Eh bien,
+3797580	3798780	soutenir tout ça,
+3798860	3799480	je ne sais pas trop.
+3803640	3804360	Là, par exemple,
+3804440	3806200	en écrivant les supports,
+3806300	3806660	je me suis dit
+3806660	3806800	tiens,
+3806880	3806980	ouais,
+3807020	3807480	Copcycle,
+3807740	3808460	ils ont fait leur truc
+3808460	3809040	en se disant
+3809040	3811280	tiens,
+3811360	3811480	ouais,
+3811560	3812100	ce serait quand même
+3812100	3813340	ballot
+3813340	3816160	si on se faisait récupérer
+3816160	3817340	par Uber et tout.
+3818300	3818640	Du coup,
+3818700	3819640	on va mettre une licence
+3819640	3820500	et je me suis dit
+3820500	3821440	mais d'ailleurs
+3821440	3823040	pour notre logiciel
+3823040	3823300	au doux,
+3823380	3825200	les modules au doux
+3825200	3825480	que nous,
+3825540	3825920	on développe,
+3826040	3826540	ce serait quand même
+3826540	3827140	vachement ballot
+3827140	3827800	si les sociétés
+3827800	3828620	de portage salarial
+3828620	3830800	tombaient sur nos add-ons
+3830800	3831620	et récupéraient le truc
+3831620	3832540	alors qu'on les a publiés
+3832540	3833160	en jeu de celles libres.
+3833320	3833480	Du coup,
+3833560	3833640	bon,
+3834080	3834280	après,
+3834360	3834680	je ne sais pas
+3834680	3835300	si c'est un truc
+3835300	3835940	dont il faut vraiment
+3835940	3836660	se préoccuper
+3836660	3838740	à notre échelle
+3838740	3842520	de coopérative,
+3842600	3842780	je ne sais pas
+3842780	3843080	s'il y a vraiment
+3843080	3843480	un risque
+3843480	3845540	que le portage salarial
+3845540	3847340	récupère nos trucs,
+3847420	3847840	je pense que ça
+3847840	3849160	est prêt d'arriver,
+3849260	3849500	mais c'est vrai
+3849500	3850260	que je me suis dit,
+3850320	3850420	merde,
+3850600	3851760	si on avait réfléchi,
+3851860	3852360	peut-être qu'on aurait
+3852360	3852980	pu mettre autre chose
+3852980	3853780	qu'une licence libre
+3853780	3855480	sur nos trucs.
+3855740	3857840	Mais à part ça,
+3857840	3863220	de manière générale,
+3863460	3863540	voilà,
+3863720	3863800	bon,
+3863860	3864200	il y a quand même
+3864200	3866500	dans ce qui traîne
+3866500	3867460	dans ce que j'ai raconté,
+3867560	3867880	c'est quand même
+3867880	3868800	il y a l'histoire
+3868800	3869700	du modèle économique
+3869700	3870540	qui est vraiment un truc
+3870540	3872160	où ça,
+3872240	3873480	c'est vraiment un débat
+3873480	3874240	qui existe depuis
+3874240	3875460	le début du licence libre,
+3875600	3875620	quoi,
+3875700	3876780	mais en fait,
+3876840	3877600	il y a vraiment aussi
+3877600	3878720	un truc sur arrêter
+3878720	3879900	de penser que tout est gratuit,
+3880640	3881100	mais du coup,
+3882260	3882420	voilà,
+3882500	3883120	comment est-ce qu'on fait
+3883120	3884840	pour récupérer de l'argent ?
+3886100	3886680	Par exemple,
+3886780	3887280	Wikipédia,
+3887280	3889460	ils ont vachement réussi
+3889460	3890420	à garder un truc
+3890420	3892360	où tous les ans,
+3892480	3893680	ils harcèlent les utilisateurs,
+3893780	3894300	les utilisatrices
+3894300	3894680	pour dire,
+3894760	3896100	il faut donner de l'argent
+3896100	3897620	et c'est un peu le chiant
+3897620	3899960	parce qu'on a des pâtés
+3899960	3900400	comme ça
+3900400	3901780	qui s'affichent
+3901780	3902380	en haut de la page
+3902380	3902860	et en même temps,
+3902960	3903360	c'est ce qui fait
+3903360	3904880	que Wikipédia reste indépendant
+3904880	3905280	et du coup,
+3905580	3906520	et pareil pour Framasoft,
+3906640	3906980	tous les ans,
+3907080	3907840	ils font une campagne
+3907840	3909840	pour avoir des sous,
+3909980	3911080	pareil pour la quadrature du net
+3911080	3911600	par exemple
+3911600	3914060	et c'est le modèle
+3914060	3914660	un peu chiant
+3914660	3915360	où il faut dépenser
+3915360	3916460	une énergie affreuse
+3917280	3919820	pour harceler les gens
+3919820	3920700	pour qu'ils donnent de l'argent
+3920700	3921160	et en même temps,
+3921280	3921780	c'est comme ça,
+3921940	3922780	c'est un peu le seul truc
+3922780	3923620	qui permet de garantir
+3923620	3926480	que c'est incommun
+3926480	3930480	et ça ne répond pas trop
+3930480	3930900	à la question
+3930900	3931720	de qu'est-ce que les entreprises
+3931720	3932200	peuvent faire
+3932200	3933460	pour soutenir tout ça.
+3933460	3938120	Le problème à l'heure actuelle,
+3938220	3939060	c'est surtout l'état d'esprit
+3939060	3939620	des libristes
+3939620	3940200	qui empêchent
+3940200	3940840	qu'on avance
+3940840	3941560	vers un autre truc
+3941560	3944600	et qui direct sortent du bois
+3944600	3945080	pour dire
+3945080	3945780	c'est pas libre
+3945780	3946340	dès qu'il y a un truc
+3946340	3948160	qui est plus de gauche
+3948160	3948960	que le logiciel libre.
+3948960	3955520	Par rapport à notre licence
+3955520	3957160	qui nous on publie
+3957160	3957780	en licence
+3957780	3958780	à Ferro-GPL
+3958780	3959580	à GPL
+3959580	3960480	dans sa version 3
+3960480	3961180	qui est un licence
+3961180	3962940	très commune
+3962940	3963980	et en opposition
+3963980	3965340	ou en tout cas
+3965340	3965880	en distinction
+3965880	3966540	d'une licence
+3966540	3967480	à réciprocité
+3967480	3968580	telle que PopSacle
+3968580	3970460	c'est que dans l'usage
+3970460	3971220	on va avoir
+3971220	3971940	un petit problème
+3971940	3972860	sur la définition
+3972860	3973960	de qui peut utiliser
+3973960	3975680	notre logiciel
+3975680	3977040	parce qu'on a tout un tas
+3977040	3978300	de structures
+3978300	3980060	vraiment amies
+3980060	3980860	qui vont dans le même sens
+3980860	3981260	que nous
+3981260	3982560	qui peuvent être
+3982560	3983200	aussi bien
+3983200	3984760	des boîtes de portage salarial
+3984760	3985700	parce qu'il y a
+3985700	3986660	un coporteur
+3986660	3989060	dirigé par Émilie
+3989060	3990240	qui est vraiment
+3990240	3990900	dans un statut
+3990900	3992160	complètement coopératif
+3992160	3994460	avec une accession
+3994460	3995080	en sociétariat
+3995080	3996220	mais on a aussi
+3996220	3997420	des structures juridiques
+3997420	3999400	qui pourtant
+3999400	4000900	dont les usages
+4000900	4001740	sont complètement
+4001740	4003360	dans le cas
+4003360	4003920	de l'ESS
+4003920	4004800	mais qui ne sont pas
+4004800	4005040	du tout
+4005040	4005660	dans les statuts
+4005660	4007040	dits ESS
+4007040	4008040	il y a des SASU
+4008040	4009260	Valentin est en SASU
+4009260	4010220	on a des personnes
+4010220	4011140	qui sont SAS
+4011140	4012280	et qui pourtant
+4012280	4013040	sont des très gros
+4013040	4013820	contributeurs
+4013820	4014720	au logiciel libre
+4014720	4016220	donc on aurait du mal
+4016220	4017220	à qualifier
+4017220	4017700	je pense
+4017700	4019460	de manière fiable
+4019460	4020640	aussi bien
+4020640	4021400	l'usage
+4021400	4023220	que la forme juridique
+4023220	4024160	voilà
+4024160	4027140	donc du coup
+4027140	4027720	on allait rester
+4027720	4028260	sur un truc
+4028260	4030220	beaucoup plus libéral
+4030220	4031300	qui est la GPR
+4031300	4032360	voilà
+4035660	4039980	mais rien n'est fixé
+4039980	4040720	en tout cas
+4040720	4044340	est-ce qu'il y a
+4044340	4044960	d'autres questions
+4044960	4045260	je ne sais pas
+4045260	4045720	si Anne
+4045720	4047060	a réussi
+4047060	4047900	à se reconnecter
+4047900	4048920	à mettre son micro
+4048920	4055300	merci pour cette présentation
+4055300	4056980	c'est très éclairant
+4056980	4058160	même si je m'étais déjà
+4058160	4059040	renseignée
+4059040	4060500	et on m'a dit
+4060500	4061740	que des gens de confiance
+4061740	4062400	m'ont dit
+4062400	4063620	qu'il fallait être sur du libre
+4063620	4064700	donc je le fais
+4064700	4065300	mais c'est vrai
+4065300	4066240	que ça m'a toujours
+4066240	4066860	posé question
+4066860	4067500	cette histoire
+4067500	4068300	entre guillemets
+4068300	4069020	bénévolat
+4069020	4070200	donc moi je trouve
+4070200	4071220	que c'est une bonne idée
+4071220	4072860	enfin je ne suis vraiment
+4072860	4073740	pas spécialiste
+4073740	4074720	de la question
+4074720	4075960	mais la question
+4075960	4076840	de service public
+4076840	4077440	je trouve que ça
+4077440	4078380	me paraît une bonne idée
+4078380	4083060	et j'étais vraiment
+4083060	4084180	intriguée par le titre
+4084180	4084960	parce que
+4084960	4086100	j'ai tellement entendu
+4086100	4087200	dire que le libre
+4087200	4088020	c'était bien
+4088020	4089360	que du coup
+4089360	4090240	je ne savais plus trop
+4090240	4091260	quoi penser
+4091260	4092920	c'est
+4092920	4093720	mais
+4093720	4095280	moi ce qui me plaît
+4095280	4095540	beaucoup
+4095540	4096480	c'est la pérennité
+4096480	4097140	et puis
+4097140	4099560	les logiciels
+4099560	4100380	de propriétaires
+4100380	4100980	où il faut changer
+4100980	4101520	de machine
+4101520	4101960	parce que
+4101960	4104280	l'ordinateur d'avant
+4104280	4105420	ne fonctionne plus
+4105420	4106980	ça moi je ne supportais plus
+4106980	4107880	donc je suis ravie
+4107880	4108460	d'être passée
+4108460	4109800	sous l'unique
+4109800	4113660	donc
+4113660	4115860	je réécouterai
+4115860	4116200	parce que
+4116200	4117000	j'ai dû m'interrompre
+4117000	4117600	de temps en temps
+4117600	4119120	pour aller me servir
+4119120	4119580	à manger
+4119580	4120380	donc il faudrait
+4120380	4120980	que je réécoute
+4120980	4121920	la conférence
+4121920	4124380	on mettra
+4124380	4125840	le replay
+4125840	4127260	sur le
+4127260	4129300	on n'a pas parlé
+4129300	4130300	d'une autre société
+4130300	4131080	GAFAM
+4131080	4131680	s'il en est
+4131680	4132940	qui fait aussi
+4132940	4133520	beaucoup beaucoup
+4133520	4135080	d'obsolescence programmée
+4135080	4135780	mais en tapant
+4135780	4136480	dans l'autre gamme
+4136480	4137240	c'est Apple
+4137240	4138620	et voilà
+4138620	4139460	qui utilise aussi
+4139460	4140180	une foultitude
+4140180	4140880	de logiciels
+4140880	4142120	d'une autre branche
+4142120	4142540	d'unique
+4142540	4143060	ce qui s'appelle
+4143060	4143960	Backes of Trade
+4143960	4144520	Solution
+4144520	4145400	d'SD
+4145400	4146340	et qui a fait
+4146340	4146920	un usage
+4146920	4148220	complètement éhonté
+4148220	4150500	d'un énorme iceberg
+4150500	4151500	vraiment très très gros
+4151500	4152620	et qui continue
+4152620	4153140	et qui va
+4153140	4153780	beaucoup plus loin
+4153780	4154900	et qui en plus
+4154900	4156020	a des idées
+4156020	4156820	parfois un petit peu
+4156820	4157460	plus visionnaires
+4157460	4157920	que les autres
+4157920	4159740	et voilà
+4159740	4161000	qui ne redistribuent
+4161000	4162180	pas du tout
+4162180	4162620	en fait
+4162620	4164800	dans l'écosystème
+4164800	4165500	libriste
+4165500	4173120	Après pour
+4173120	4173620	rebondir
+4173620	4174680	sur ce que tu disais
+4174680	4176000	le propos
+4176000	4176480	mon propos
+4176480	4177080	n'est vraiment pas dire
+4177080	4177480	il faut arrêter
+4177480	4178100	avec le logiciel libre
+4178100	4178500	mais le propos
+4178500	4179240	c'est vraiment de dire
+4179240	4179720	il faut arrêter
+4179720	4181380	de penser
+4181380	4181700	que genre
+4181700	4183340	il y a vraiment ce truc
+4183340	4183660	qui traîne
+4183660	4184420	dans les libristes
+4184420	4184740	de penser
+4184740	4185520	qu'on va sauver le monde
+4185520	4186320	et libérer les gens
+4186320	4187080	à grand coup
+4187080	4187740	de logiciel libre
+4187740	4188640	et en fait
+4188640	4189100	genre oui
+4189100	4189580	mais en fait
+4189580	4190800	quand tu regardes
+4190800	4191560	vraiment dans le détail
+4191560	4193340	en fait
+4193340	4194000	le logiciel libre
+4194000	4194360	c'est juste
+4194360	4195320	ce qui permet aussi
+4195320	4196420	aux gaffes femmes
+4196420	4197080	de fonctionner
+4197080	4198680	et vraiment
+4198680	4199180	par exemple
+4199180	4200660	je réitère
+4200660	4201740	le cas de Firefox
+4201740	4203420	c'est vraiment dramatique
+4203420	4204420	Firefox
+4204420	4205180	on a besoin
+4205180	4206980	d'un logiciel
+4206980	4207460	qui soit
+4207460	4209360	libre
+4209360	4210200	et tout ce qu'on veut
+4210200	4211600	et c'est financé
+4211600	4212380	à 90%
+4212380	4212960	par Google
+4212960	4214460	pour que
+4214460	4214700	alors
+4214700	4215420	c'est
+4215520	4216000	ils le financent
+4216000	4216760	parce qu'ils veulent
+4216760	4218020	que ce soit
+4218020	4218740	Google
+4218740	4219420	le moteur de recherche
+4219420	4219820	par défaut
+4219820	4220260	dans Firefox
+4220260	4221900	mais à mon avis
+4221900	4222480	il y a aussi
+4222480	4223060	un truc
+4223060	4223740	un peu de
+4223740	4225700	pour pas qu'on leur reproche
+4225700	4226780	d'avoir un monopole
+4226780	4227860	sur les navigateurs
+4227860	4228180	et tout
+4228180	4229000	en gros
+4229000	4229460	ils financent
+4229460	4230520	leur propre concurrence
+4230520	4230840	tu vois
+4230840	4231500	et du coup
+4231500	4232020	c'est vraiment
+4232020	4235000	et à côté de ça
+4235000	4236500	la direction
+4236500	4237640	stratégique de Firefox
+4237640	4238280	elle fait des choix
+4238280	4238940	un peu à côté
+4238940	4239360	de la plaque
+4239360	4239620	genre
+4239620	4240720	à développer
+4240720	4241420	moi j'ai vu là
+4241420	4242060	en cherchant
+4242060	4243480	ils ont développé
+4243480	4244000	Firefox
+4244000	4245500	pour la réalité augmentée
+4245500	4248660	franchement
+4248660	4249460	mais on s'en fout
+4249460	4251400	il faut pas
+4251400	4251780	il faut pas
+4251780	4254700	si on faisait un peu
+4254700	4255260	la wishlist
+4255260	4256440	de la liste de souhait
+4256440	4257460	de ce qu'on aimerait avoir
+4257460	4258660	dans Firefox
+4258660	4259620	pour un peu changer
+4259620	4261000	les règles du jeu
+4261000	4261940	du web
+4261940	4262520	dans le bon sens
+4262520	4263360	il y aurait mille trucs
+4263360	4263760	à faire
+4263760	4264040	pour
+4264040	4265180	pour
+4265180	4268600	pour aller dans l'autre sens
+4268600	4268820	mais
+4268820	4269980	comme ils ont un peu
+4269980	4270600	une mainmise
+4270600	4271160	de Google
+4271160	4271880	sur eux
+4271880	4272980	ils peuvent pas non plus
+4272980	4273540	décréter
+4273540	4274480	tiens on va bloquer
+4274480	4275160	tout le pistage
+4275160	4275880	automatiquement
+4275880	4277040	enfin plus ou moins
+4277040	4277800	ils le font un peu
+4277800	4278040	mais
+4278040	4280180	mais ils ont pas
+4280180	4280640	forcément
+4280640	4281100	ils sont pas
+4281100	4281540	ils sont un peu
+4281540	4282260	bridés là-dessus
+4282260	4284360	pour connaître
+4284360	4285560	mon propos
+4285560	4286020	c'est de dire
+4286020	4286540	le salib
+4286540	4286980	c'est vraiment pas
+4286980	4287820	la fin de l'histoire
+4287820	4289040	il faut vraiment
+4289040	4289900	qu'on aille au-delà
+4289900	4290780	et qu'on pense
+4290780	4291860	de manière générale
+4291860	4292740	une informatique
+4292740	4294220	libertaire
+4294220	4294920	et émancipatrice
+4294920	4299380	pour aller encore plus loin
+4299380	4300700	pour connaître en plus
+4300700	4301660	des juristes
+4301660	4302380	très haut placés
+4302380	4303740	chez Google
+4303740	4304840	ne pas oublier
+4304840	4305740	en fait que Google
+4305740	4306960	s'est créé
+4306960	4307800	aux Etats-Unis
+4307800	4308880	grâce à la loi
+4308880	4310140	antitrust
+4310140	4312420	de l'état fédéral américain
+4312420	4314260	qui a créé Google
+4314260	4314640	pour
+4314640	4315840	enfin vraiment
+4315840	4316260	qui a permis
+4316260	4317540	la création de Google
+4317540	4319540	pour détruire
+4319540	4319920	en fait
+4319920	4321520	la suprématie absolue
+4321520	4324420	et le monopolisme
+4324420	4325340	de Microsoft
+4325340	4326180	c'est vraiment ça
+4326180	4326700	qui s'est passé
+4326700	4327620	donc effectivement
+4327620	4328540	s'ils sont bien passés
+4328540	4329640	pour savoir
+4329640	4330820	qu'il ne va pas courir
+4330820	4332000	les mêmes risques
+4332000	4333580	alors 400 millions d'euros
+4333580	4334140	c'est peanuts
+4334140	4334820	pour vraiment
+4334820	4335540	en payer un du coup
+4335540	4337020	donc ça c'est
+4337020	4337840	super intéressant
+4337840	4338580	et vraiment je pense
+4338580	4340440	qu'on commence à voir
+4340440	4340980	de plus en plus
+4340980	4341460	de juristes
+4341460	4343100	qui se ponchent
+4343100	4345040	sur la problématique
+4345040	4346240	des communs
+4346240	4346980	on en connaît nous
+4346980	4347960	en tout cas
+4347960	4348680	assez directement
+4348680	4349640	aussi bien
+4349640	4350340	donc ça c'est
+4350340	4350960	les spécificités
+4350960	4351720	du droit français
+4351720	4353040	chez les publicistes
+4353040	4354060	que les privatistes
+4354060	4355140	c'est incroyable
+4355140	4356160	parce que jusque dans
+4356160	4357000	la thématique
+4357000	4357720	des logiciels libres
+4357720	4359040	comme ils sont privatistes
+4359040	4359640	ou publicistes
+4359640	4360200	ils ne se connaissent pas
+4360200	4360600	entre eux
+4360600	4361660	c'est assez hallucinant
+4361660	4362360	c'est assez marrant
+4362360	4363860	mais j'ai bien espoir
+4363860	4365180	que le logic-up
+4365180	4366700	fasse que ces gens-là
+4366700	4367300	se rencontrent
+4367300	4368600	et avancent
+4368600	4369380	ce qui est effectivement
+4369380	4371320	la problématique
+4371320	4372740	c'est qu'on est
+4372740	4374120	dans un univers
+4374120	4375160	de production
+4375160	4375780	de logiciels
+4375780	4376300	de production
+4376300	4377000	de plus en plus
+4377000	4378860	raccourcie
+4378860	4379640	enfin vous voyez
+4379640	4380920	le nombre de fois
+4380920	4381480	tous les jours
+4381480	4382300	vous faites des mises à jour
+4382300	4383080	de votre téléphone
+4383080	4383840	c'est votre téléphone
+4383840	4385580	qui le fait tout seul
+4385580	4386640	et donc c'est
+4386640	4387640	comment en fait
+4387640	4388400	on rémunère
+4388400	4389180	les gens
+4389180	4390140	qui créent
+4390140	4390980	des logiciels
+4390980	4391940	et dans quelles conditions
+4391940	4393080	ces logiciels
+4393080	4393780	sont-ils créés
+4393780	4394240	par rapport
+4394240	4395360	à leurs usages
+4395360	4396000	finalement
+4396000	4400060	et le débat
+4400060	4400340	Vincent
+4400340	4404160	je me permets
+4404160	4404460	d'essayer
+4404460	4405220	de passer la parole
+4405220	4405920	parce qu'il ne nous reste
+4405920	4407420	pas beaucoup de temps
+4407420	4408840	et il y a Paul
+4408840	4409460	qui lève la main
+4409460	4410840	et qui voudrait parler
+4410840	4412520	je ne sais pas
+4412520	4413200	si vous m'entendez
+4413200	4414820	si
+4414820	4416940	j'ai un peu bataillé
+4416940	4417500	avec le truc
+4417500	4420180	oui non
+4420180	4420640	tu parlais
+4420640	4421460	justement
+4421460	4422500	de comment on rémunère
+4422500	4423020	ces gens-là
+4423020	4423920	et j'ai entendu
+4423920	4424780	que l'exemple
+4424780	4425300	de Copcycle
+4425300	4425920	avait été
+4425920	4429520	cité
+4429520	4431260	moi j'ai fait partie
+4431260	4431660	du groupe
+4431660	4432620	qui a lancé Copcycle
+4432620	4434060	et donc il y avait
+4434060	4434500	effectivement
+4434500	4435620	deux aspects
+4435620	4436720	il y avait la licence
+4436720	4437640	donc cette licence
+4437640	4438520	anticapitaliste
+4438520	4440080	la copyleft
+4440080	4440400	etc
+4440400	4442400	et il y a un aspect
+4442400	4443380	un autre aspect
+4443380	4444020	dans Copcycle
+4444020	4444560	qui est
+4444560	4445840	un peu
+4445840	4447260	un peu corrélé
+4447260	4448180	mais qui est un peu différent
+4448180	4448460	aussi
+4448460	4450400	c'est le mode de financement
+4450400	4451220	de Copcycle
+4451220	4453060	qui n'est pas basé
+4453060	4454020	sur un paiement
+4454020	4454700	à l'usage
+4454700	4455580	qui n'est pas basé
+4455580	4456180	sur un
+4456180	4457200	comment dire
+4457200	4458000	un pay per use
+4458000	4458680	comme on peut dire
+4458680	4460060	un modèle économique
+4460060	4461060	basique de logiciel
+4461060	4461260	voilà
+4461260	4461860	vous utilisez
+4461860	4462380	vous payez
+4462380	4463440	une certaine somme
+4463440	4463920	par exemple
+4463920	4464580	un abonnement
+4464580	4465300	un genre de choses
+4465300	4466280	mais qui est basé
+4466280	4467140	sur une cotisation
+4467140	4469060	cette cotisation
+4469060	4469820	elle est décidée
+4469820	4470920	par les membres
+4470920	4472380	de la fédération
+4472380	4472860	Copcycle
+4472860	4475340	qui sont des coopératives
+4475340	4476280	de livreurs associés
+4476280	4476700	entre eux
+4476700	4478400	qui déterminent
+4478400	4478880	un montant
+4478880	4479540	à allouer
+4479540	4481640	pour financer
+4481640	4483020	ce logiciel
+4483020	4485340	pas que ça
+4485340	4486060	il y a d'autres services
+4486060	4486560	dans Copcycle
+4486560	4487200	mais entre autres
+4487200	4488020	ce logiciel
+4488020	4489040	donc on décide
+4489040	4490040	d'une assiette
+4490040	4490780	et on prélève
+4490780	4491260	une partie
+4491260	4492000	de la valeur ajoutée
+4492000	4493740	des différentes coopératives
+4493740	4495040	en fonction
+4495040	4495680	de leur revenu
+4495680	4495960	etc
+4495960	4497540	pour financer
+4497540	4498120	le logiciel
+4498120	4499340	donc il y a aussi
+4499340	4501320	au delà de la licence
+4501320	4502700	la question du modèle économique
+4502700	4503300	et de la façon
+4503300	4505580	dont on configure
+4505580	4506700	ce modèle économique
+4506700	4507720	qui est à mon sens
+4507720	4508320	importante
+4508320	4512420	voilà
+4512420	4521580	on peut ajouter aussi
+4521580	4522380	des initiatives
+4522380	4524220	comme la coopérative
+4524220	4524780	Colbutin
+4524780	4526580	là j'ai oublié
+4526580	4526980	le nom
+4526980	4527880	à l'instant
+4527880	4529120	de leur modèle
+4529120	4529860	mais qui
+4529860	4530800	en fait des coopératives
+4530800	4531540	vraiment engagées
+4531540	4532560	et qui choisissent
+4532560	4534500	de mettre
+4534500	4535680	un pourcentage
+4535680	4536280	de leur chiffre
+4536280	4536740	d'affaires
+4536740	4537740	ou de leur valeur ajoutée
+4537740	4540020	en fléchage
+4540020	4540940	vers différents
+4540940	4541760	projets
+4541760	4542220	de logiciel
+4542220	4544220	dans un autre contexte
+4544220	4545220	c'est même plus
+4545220	4546040	par les utilisateurs
+4546040	4546300	mais là
+4546300	4547180	c'est des producteurs
+4547180	4548180	qui choisissent
+4548180	4548600	en fait
+4548600	4549440	de parier
+4549440	4551260	sur un écosystème libre
+4551260	4552100	comme nous
+4552100	4552460	compagnons
+4552460	4552900	on le fait aussi
+4552900	4553480	parce qu'on essaie
+4553480	4555260	de contribuer
+4555260	4556360	à des logiciels libres
+4556360	4557400	en les soutenant
+4557400	4558080	financièrement
+4558080	4559220	même d'investissement
+4559220	4560560	plutôt que de continuer
+4560560	4562400	à payer des abonnements
+4562400	4562820	et des GAFA
+4562820	4564600	même si c'est pas facile
+4564600	4570200	Bon allez
+4570200	4570560	est-ce qu'il y a
+4570560	4570980	une dernière
+4570980	4572340	dernière question
+4572340	4573120	dernière intervention
+4573120	4575060	et il sera l'heure
+4575060	4575520	de se quitter
+4575520	4578860	Ouais du coup
+4578860	4579300	je rebondis
+4579300	4579900	sur le commentaire
+4579900	4580400	de Mathieu
+4580400	4582180	qui parle de code lutin
+4582180	4582780	et effectivement
+4582780	4584100	ça rejoint un peu
+4584100	4585020	la question de Alexandra
+4585020	4586480	sur qu'est-ce qu'on peut faire
+4586480	4587100	en tant qu'entreprise
+4587100	4588120	pour soutenir
+4588120	4588680	tout ça
+4588680	4589760	et code lutin
+4589760	4591620	c'est un regroupement
+4591620	4593320	je sais pas exactement
+4593320	4594400	c'est un regroupement
+4594400	4596620	je me sens que c'est
+4596620	4597340	un regroupement
+4597340	4598900	de plusieurs boîtes
+4598900	4601540	qui en gros mettent
+4601540	4602240	je sais plus
+4602240	4602780	c'est un truc comme
+4602780	4604120	2% de leurs bénéfices
+4604120	4604740	tous les ans
+4604740	4605020	pour
+4605020	4608160	qui sont reversés
+4608160	4609220	Ouais
+4609220	4610080	c'est le réseau libre
+4610080	4610620	entreprise
+4610620	4611700	Ouais
+4611700	4612860	c'est le réseau libre
+4612860	4613320	entreprise
+4613320	4614860	qui est un ensemble
+4614860	4616100	de plein de scopes
+4616100	4617420	et autres sociétés
+4617420	4617980	différentes
+4617980	4618900	comme par exemple
+4618900	4619400	Neryd
+4619400	4621300	et voilà
+4621300	4621880	et comme du terme
+4621880	4623080	c'est une entité
+4623080	4623560	juridique
+4623560	4624220	qu'on soit
+4624220	4624600	je crois
+4624600	4626240	c'est tout comme bêtise
+4626240	4627900	et c'est le réseau
+4627900	4628280	qui s'appelle
+4628280	4629400	libre entreprise
+4629400	4631560	et du coup
+4631560	4632060	tous les ans
+4632060	4633980	il y a des projets
+4633980	4634920	qui peuvent demander
+4634920	4636040	un petit bout
+4636040	4636540	de subvention
+4636540	4636940	en gros
+4636940	4638520	à ce réseau là
+4638520	4638940	et du coup
+4638940	4639580	il y a une enveloppe
+4639580	4640280	de souvent
+4640280	4641120	c'est genre 10 000 euros
+4641120	4641360	je crois
+4641360	4642080	qui est répartie
+4642080	4642620	entre les
+4642620	4644000	entre les différents
+4644000	4644420	projets
+4644420	4645600	et ces 10 000 euros
+4645600	4646040	ils viennent
+4646040	4646780	en gros
+4646780	4647540	des 2%
+4647540	4650700	des bénéfices
+4650700	4652300	des entreprises
+4652300	4652960	qui sont derrière
+4652960	4653680	du coup
+4653680	4654340	c'est une forme
+4654340	4656340	de ruissellement
+4656340	4657500	de ruissellement
+4657500	4658280	sur le salaire
+4658280	4658880	on peut dire
+4658880	4665980	ok
+4665980	4666540	bon
+4666540	4667640	on va s'arrêter là
+4667640	4669160	il est 13h50
+4669160	4670740	merci encore une fois
+4670740	4671120	Alex
+4671120	4672640	c'était super
+4672640	4674300	d'avoir accepté
+4674300	4674840	de répondre
+4674840	4676000	à la première présentation
+4676000	4677300	qu'avait faite Vincent
+4677300	4678140	merci encore
+4678140	4679120	à Vincent
+4679120	4679700	d'avoir posé
+4679700	4681280	ce sujet là
+4681280	4681480	aussi
+4681480	4682240	du logiciel libre
+4682240	4683620	ça se répondait bien
+4683620	4684160	je pense que
+4684160	4685500	rien que là
+4685500	4687140	en 2 lundis
+4687140	4687460	comme ça
+4687460	4688640	on commence à construire
+4688640	4690900	un peu de savoir collectif
+4690900	4691600	et personnel
+4691600	4693240	sur le logiciel libre
+4693240	4693920	qui dépasse
+4693920	4695840	les seuls techniciens
+4695840	4697200	et techniciennes
+4697200	4697600	comme vous
+4697600	4699320	donc merci beaucoup
+4699320	4700020	et puis peut-être
+4700020	4701860	que c'est un fil rouge
+4701860	4702360	qu'on va pouvoir
+4702360	4703760	continuer à tirer
+4703760	4704540	sur les 80 minutes
+4704540	4705260	de la coopération
+4705260	4706020	s'il y a des gens
+4706020	4706800	qui ont envie d'en parler
+4706800	4707720	d'autres personnes
+4707720	4708880	par exemple
+4708880	4709120	Paul
+4709120	4709460	s'il y a envie
+4709460	4710860	de venir témoigner
+4710860	4711500	de ce que vous avez fait
+4711500	4712440	à Copcycle
+4712440	4713980	de parler un petit peu
+4713980	4714820	de ce qui s'est fait
+4714820	4716760	ça peut être intéressant
+4716760	4717420	et cool
+4717420	4719780	mais d'ici là
+4719780	4721540	on se retrouve
+4721540	4722300	le mois prochain
+4722300	4724840	je crois que j'ai la date
+4724840	4725360	quelque part
+4725360	4726000	je vous la communique
+4726000	4726440	vite fait
+4726440	4728060	c'est il me semble
+4728060	4728940	le 13 novembre
+4728940	4729880	il y aura encore
+4729880	4730720	les 80 minutes
+4730720	4732020	on sera plus sur le sujet
+4732020	4732840	du logiciel libre
+4732840	4735200	on sera sur les enjeux
+4735200	4736320	écologiques et sociaux
+4736320	4737060	du bien vivre
+4737060	4738280	et on reçoit
+4738280	4738920	une personne
+4738920	4739840	que vous connaissez peut-être
+4739840	4740740	qui est Patrick Vivray
+4740740	4742300	qui est un philosophe
+4742300	4743920	alter mondialiste
+4743920	4744800	c'est connu
+4744800	4746360	qui est aussi
+4746360	4747280	au conseil d'état
+4747280	4747940	la cour des comptes
+4747940	4748420	je sais plus
+4748420	4749860	et voilà
+4749860	4750580	qui viendra nous parler
+4750580	4751360	de ce concept
+4751360	4752040	du bien vivre
+4752040	4755840	qu'il a pas mal utilisé
+4755840	4756820	en France
+4756820	4758520	et voilà
+4758520	4759400	ça sera le même format
+4759400	4760280	le 13 novembre
+4760280	4761280	sur ce sujet là
+4761280	4763740	et du coup
+4763740	4764380	à bientôt
+4764380	4766660	ça marche
+4766660	4767720	à plus
+4767720	4768940	salut
+4768940	4770340	merci
+4770340	4770600	merci encore
+4770600	4771180	Alexandre
+4771180	4772180	Merci.
