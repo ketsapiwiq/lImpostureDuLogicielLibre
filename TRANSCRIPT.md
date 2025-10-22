@@ -1,6 +1,6 @@
 # Transcription de la conférence l'imposture du logiciel libre / open-source
-Faite par @aleksaubin
 
+Faite par @aleksaubin
 
 [https://aleks.internetlib.re/docs/lImpostureDuLogicielLibre.html](https://aleks.internetlib.re/docs/lImpostureDuLogicielLibre.html#65)
 
@@ -8,34 +8,29 @@ Faite par @aleksaubin
 
 [https://web.archive.org/web/20240505154555/https://aleks.internetlib.re/docs/lImpostureDuLogicielLibre.html](https://web.archive.org/web/20240505154555/https://aleks.internetlib.re/docs/lImpostureDuLogicielLibre.html#16)
 
-
-
 ---
 
 ## Qui suis-je
 
-
-> Alors, ça, c'est mon CV un peu militant pour me donner une espèce de légitimité à vous raconter ce que je vais vous raconter. 
+> Alors, ça, c'est mon CV un peu militant pour me donner une espèce de légitimité à vous raconter ce que je vais vous raconter.
 >
 > Alors, maintenant, j'essaie de définir un truc avec des gros mots, là, le cyber-anarchisme.
 
-
-* Alexandre Aubin
-* Autoradicalisé à 18 ans en regardant les débats de l'assemblée nationale
-* Libriste pendant \~10 ans, puis aspirant cyber-anarchiste
-* Informaticien dans l'équipe de Coopaname, Formateur en informatique  (Linux/Python)
-* Mainteneur du projet [YunoHost](https://yunohost.org/) (distribution Linux pour gérer facilement des services numériques)
-* Membre de [Hackstub](https://hackstub.eu/) et [Alsace Réseau Neutre](https://arn-fai.net/) / [Sans-nuage](https://sans-nuage.fr)
-
+- Alexandre Aubin
+- Autoradicalisé à 18 ans en regardant les débats de l'assemblée nationale
+- Libriste pendant \~10 ans, puis aspirant cyber-anarchiste
+- Informaticien dans l'équipe de Coopaname, Formateur en informatique (Linux/Python)
+- Mainteneur du projet [YunoHost](https://yunohost.org/) (distribution Linux pour gérer facilement des services numériques)
+- Membre de [Hackstub](https://hackstub.eu/) et [Alsace Réseau Neutre](https://arn-fai.net/) / [Sans-nuage](https://sans-nuage.fr)
 
 \
+
 ## Pourquoi cette conf
 
-
-* **Secouer le cocotier consensuel**, coup de gueule contre les « libristes » / le « librisme »
-  * pieds dans le plat, caricature à l'emporte-pièce
-  * peut-être même utilisation de gros mots comme "libéral", "libertaire", "néo-féodalisme"
-  * néanmoins le propos n'est pas de dire qu'il faut arrêter le logiciel libre, mais bien qu'il faut aller au dela
+- **Secouer le cocotier consensuel**, coup de gueule contre les « libristes » / le « librisme »
+  - pieds dans le plat, caricature à l'emporte-pièce
+  - peut-être même utilisation de gros mots comme "libéral", "libertaire", "néo-féodalisme"
+  - néanmoins le propos n'est pas de dire qu'il faut arrêter le logiciel libre, mais bien qu'il faut aller au dela
 
 > Voilà, c'est un peu un espèce de coup de gueule contre les libristes pour arrêter avec l'espèce de consensus en mode, oui, le logiciel libre, c'est cool et tout "Il faut faire du logiciel libre".
 >
@@ -50,35 +45,27 @@ Faite par @aleksaubin
 >
 > Au contraire, il va falloir, c'est vraiment important de continuer à utiliser le logiciel libre, mais vraiment, il faut, moi, je pense qu'il faut qu'on trouve d'autres mots pour désigner quelles sont les luttes, enfin, qu'est-ce qu'on défend via le logiciel libre.
 
-* Je suppose que vous avez une idée générale de ce qu'est le Logiciel Libre et de l'enjeu autour des GAFAM/NATU/BATX
+- Je suppose que vous avez une idée générale de ce qu'est le Logiciel Libre et de l'enjeu autour des GAFAM/NATU/BATX
 
 > Ça, c'est genre Netflix, Tesla, Uber, Airbnb, ou Baidu, les trucs un peu plus en Chine.
 
-* Initialement adressé aux libristes, mais sans doute des parallèles avec l'ESS, l'écologie, la politique fr, ...
-
-
+- Initialement adressé aux libristes, mais sans doute des parallèles avec l'ESS, l'écologie, la politique fr, ...
 
 ---
 
 ## Plan
 
-
 ### 1. Qu'est-ce qui est "libre" dans "logiciel libre" ? À qui profite le "libre" ?
-
 
 ### 2. La culture libriste est-elle subversive ?
 
-
-### 3. Qu'est-ce qu'on défend *vraiment* ?
-
+### 3. Qu'est-ce qu'on défend _vraiment_ ?
 
 ---
 
-
-# 1. Qu'est-ce qui est "libre" dans  "logiciel libre" ?
+# 1. Qu'est-ce qui est "libre" dans "logiciel libre" ?
 
 ## À qui profite le "libre" ?
-
 
 ---
 
@@ -112,7 +99,6 @@ Faite par @aleksaubin
 >
 > Ou alors, ça crée des catastrophes parce que tout le château de cartes s'écroule à cause de la brique logicielle qui est mal maintenue.
 
-
 ---
 
 ## Code is law
@@ -121,7 +107,7 @@ Faite par @aleksaubin
 
 Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des ciyoyen·ne·s. À partir de là, le code devient la loi.
 
-* interfaces : "Likes" Facebook, vidéos TikTok, scroll infinis, ...
+- interfaces : "Likes" Facebook, vidéos TikTok, scroll infinis, ...
 
 > Alors, le deuxième truc, c'est aussi pour comprendre un peu l'importance politique du code ou du numérique, c'est que plus le temps passe et plus le code devient la loi.
 >
@@ -145,7 +131,7 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 >
 > Et c'est quand même assez discutable en termes d'éthique ou de pas terme.
 
-* bureaucratie : formulaires pole emploi, Odoo, ...
+- bureaucratie : formulaires pole emploi, Odoo, ...
 
 > Au niveau de la bureaucratie, moi, j'avais vu un bout de conf une fois d'une personne qui travaille à Pôle emploi ou quelque chose comme ça dans l'administration
 >
@@ -167,7 +153,7 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 >
 > Qu'est-ce qu'on ferait si on avait quelqu'un qui n'avait pas de nom de famille ?
 
-* algorithmes, IA : Cambridge Analytica, voiture autonome, reconnaissance faciale raciste, ...
+- algorithmes, IA : Cambridge Analytica, voiture autonome, reconnaissance faciale raciste, ...
 
 > Et puis, les algorithmes, les IA, il y a le scandale Cambridge Analytica qui est quand même un truc vachement craignose,
 >
@@ -201,27 +187,19 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 >
 > Voilà, donc c'est ça, comme on veut dire, quand le code, c'est la loi, ça, c'est pour réaliser un peu l'importance politique du numérique dans la société contemporaine.
 
-
 ---
-
-
 
 ---
 
 ## Les quatre libertés
 
- 
+- 0: la liberté d'**exécuter le programme, pour tous les usages** ;
+- 1: la liberté d'**étudier le fonctionnement du programme** et de l'adapter à ses besoins ;
+- 2: la liberté de **redistribuer des copies** du programme <small>(ce qui implique la possibilité aussi bien de donner que de vendre des copies)</small> ;
+- 3: la liberté d'**améliorer le programme et de distribuer ces améliorations** au public, pour en faire profiter toute la communauté.
 
-* 0: la liberté d'**exécuter le programme, pour tous les usages** ;
-* 1: la liberté d'**étudier le fonctionnement du programme** et de l'adapter à ses besoins ;
-* 2: la liberté de **redistribuer des copies** du programme <small>(ce qui implique la possibilité aussi bien de donner que de vendre des copies)</small> ;
-* 3: la liberté d'**améliorer le programme et de distribuer ces améliorations** au public, pour en faire profiter toute la communauté.
-
-
- 
-
-* Émerge dans la candeur des années 1980
-* Traduits en "vrai" licences : GPL, MIT, ...
+- Émerge dans la candeur des années 1980
+- Traduits en "vrai" licences : GPL, MIT, ...
 
 > Alors, du coup, on vous a fait sans doute l'évangélisme classique du logiciel libre,
 >
@@ -251,7 +229,7 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 >
 > les conditions générales d'utilisation, c'est ce qui détermine est-ce que vous avez le droit ou pas d'utiliser le logiciel et sous quelles conditions.
 
-* "Hack juridique" 
+- "Hack juridique"
 
 > Et en fait, le logiciel libre, c'est un peu un hack juridique,
 >
@@ -264,7 +242,6 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 > Moi, moi-même, j'ai acheté ce hoody et puis je l'ai porté pendant un temps.
 >
 > Maintenant, il traîne dans un placard. Mais il y a vraiment cet idéal qui est resté chez les libristes autour du combat du logiciel libre.
-
 
 ---
 
@@ -295,8 +272,8 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 >
 > Puis vous dites, waouh, mais ça va te rendre libre et tout.
 
-* 3 des libertés concernent les développeurs
-  * qui a vraiment le temps et les compétences pour lire et modifier du code ?
+- 3 des libertés concernent les développeurs
+  - qui a vraiment le temps et les compétences pour lire et modifier du code ?
 
 > Mais alors, on a quand même trois des libertés sur les quatre qui concernent les développeurs,
 >
@@ -308,7 +285,7 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 >
 > Ça, c'est purement impossible.
 
-* La liberté d'utiliser le programme pour tout ... ?
+- La liberté d'utiliser le programme pour tout ... ?
 
   > Et puis, ok, voilà, la liberté d'utiliser le programme pour tout.
   >
@@ -317,7 +294,8 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
   > dans l'utilisation de vos logiciels lorsque vous utilisez du code proprio.
   >
   > Alors, peut-être éventuellement, c'est payant.
-  * aucune interdiction de faire des trucs deguelasses : missiles sous Linux, ...
+
+  - aucune interdiction de faire des trucs deguelasses : missiles sous Linux, ...
 
   > Quand on commence à réfléchir, on se dit, bah, mais en fait, il n'y a aucune interdiction
   >
@@ -328,7 +306,8 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
   > il y a des missiles qui tournent sous Linux.
   >
   > Sans doute que ça, ça ne libère pas trop les gens.
-  * réputation de design discutable : inkscape vs. illustrator, mumble vs. discord, ...
+
+  - réputation de design discutable : inkscape vs. illustrator, mumble vs. discord, ...
 
   > Et alors, l'autre truc, c'est, voilà, le logiciel libre, c'est un peu une réputation
   >
@@ -351,20 +330,20 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
   > Et puis, le site, il n'est pas super invitant, enfin, ça n'invite pas trop à l'utiliser,
   >
   > on va dire.
-  * réputation d'accessibilité discutable : [Collectif Liberté 0](https://cstrobbe.gitlab.io/Liberte0/index.html)
+
+  - réputation d'accessibilité discutable : [Collectif Liberté 0](https://cstrobbe.gitlab.io/Liberte0/index.html)
 
 > Et puis, finalement, le troisième truc un peu discutable, c'est la réputation sur l'accessibilité parce qu'il y a des gens qui se sont dit, bah, vous êtes bien gentil avec votre liberté d'utiliser le programme pour faire tout, mais en fait, pour les gens qui sont handicapés visuellement, par exemple, votre logiciel, il n'est pas forcément super accessible. Alors, il y a un collectif qui s'est créé autour de ça, qui s'appelle le collectif Liberté Zéro, pour dire, avant tout, pour que le logiciel soit vraiment libre, il faudrait que les gens qui ont des handicaps ou des déficiences visuelles ou toutes sortes de trucs dans la vie, puissent réellement utiliser le logiciel.
 >
-> Donc, on va créer un collectif Liberté Zéro pour promouvoir l'accessibilité dans les logiciels. Et d'ailleurs, j'ai eu la mauvaise surprise de découvrir que ce truc, il était un peu mort depuis 2016. En tout cas, le site, il n'a pas trop été mis à jour depuis un certains moment. 
-
+> Donc, on va créer un collectif Liberté Zéro pour promouvoir l'accessibilité dans les logiciels. Et d'ailleurs, j'ai eu la mauvaise surprise de découvrir que ce truc, il était un peu mort depuis 2016. En tout cas, le site, il n'a pas trop été mis à jour depuis un certains moment.
 
 ---
 
 ## Bon, tout de même ...
 
-* Transparence
-* Développement "indépendant"
-* \~Gratuité / \~Pérennité
+- Transparence
+- Développement "indépendant"
+- \~Gratuité / \~Pérennité
 
 \-> Confiance
 
@@ -380,14 +359,13 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 >
 > gens peuvent le reprendre plus tard. Donc, ça, ça crée de la pérennité pour le logiciel.
 
-
 ---
 
 ## Et aussi : une modalité de production super efficace
 
-* besoin de demander à personne
-* pas besoin de réinventer la roue
-* des bénévoles prêt·e·s à taffer gratuitement
+- besoin de demander à personne
+- pas besoin de réinventer la roue
+- des bénévoles prêt·e·s à taffer gratuitement
 
 > Alors, et du coup, le truc aussi avec le logiciel, c'est qu'on peut voir ça
 >
@@ -405,7 +383,6 @@ Le code est juste du texte, jusqu'à ce qu'il détermine le cadre de la vie des 
 >
 > qui sont prêts à taffer gratuitement pour améliorer la qualité des trucs.
 
-
 ---
 
 Devinez qui ça peut intéresser ...?
@@ -419,9 +396,7 @@ Devinez qui ça peut intéresser ...?
 >
 > des capitalistes. C'est vraiment génial, quoi.
 
-
- Mais le logiciel libre à tout de même un peu de "germe de communisme" 
-
+Mais le logiciel libre à tout de même un peu de "germe de communisme"
 
 > Alors, le seul petit problème, c'est qu'il y a quand même un peu des germes
 >
@@ -435,16 +410,13 @@ Devinez qui ça peut intéresser ...?
 >
 > Du coup, ça, on aimerait mettre ça de côté.
 
-
 ---
 
 ## Et c'est ainsi qu'est né ...
 
 ## L'open source ... ou logiciel libre aseptisé
 
-
 > "Un logiciel libre est un logiciel dont l'utilisation, l'étude, la modification et la duplication par autrui en vue de sa diffusion sont permises, techniquement et juridiquement."
-
 
 > "La désignation open source, \[...\] possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés."
 
@@ -454,8 +426,7 @@ Et d'ailleurs par abus de language:
 
 Logiciel Libre = Open Source et Vice-versa
 
-Bien que soi-disant, Logiciel Libre = Open Source + "valeurs" 
-
+Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 
 > Alors, c'est comme ça qu'est né ce qui a été appelé l'open source.
 >
@@ -498,38 +469,35 @@ Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 >
 > C'était vraiment pour le rendre entreprise compatible, quoi.
 
-
 \
 
 ---
 
 ## Bon mais d'ailleurs, c'est quoi le modele éco ?
 
+\--
+
+- **bénévolat complet** / auto-exploitation (applicable seulement aux petits projets, pas très pérenne)
 
 \--
 
-* **bénévolat complet** / auto-exploitation (applicable seulement aux petits projets, pas très pérenne)
+- **dons / subventions** (demande pas mal d'énergie, logique "projet")
 
 \--
 
-* **dons / subventions** (demande pas mal d'énergie, logique "projet")
+- **fonctionnalités payantes** / open core (pas libres)
 
 \--
 
-* **fonctionnalités payantes** / open core (pas libres)
+- **vente de service : support, dev** (les gros payent, ... mais souvent applicable seulement aux gros projets)
 
 \--
 
-* **vente de service : support, dev** (les gros payent, ... mais souvent applicable seulement aux gros projets)
-
-\--
-
-* **mécénat** (perte d'indépendance)
+- **mécénat** (perte d'indépendance)
 
 \--
 
 **Le libre / open source a besoin des entreprises pour tourner, surtout pour les gros projets**
-
 
 > Alors, d'ailleurs, c'est quoi un peu le modèle économique du logiciel libre ?
 >
@@ -563,16 +531,14 @@ Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 >
 > parce que si on se base juste sur, je ne sais pas, les dons ou les subventions, souvent, ça ne suffit pas pour faire tourner le projet. Et les gens qui ont des sous, souvent, c'est des entreprises. Du coup, elles sont un peu nécessaires à un moment pour faire tourner les gros projets.
 
-
 ---
 
 ## Même Microsoft a fini par kiffer
 
-
 ### 2001
 
-
 \
+
 ### 2014
 
 > \
@@ -598,14 +564,13 @@ Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 >
 > il faut qu'ils réalisent qu'ils ont loupé vraiment le truc dans l'histoire.
 
-
 \
 
 ---
 
 ## 2007 : le tournant
 
-* Premiers smartphones, Android développé par Google (*open source et basé sur Linux!*)
+- Premiers smartphones, Android développé par Google (_open source et basé sur Linux!_)
 
 > Bref, le tournant, c'était pile au milieu, entre 2000 et 2014, 2007.
 >
@@ -631,8 +596,7 @@ Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 >
 > Tout ça, c'est des trucs qui ne tournent pas sur votre machine.
 
-* Montée de Facebook, des plateformes en ligne, du "cloud", *basé sur l'open source* ...
-
+- Montée de Facebook, des plateformes en ligne, du "cloud", _basé sur l'open source_ ...
 
 > Et puis, il y a les réseaux sociaux, surtout les réseaux sociaux.
 >
@@ -646,15 +610,13 @@ Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 
 \--
 
- => émergence du capitalisme de surveillance, hégémonie des GAFAMs
-
-  
+=> émergence du capitalisme de surveillance, hégémonie des GAFAMs
 
 \--
 
- **=> changement des règles du jeu : les logiciels ne tournent plus sur vos machines**
+**=> changement des règles du jeu : les logiciels ne tournent plus sur vos machines**
 
-\*\*=> peu importe si ils sont libres ou non, ce qui compte c'est qui gère les *données* \*\* \]
+\*\*=> peu importe si ils sont libres ou non, ce qui compte c'est qui gère les _données_ \*\* \]
 
 > Ce n'est plus du tout une histoire de logiciel libre.
 >
@@ -684,19 +646,17 @@ Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 >
 > isolées dans la pampa que c'est les mêmes briques logicielles qui permettent de construire le libre.
 
-
-
 ---
 
 ## On se fait bouffer de partout
 
-* **Google sponsor numéro 1 du FOSDEM** (plus grosse conférence sur le Libre/Open Source en Europe)
-* **[Amazon qui abuse de MongoDB sans contribuer en retour](https://techcrunch.com/2019/01/09/aws-gives-open-source-the-middle-finger/)** (et [ici](https://mjtsai.com/blog/2019/01/14/aws-mongodb-and-the-economic-realities-of-open-source/))
-  * MongoDB et Elasticsearch qui contre-attaquent en créant [la license SSPL ... pas considérée comme libre](https://en.wikipedia.org/wiki/Server_Side_Public_License)
-  * Le libre/open source mis en échec et mat : soit le grand capital profite du travail gratuit, soit il faut restreindre l'usage et c'est plus libre
-* \*\*Firefox financé [à 90% par Google](https://fr.wikipedia.org/wiki/Mozilla_Firefox#Partenariats_et_d%C3%A9pendance_%C3%A0_Google) \*\*, **[CEO payée 3 millions](https://en.wikipedia.org/wiki/Mitchell_Baker#Negative_salary-achievements_correlation_controversy)**, choix stratégiques discutables (\[1\](<https://en.wikipedia.org/wiki/Firefox#Firefox_Reality_(AR/VR)>, \[2\](<https://en.wikipedia.org/wiki/Pocket_(service)>, [3](https://www.lesnumeriques.com/vie-du-net/faux-virus-vraie-colere-pub-pour-mr-robot-sur-firefox-tourne-mal-n69541.html), ...)
-  * Firefox est surtout le moins pire des navigateurs
-  * Pourtant il y a un enjeu énorme en terme de "règles de fonctionnement du web"
+- **Google sponsor numéro 1 du FOSDEM** (plus grosse conférence sur le Libre/Open Source en Europe)
+- **[Amazon qui abuse de MongoDB sans contribuer en retour](https://techcrunch.com/2019/01/09/aws-gives-open-source-the-middle-finger/)** (et [ici](https://mjtsai.com/blog/2019/01/14/aws-mongodb-and-the-economic-realities-of-open-source/))
+  - MongoDB et Elasticsearch qui contre-attaquent en créant [la license SSPL ... pas considérée comme libre](https://en.wikipedia.org/wiki/Server_Side_Public_License)
+  - Le libre/open source mis en échec et mat : soit le grand capital profite du travail gratuit, soit il faut restreindre l'usage et c'est plus libre
+- \*\*Firefox financé [à 90% par Google](https://fr.wikipedia.org/wiki/Mozilla_Firefox#Partenariats_et_d%C3%A9pendance_%C3%A0_Google) \*\*, **[CEO payée 3 millions](https://en.wikipedia.org/wiki/Mitchell_Baker#Negative_salary-achievements_correlation_controversy)**, choix stratégiques discutables (\[1\](<https://en.wikipedia.org/wiki/Firefox#Firefox_Reality_(AR/VR)>, \[2\](<https://en.wikipedia.org/wiki/Pocket_(service)>, [3](https://www.lesnumeriques.com/vie-du-net/faux-virus-vraie-colere-pub-pour-mr-robot-sur-firefox-tourne-mal-n69541.html), ...)
+  - Firefox est surtout le moins pire des navigateurs
+  - Pourtant il y a un enjeu énorme en terme de "règles de fonctionnement du web"
 
 > Voilà, et en fait, quand on réfléchit et qu'on regarde vraiment partout,
 >
@@ -786,18 +746,17 @@ Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 >
 > Mais Firefox, malheureusement, il y aurait d'autres trucs à faire que ce qu'ils font.
 
-
 ---
 
 ## Résumé
 
-* **Logiciel libre partout, liberté nulle part**
-* Le logiciel libre ne rends pas les gens libre
-* Le logiciel libre libère surtout les devs
-  * et surtout les devs qui ont de l'argent : la Silicon Valley, les GAFAM/NATU/BATX
-* Le logiciel libre a retourné le "copyright" contre lui-même ...
-* ... mais **le grand capital a transformé le Logiciel Libre en Logiciel Libéral** (aka l'Open Source)
-* Le logiciel libre (et Internet) sont des pierres angulaires du capitalisme de surveillance
+- **Logiciel libre partout, liberté nulle part**
+- Le logiciel libre ne rends pas les gens libre
+- Le logiciel libre libère surtout les devs
+  - et surtout les devs qui ont de l'argent : la Silicon Valley, les GAFAM/NATU/BATX
+- Le logiciel libre a retourné le "copyright" contre lui-même ...
+- ... mais **le grand capital a transformé le Logiciel Libre en Logiciel Libéral** (aka l'Open Source)
+- Le logiciel libre (et Internet) sont des pierres angulaires du capitalisme de surveillance
 
 > Alors voilà, si on résume, ça, c'est la première partie.
 >
@@ -850,7 +809,6 @@ Bien que soi-disant, Logiciel Libre = Open Source + "valeurs"
 > Voilà, le capitalisme de surveillance est construit sur le logiciel libre.
 >
 > Alors on pourrait dire, bon, d'accord, mais les libristes, ils ne vont pas juste continuer bêtement pendant 30 ans de défendre le logiciel libre sans se poser la moindre question et penser que le logiciel libre va libérer les utilisateurs.
-
 
 ---
 
@@ -1222,1273 +1180,97 @@ Ok.
 
 Super, merci.
 
-C'était hyper intéressant.
-
-intéressant et là, on se passe la main à ceux qui ont des questions.
-
-Il y a eu pas mal de réactions dans le chat.
-
-Donc, si vous voulez intervenir, poser des questions, réagir, allez-y.
-
-C'est possible.
-
-Oui, il y a eu des gens qui ont parlé dans le chat, effectivement.
-
-Oui, après, les gens sont en train de manger donc, ce n'est jamais facile pour poser une question mais...
-
-tu as des bravos pour l'instant.
-
-Cool.
-
-Personne n'a de question? Ah, je crois qu'il y en a une qui arrive.
-
-Je ne veux pas parler.
-
-Ah, ok.
-
-Alexandre est en train de t'écrire une question.
-
-Je mets un lien vers les supports si vous voulez à les yeux télé.
-
-Ok.
-
-C'est ton site internet, c'est ça? C'est là où je mets mes supports de formation lorsque je fais des formations.
-
-Du coup, je me suis dit que c'est pratique.
-
-Ah, il y a Anne.
-
-Anne qui a levé la main.
-
-Oui.
-
-Je ne sais pas comment on gère la question.
-
-On t'entend pas, Anne.
-
-Je gère la question, Thibon.
-
-Oui.
-
-J'essaye.
-
-Bon, le temps qu'Anne, elle a un petit souci de micro, je pense.
-
-Le temps qu'elle puisse le résoudre.
-
-Sinon, Anne, tu peux écrire dans le chat.
-
-On verra.
-
-N'hésite pas à écrire dans le chat si ton micro ne marche pas.
-
-Mais en tout cas, il y a une question d'Alexandra qui dit comment en tant qu'entreprise on peut soutenir tout ça au-delà de ce qu'on fait déjà à Copaname.
-
-Je crois que c'est une question pour toi.
-
-Je ne sais pas.
-
-OK.
-
-Eh bien,
-
-soutenir tout ça,
-
-je ne sais pas trop.
-
-Là, par exemple,
-
-en écrivant les supports,
-
-je me suis dit
-
-tiens,
-
-ouais,
-
-Copcycle,
-
-ils ont fait leur truc
-
-en se disant
-
-tiens,
-
-ouais,
-
-ce serait quand même
-
-ballot
-
-si on se faisait récupérer
-
-par Uber et tout.
-
-Du coup,
-
-on va mettre une licence
-
-et je me suis dit
-
-mais d'ailleurs
-
-pour notre logiciel
-
-au doux,
-
-les modules au doux
-
-que nous,
-
-on développe,
-
-ce serait quand même
-
-vachement ballot
-
-si les sociétés
-
-de portage salarial
-
-tombaient sur nos add-ons
-
-et récupéraient le truc
-
-alors qu'on les a publiés
-
-en jeu de celles libres.
-
-Du coup,
-
-bon,
-
-après,
-
-je ne sais pas
-
-si c'est un truc
-
-dont il faut vraiment
-
-se préoccuper
-
-à notre échelle
-
-de coopérative,
-
-je ne sais pas
-
-s'il y a vraiment
-
-un risque
-
-que le portage salarial
-
-récupère nos trucs,
-
-je pense que ça
-
-est prêt d'arriver,
-
-mais c'est vrai
-
-que je me suis dit,
-
-merde,
-
-si on avait réfléchi,
-
-peut-être qu'on aurait
-
-pu mettre autre chose
-
-qu'une licence libre
-
-sur nos trucs.
-
-Mais à part ça,
-
-de manière générale,
-
-voilà,
-
-bon,
-
-il y a quand même
-
-dans ce qui traîne
-
-dans ce que j'ai raconté,
-
-c'est quand même
-
-il y a l'histoire
-
-du modèle économique
-
-qui est vraiment un truc
-
-où ça,
-
-c'est vraiment un débat
-
-qui existe depuis
-
-le début du licence libre,
-
-quoi,
-
-mais en fait,
-
-il y a vraiment aussi
-
-un truc sur arrêter
-
-de penser que tout est gratuit,
-
-mais du coup,
-
-voilà,
-
-comment est-ce qu'on fait
-
-pour récupérer de l'argent ?
-
-Par exemple,
-
-Wikipédia,
-
-ils ont vachement réussi
-
-à garder un truc
-
-où tous les ans,
-
-ils harcèlent les utilisateurs,
-
-les utilisatrices
-
-pour dire,
-
-il faut donner de l'argent
-
-et c'est un peu le chiant
-
-parce qu'on a des pâtés
-
-comme ça
-
-qui s'affichent
-
-en haut de la page
-
-et en même temps,
-
-c'est ce qui fait
-
-que Wikipédia reste indépendant
-
-et du coup,
-
-et pareil pour Framasoft,
-
-tous les ans,
-
-ils font une campagne
-
-pour avoir des sous,
-
-pareil pour la quadrature du net
-
-par exemple
-
-et c'est le modèle
-
-un peu chiant
-
-où il faut dépenser
-
-une énergie affreuse
-
-pour harceler les gens
-
-pour qu'ils donnent de l'argent
-
-et en même temps,
-
-c'est comme ça,
-
-c'est un peu le seul truc
-
-qui permet de garantir
-
-que c'est incommun
-
-et ça ne répond pas trop
-
-à la question
-
-de qu'est-ce que les entreprises
-
-peuvent faire
-
-pour soutenir tout ça.
-
-Le problème à l'heure actuelle,
-
-c'est surtout l'état d'esprit
-
-des libristes
-
-qui empêchent
-
-qu'on avance
-
-vers un autre truc
-
-et qui direct sortent du bois
-
-pour dire
-
-c'est pas libre
-
-dès qu'il y a un truc
-
-qui est plus de gauche
-
-que le logiciel libre.
-
-Par rapport à notre licence
-
-qui nous on publie
-
-en licence
-
-à Ferro-GPL
-
-à GPL
-
-dans sa version 3
-
-qui est un licence
-
-très commune
-
-et en opposition
-
-ou en tout cas
-
-en distinction
-
-d'une licence
-
-à réciprocité
-
-telle que PopSacle
-
-c'est que dans l'usage
-
-on va avoir
-
-un petit problème
-
-sur la définition
-
-de qui peut utiliser
-
-notre logiciel
-
-parce qu'on a tout un tas
-
-de structures
-
-vraiment amies
-
-qui vont dans le même sens
-
-que nous
-
-qui peuvent être
-
-aussi bien
-
-des boîtes de portage salarial
-
-parce qu'il y a
-
-un coporteur
-
-dirigé par Émilie
-
-qui est vraiment
-
-dans un statut
-
-complètement coopératif
-
-avec une accession
-
-en sociétariat
-
-mais on a aussi
-
-des structures juridiques
-
-qui pourtant
-
-dont les usages
-
-sont complètement
-
-dans le cas
-
-de l'ESS
-
-mais qui ne sont pas
-
-du tout
-
-dans les statuts
-
-dits ESS
-
-il y a des SASU
-
-Valentin est en SASU
-
-on a des personnes
-
-qui sont SAS
-
-et qui pourtant
-
-sont des très gros
-
-contributeurs
-
-au logiciel libre
-
-donc on aurait du mal
-
-à qualifier
-
-je pense
-
-de manière fiable
-
-aussi bien
-
-l'usage
-
-que la forme juridique
-
-voilà
-
-donc du coup
-
-on allait rester
-
-sur un truc
-
-beaucoup plus libéral
-
-qui est la GPR
-
-voilà
-
-mais rien n'est fixé
-
-en tout cas
-
-est-ce qu'il y a
-
-d'autres questions
-
-je ne sais pas
-
-si Anne
-
-a réussi
-
-à se reconnecter
-
-à mettre son micro
-
-merci pour cette présentation
-
-c'est très éclairant
-
-même si je m'étais déjà
-
-renseignée
-
-et on m'a dit
-
-que des gens de confiance
-
-m'ont dit
-
-qu'il fallait être sur du libre
-
-donc je le fais
-
-mais c'est vrai
-
-que ça m'a toujours
-
-posé question
-
-cette histoire
-
-entre guillemets
-
-bénévolat
-
-donc moi je trouve
-
-que c'est une bonne idée
-
-enfin je ne suis vraiment
-
-pas spécialiste
-
-de la question
-
-mais la question
-
-de service public
-
-je trouve que ça
-
-me paraît une bonne idée
-
-et j'étais vraiment
-
-intriguée par le titre
-
-parce que
-
-j'ai tellement entendu
-
-dire que le libre
-
-c'était bien
-
-que du coup
-
-je ne savais plus trop
-
-quoi penser
-
-c'est
-
-mais
-
-moi ce qui me plaît
-
-beaucoup
-
-c'est la pérennité
-
-et puis
-
-les logiciels
-
-de propriétaires
-
-où il faut changer
-
-de machine
-
-parce que
-
-l'ordinateur d'avant
-
-ne fonctionne plus
-
-ça moi je ne supportais plus
-
-donc je suis ravie
-
-d'être passée
-
-sous l'unique
-
-donc
-
-je réécouterai
-
-parce que
-
-j'ai dû m'interrompre
-
-de temps en temps
-
-pour aller me servir
-
-à manger
-
-donc il faudrait
-
-que je réécoute
-
-la conférence
-
-on mettra
-
-le replay
-
-sur le
-
-on n'a pas parlé
-
-d'une autre société
-
-GAFAM
-
-s'il en est
-
-qui fait aussi
-
-beaucoup beaucoup
-
-d'obsolescence programmée
-
-mais en tapant
-
-dans l'autre gamme
-
-c'est Apple
-
-et voilà
-
-qui utilise aussi
-
-une foultitude
-
-de logiciels
-
-d'une autre branche
-
-d'unique
-
-ce qui s'appelle
-
-Backes of Trade
-
-Solution
-
-d'SD
-
-et qui a fait
-
-un usage
-
-complètement éhonté
-
-d'un énorme iceberg
-
-vraiment très très gros
-
-et qui continue
-
-et qui va
-
-beaucoup plus loin
-
-et qui en plus
-
-a des idées
-
-parfois un petit peu
-
-plus visionnaires
-
-que les autres
-
-et voilà
-
-qui ne redistribuent
-
-pas du tout
-
-en fait
-
-dans l'écosystème
-
-libriste
-
-Après pour
-
-rebondir
-
-sur ce que tu disais
-
-le propos
-
-mon propos
-
-n'est vraiment pas dire
-
-il faut arrêter
-
-avec le logiciel libre
-
-mais le propos
-
-c'est vraiment de dire
-
-il faut arrêter
-
-de penser
-
-que genre
-
-il y a vraiment ce truc
-
-qui traîne
-
-dans les libristes
-
-de penser
-
-qu'on va sauver le monde
-
-et libérer les gens
-
-à grand coup
-
-de logiciel libre
-
-et en fait
-
-genre oui
-
-mais en fait
-
-quand tu regardes
-
-vraiment dans le détail
-
-en fait
-
-le logiciel libre
-
-c'est juste
-
-ce qui permet aussi
-
-aux gaffes femmes
-
-de fonctionner
-
-et vraiment
-
-par exemple
-
-je réitère
-
-le cas de Firefox
-
-c'est vraiment dramatique
-
-Firefox
-
-on a besoin
-
-d'un logiciel
-
-qui soit
-
-libre
-
-et tout ce qu'on veut
-
-et c'est financé
-
-à 90%
-
-par Google
-
-pour que
-
-alors
-
-c'est
-
-ils le financent
-
-parce qu'ils veulent
-
-que ce soit
-
-Google
-
-le moteur de recherche
-
-par défaut
-
-dans Firefox
-
-mais à mon avis
-
-il y a aussi
-
-un truc
-
-un peu de
-
-pour pas qu'on leur reproche
-
-d'avoir un monopole
-
-sur les navigateurs
-
-et tout
-
-en gros
-
-ils financent
-
-leur propre concurrence
-
-tu vois
-
-et du coup
-
-c'est vraiment
-
-et à côté de ça
-
-la direction
-
-stratégique de Firefox
-
-elle fait des choix
-
-un peu à côté
-
-de la plaque
-
-genre
-
-à développer
-
-moi j'ai vu là
-
-en cherchant
-
-ils ont développé
-
-Firefox
-
-pour la réalité augmentée
-
-franchement
-
-mais on s'en fout
-
-il faut pas
-
-il faut pas
-
-si on faisait un peu
-
-la wishlist
-
-de la liste de souhait
-
-de ce qu'on aimerait avoir
-
-dans Firefox
-
-pour un peu changer
-
-les règles du jeu
-
-du web
-
-dans le bon sens
-
-il y aurait mille trucs
-
-à faire
-
-pour
-
-pour
-
-pour aller dans l'autre sens
-
-mais
-
-comme ils ont un peu
-
-une mainmise
-
-de Google
-
-sur eux
-
-ils peuvent pas non plus
-
-décréter
-
-tiens on va bloquer
-
-tout le pistage
-
-automatiquement
-
-enfin plus ou moins
-
-ils le font un peu
-
-mais
-
-mais ils ont pas
-
-forcément
-
-ils sont pas
-
-ils sont un peu
-
-bridés là-dessus
-
-pour connaître
-
-mon propos
-
-c'est de dire
-
-le salib
-
-c'est vraiment pas
-
-la fin de l'histoire
-
-il faut vraiment
-
-qu'on aille au-delà
-
-et qu'on pense
-
-de manière générale
-
-une informatique
-
-libertaire
-
-et émancipatrice
-
-pour aller encore plus loin
-
-pour connaître en plus
-
-des juristes
-
-très haut placés
-
-chez Google
-
-ne pas oublier
-
-en fait que Google
-
-s'est créé
-
-aux Etats-Unis
-
-grâce à la loi
-
-antitrust
-
-de l'état fédéral américain
-
-qui a créé Google
-
-pour
-
-enfin vraiment
-
-qui a permis
-
-la création de Google
-
-pour détruire
-
-en fait
-
-la suprématie absolue
-
-et le monopolisme
-
-de Microsoft
-
-c'est vraiment ça
-
-qui s'est passé
-
-donc effectivement
-
-s'ils sont bien passés
-
-pour savoir
-
-qu'il ne va pas courir
-
-les mêmes risques
-
-alors 400 millions d'euros
-
-c'est peanuts
-
-pour vraiment
-
-en payer un du coup
-
-donc ça c'est
-
-super intéressant
-
-et vraiment je pense
-
-qu'on commence à voir
-
-de plus en plus
-
-de juristes
-
-qui se ponchent
-
-sur la problématique
-
-des communs
-
-on en connaît nous
-
-en tout cas
-
-assez directement
-
-aussi bien
-
-donc ça c'est
-
-les spécificités
-
-du droit français
-
-chez les publicistes
-
-que les privatistes
-
-c'est incroyable
-
-parce que jusque dans
-
-la thématique
-
-des logiciels libres
-
-comme ils sont privatistes
-
-ou publicistes
-
-ils ne se connaissent pas
-
-entre eux
-
-c'est assez hallucinant
-
-c'est assez marrant
-
-mais j'ai bien espoir
-
-que le logic-up
-
-fasse que ces gens-là
-
-se rencontrent
-
-et avancent
-
-ce qui est effectivement
-
-la problématique
-
-c'est qu'on est
-
-dans un univers
-
-de production
-
-de logiciels
-
-de production
-
-de plus en plus
-
-raccourcie
-
-enfin vous voyez
-
-le nombre de fois
-
-tous les jours
-
-vous faites des mises à jour
-
-de votre téléphone
-
-c'est votre téléphone
-
-qui le fait tout seul
-
-et donc c'est
-
-comment en fait
-
-on rémunère
-
-les gens
-
-qui créent
-
-des logiciels
-
-et dans quelles conditions
-
-ces logiciels
-
-sont-ils créés
-
-par rapport
-
-à leurs usages
-
-finalement
-
-et le débat
-
-Vincent
-
-je me permets
-
-d'essayer
-
-de passer la parole
 ---
 
 ## Sociologie des geeks dinolibristes radicaux
 
 \--
 
-* Homme blanc cis straight, valide, bien éduqué
+- Homme blanc cis straight, valide, bien éduqué
 
 \--
 
-* Entre-soi **techno-centré, techno-solutionniste, techno-élitiste**, perché dans la technique
-  * "tout le monde devrait savoir coder", "les interfaces graphiques c'est nul"
-  * font des outils qui marchent pour eux
-  * "si t'aimes pas t'as qu'à contribuer"
-  * méprise le grand public qui (selon eux) choisi délibérément d'utiliser les GAFAMs
-  * "utiliser Microsoft c'est soutenir le fascisme"
+- Entre-soi **techno-centré, techno-solutionniste, techno-élitiste**, perché dans la technique
+  - "tout le monde devrait savoir coder", "les interfaces graphiques c'est nul"
+  - font des outils qui marchent pour eux
+  - "si t'aimes pas t'as qu'à contribuer"
+  - méprise le grand public qui (selon eux) choisi délibérément d'utiliser les GAFAMs
+  - "utiliser Microsoft c'est soutenir le fascisme"
 
 \--
 
-* **Paumé politiquement**
-  * ["la technologie est neutre" versus "code is law"](https://ieeexplore.ieee.org/document/5010049)
-  * "liberté absolue" versus paradoxe de la tolérance
-  * pas trop de connexions avec les autres luttes
-  * à côté de la plaque sur le féminisme et l'inclusivité
+- **Paumé politiquement**
+  - ["la technologie est neutre" versus "code is law"](https://ieeexplore.ieee.org/document/5010049)
+  - "liberté absolue" versus paradoxe de la tolérance
+  - pas trop de connexions avec les autres luttes
+  - à côté de la plaque sur le féminisme et l'inclusivité
 
 \--
 
-* **Vision dogmatique et sacralisée du logiciel libre**
-  * confusion entre finalité et moyen
-  * 100% de libre partout, quitte à être excluant
-  * vision binaire "soit c'est libre soit c'est proprio"
-
+- **Vision dogmatique et sacralisée du logiciel libre**
+  - confusion entre finalité et moyen
+  - 100% de libre partout, quitte à être excluant
+  - vision binaire "soit c'est libre soit c'est proprio"
 
 ---
 
 ## Sociologie des geeks dinolibristes radicaux
 
-* Homme blanc cis straight, valide, bien éduqué
-* Entre-soi **techno-centré, techno-solutionniste, techno-élitiste**, perché dans la technique
-* **Paumé politiquement**
-* **Vision dogmatique et sacralisée du logiciel libre**
-* Fait l'autruche sur l'équation libre, gratuit, et nécessité de manger
-* Fait l'autruche sur [la réalité du logiciel libre à l'ère du cloud et du mobile](https://mjtsai.com/blog/2019/10/21/fsf-missed-the-cloud-and-mobile/)
+- Homme blanc cis straight, valide, bien éduqué
+- Entre-soi **techno-centré, techno-solutionniste, techno-élitiste**, perché dans la technique
+- **Paumé politiquement**
+- **Vision dogmatique et sacralisée du logiciel libre**
+- Fait l'autruche sur l'équation libre, gratuit, et nécessité de manger
+- Fait l'autruche sur [la réalité du logiciel libre à l'ère du cloud et du mobile](https://mjtsai.com/blog/2019/10/21/fsf-missed-the-cloud-and-mobile/)
 
-
-## Exemple :  le librisme radical dans le collectif CHATONS
-
-
+## Exemple : le librisme radical dans le collectif CHATONS
 
 ---
-
 
 ## Les CHATONS : les AMAP du numérique
-
 
 ### 2014 -> 2017 : Campagne "dégooglisons internet" de Framasoft
 
- 
+---
 
+## Les CHATONS : les AMAP du numérique
 
 ---
 
 ## Les CHATONS : les AMAP du numérique
 
-
-
----
-
-## Les CHATONS : les AMAP du numérique
-
-* **Charte qui demande 100% de libre** : intenable, ambigue, pleins de zones grises
-  * proxy pour services centralisés/privateurs
-  * ponts Matrix<->Whatsapp
-  * logo fait avec Adobe Illustrator
-  * ...
+- **Charte qui demande 100% de libre** : intenable, ambigue, pleins de zones grises
+  - proxy pour services centralisés/privateurs
+  - ponts Matrix<->Whatsapp
+  - logo fait avec Adobe Illustrator
+  - ...
 
 \--
 
-* **Charte excluante** -> [proposition d'adapter la charte](https://forum.chatons.org/t/faut-il-des-exceptions-pour-la-clause-100-libre/5015) pour affirmer plutôt un "idéal qu'il faut chercher à atteindre" et prendre acte des zones grises
+- **Charte excluante** -> [proposition d'adapter la charte](https://forum.chatons.org/t/faut-il-des-exceptions-pour-la-clause-100-libre/5015) pour affirmer plutôt un "idéal qu'il faut chercher à atteindre" et prendre acte des zones grises
 
 \--
 
-* Schisme
-  * **Librisme radical**: 100% de libre quoi qu'il en coûte, quitte à exclure des collectifs, des personnes, des usages
-  * **Informatique émancipatrice**: Logiciel libre ni suffisant, ni nécessaire(?), à équilibrer avec le pragmastisme et la finalité
+- Schisme
+  - **Librisme radical**: 100% de libre quoi qu'il en coûte, quitte à exclure des collectifs, des personnes, des usages
+  - **Informatique émancipatrice**: Logiciel libre ni suffisant, ni nécessaire(?), à équilibrer avec le pragmastisme et la finalité
 
 \--
-
 
 ### Les gens viennent-ils dans les CHATONS pour avoir 100% de libre, ou bien une informatique décentralisée, bienveillante, loyale, solidaire, conviviale, émancipatrice, ... ?
 
-
-
 ---
 
-
 ## Autre exemple : la licence « Coopyleft » de Coopcycle
-
-
 
 ---
 
 ## Autre exemple: la licence Coopyleft
 
-* **Coopcycle**: Coopérative de livreur·euse·s
-* Développe un logiciel (plateforme+app) "[CoopCycle](https://coopcycle.org/fr/logiciel/)"
-* ... mais et si le grand capital néolibéral utilise cet outil sans rien en retour !?
-* Choix de limiter l'usage commercial aux entreprises coopératives avec une nouvelle license [Coopyleft](https://blogs.mediapart.fr/coopcycle/blog/170418/comment-proteger-le-logiciel-ouvert-coopcycle-de-la-predation-capitaliste) (pas libre !)
-
-
+- **Coopcycle**: Coopérative de livreur·euse·s
+- Développe un logiciel (plateforme+app) "[CoopCycle](https://coopcycle.org/fr/logiciel/)"
+- ... mais et si le grand capital néolibéral utilise cet outil sans rien en retour !?
+- Choix de limiter l'usage commercial aux entreprises coopératives avec une nouvelle license [Coopyleft](https://blogs.mediapart.fr/coopcycle/blog/170418/comment-proteger-le-logiciel-ouvert-coopcycle-de-la-predation-capitaliste) (pas libre !)
 
 ---
 
@@ -2498,25 +1280,22 @@ de passer la parole
 
 [Post open-source](https://www.boringcactus.com/2020/08/13/post-open-source.html), [Copyfarleft](https://wiki.p2pfoundation.net/Copyfarleft), licenses à réciprocité
 
-* [Creative Common "sans utilisation commerciale"](https://creativecommons.org/2016/09/09/why-were-fighting-to-protect-noncommercial-uses/)
-* [Licence Coopyleft](https://wiki.coopcycle.org/en:license) -> droit d'utilisation réservé aux coopératives
-* [Licence Anti-Capitaliste](https://anticapitalist.software/) -> droit d'utilisation, sauf pour le capital
-* [Licence Hyppocratic](https://firstdonoharm.dev/) -> interdire les trucs déguelasses : atteintes aux droits de l'homme, écocides, exploitation des travailleur·euse·s, ...
-* [Licence Non-violente (NPL)](https://thufie.lain.haus/NPL.html) et CNPL
-* [Licenses à réciprocité](https://scinfolex.com/2014/09/22/comprendre-le-principe-des-licences-a-reciprocite-en-5-minutes/)
-  * [Peer Production License](https://scinfolex.com/2012/11/10/peer-production-licence-une-licence-concue-pour-les-biens-communs/) -> commercialisation possible seulement en échange d'une contribution financière
-  * CopyFair
-
+- [Creative Common "sans utilisation commerciale"](https://creativecommons.org/2016/09/09/why-were-fighting-to-protect-noncommercial-uses/)
+- [Licence Coopyleft](https://wiki.coopcycle.org/en:license) -> droit d'utilisation réservé aux coopératives
+- [Licence Anti-Capitaliste](https://anticapitalist.software/) -> droit d'utilisation, sauf pour le capital
+- [Licence Hyppocratic](https://firstdonoharm.dev/) -> interdire les trucs déguelasses : atteintes aux droits de l'homme, écocides, exploitation des travailleur·euse·s, ...
+- [Licence Non-violente (NPL)](https://thufie.lain.haus/NPL.html) et CNPL
+- [Licenses à réciprocité](https://scinfolex.com/2014/09/22/comprendre-le-principe-des-licences-a-reciprocite-en-5-minutes/)
+  - [Peer Production License](https://scinfolex.com/2012/11/10/peer-production-licence-une-licence-concue-pour-les-biens-communs/) -> commercialisation possible seulement en échange d'une contribution financière
+  - CopyFair
 
 ### NB : rien de tout ça n'est "libre" (au sens classique)
 
 ### => libristes pas content
 
-
 ---
 
-# 3. Qu'est-ce qu'on défend *vraiment* ?
-
+# 3. Qu'est-ce qu'on défend _vraiment_ ?
 
 ---
 
@@ -2532,75 +1311,69 @@ de passer la parole
 
 ### Le logiciel libre ... une modalité de la lutte cyber-libertaire ?
 
-* Techno-critique, valeurs libertaires
-* Combattre les rapports de domination véhiculés par la technologie
-  * Le logiciel libre est une technocratie
-* Télé-communisme, cyber-anarchisme ?
-
-
+- Techno-critique, valeurs libertaires
+- Combattre les rapports de domination véhiculés par la technologie
+  - Le logiciel libre est une technocratie
+- Télé-communisme, cyber-anarchisme ?
 
 ---
 
 # 4. Conclusions
 
-
 ---
 
-* **Le logiciel libre = lutte obsolète**, phagocitée par les GAFAM/NATU/BATX -> c'est le status quo
-  * ni une fin en soi, ni suffisant, ni nécessaire -> faire le deuil
+- **Le logiciel libre = lutte obsolète**, phagocitée par les GAFAM/NATU/BATX -> c'est le status quo
+  - ni une fin en soi, ni suffisant, ni nécessaire -> faire le deuil
 
 \--
 
-* **Reconnaître le problème est systémique** et dépasse grandement le cadre du juridico-technique
-  * on se fait bouffer par l'ED, le néolibéralisme, la technopolice, la crise climatique
-  * il est grand temps que les "libristes" convergent avec les autres luttes
+- **Reconnaître le problème est systémique** et dépasse grandement le cadre du juridico-technique
+  - on se fait bouffer par l'ED, le néolibéralisme, la technopolice, la crise climatique
+  - il est grand temps que les "libristes" convergent avec les autres luttes
 
 \--
 
-* **Nécessité d'expliciter les "valeurs", de définir un nouveau "référentiel"**
-  * quels principes pour un numérique convivial, inclusif, loyal, en commun, sobre, féministe, libertaire ?
-  * commment faire autre chose que du logiciel libéral ? organiser le travail et sa rémunération, arrêter de s'auto-exploiter tout en nourissant le capitalisme ? Comment imposer une réciprocité ?
+- **Nécessité d'expliciter les "valeurs", de définir un nouveau "référentiel"**
+  - quels principes pour un numérique convivial, inclusif, loyal, en commun, sobre, féministe, libertaire ?
+  - commment faire autre chose que du logiciel libéral ? organiser le travail et sa rémunération, arrêter de s'auto-exploiter tout en nourissant le capitalisme ? Comment imposer une réciprocité ?
 
 \--
 
-* \*\*Refusons la technocratie, le techno-élitisme et la pureté militante *dès maintenant* \*\*
-  * vous devriez contrôler les outils et les développeur·euse·s, pas l'inverse (anecdote Valérie)
-  * vous n'êtes pas "nul.le en informatique", c'est la *machine* qui n'est pas ergonomique
-  * on peut utiliser Google mais se battre pour un numérique libertaire, sans s'auto-flagéller... *précisément* parce que s'extraire de l'hégémonie est *réalistiquement impossible*
-  * demandez des alternatives qui *fonctionnent*, même pour les non-geeks
+- \*\*Refusons la technocratie, le techno-élitisme et la pureté militante _dès maintenant_ \*\*
+  - vous devriez contrôler les outils et les développeur·euse·s, pas l'inverse (anecdote Valérie)
+  - vous n'êtes pas "nul.le en informatique", c'est la _machine_ qui n'est pas ergonomique
+  - on peut utiliser Google mais se battre pour un numérique libertaire, sans s'auto-flagéller... _précisément_ parce que s'extraire de l'hégémonie est _réalistiquement impossible_
+  - demandez des alternatives qui _fonctionnent_, même pour les non-geeks
 
 \--
 
-* **À quand des services publics des communs numériques en opposition à la startup-nation ?**
-
+- **À quand des services publics des communs numériques en opposition à la startup-nation ?**
 
 ---
 
 ## Références
 
-* [Conférence gesticulée : Informatique ou libertés ?](https://informatique-ou-libertes.fr/)
-* [Les Communs numériques sont-il condamnés à devenir des « Communs du capital » ?](https://scinfolex.com/2018/06/24/les-communs-numeriques-sont-il-condamnes-a-devenir-des-communs-du-capital/)
-* [Peut-on faire du libre sans vision politique ?](https://www.canalc2.tv/video/15197)
-* [Low tech : face au tout-numérique, se réapproprier les technologies](https://www.ritimo.org/Low-tech-face-au-tout-numerique-se-reapproprier-les-technologies-8264)
-* [Pas de sexisme chez les Libristes ?](https://framablog.org/2013/05/24/pas-de-sexisme-chez-les-libristes/)
-* [Logiciel libre et anarchisme](https://framablog.org/2023/10/09/logiciel-libre-et-anarchisme/)
-* [The Telekommunist Manifesto](https://media.telekommunisten.net/manifesto.pdf)
-* [Le logiciel libre : simple, basique](https://bzg.fr/le-logiciel-libre-simple-basique/)
-* [Forum CHATONS - Faut-il des exceptions à la clause 100% libre ?](https://forum.chatons.org/t/faut-il-des-exceptions-pour-la-clause-100-libre/5015) et aussi [celui-ci](https://forum.chatons.org/t/que-vous-soyez-dans-le-brouillard-ou-profondement-contre-le-texte-au-vote/5162) et aussi [ce pad](https://pad.sans-nuage.fr/p/whishlist-exceptions)
-* [Compte-rendu du Forum ouvert « Faut-il en finir avec le Libre ? »](https://xn--drivation-b4a.fr/compte-rendu-du-forum-ouvert-faut-il-en-finir-avec-le-libre/)
-* [Technoféminisme - Comment le numérique aggrave les inégalités](https://www.grasset.fr/livre/technofeminisme-9782246828822/)
-* [Dépasser le fonctionnement en silo, la "tragédie du LSD, Libre, Solidaire et Durable"](http://www.cooperations.infini.fr/spip.php?article11428)
-* [Outil convivial](https://fr.wikipedia.org/wiki/Outil_convivial)
-* [Manifest Cyborg](https://fr.wikipedia.org/wiki/Manifeste_cyborg)
-* [Post Open-Source](https://www.boringcactus.com/2020/08/13/post-open-source.html)
-* [Licence anti-capitaliste](https://anticapitalist.software/acsl_french)
-* [Technopolice](https://technopolice.fr/)
+- [Conférence gesticulée : Informatique ou libertés ?](https://informatique-ou-libertes.fr/)
+- [Les Communs numériques sont-il condamnés à devenir des « Communs du capital » ?](https://scinfolex.com/2018/06/24/les-communs-numeriques-sont-il-condamnes-a-devenir-des-communs-du-capital/)
+- [Peut-on faire du libre sans vision politique ?](https://www.canalc2.tv/video/15197)
+- [Low tech : face au tout-numérique, se réapproprier les technologies](https://www.ritimo.org/Low-tech-face-au-tout-numerique-se-reapproprier-les-technologies-8264)
+- [Pas de sexisme chez les Libristes ?](https://framablog.org/2013/05/24/pas-de-sexisme-chez-les-libristes/)
+- [Logiciel libre et anarchisme](https://framablog.org/2023/10/09/logiciel-libre-et-anarchisme/)
+- [The Telekommunist Manifesto](https://media.telekommunisten.net/manifesto.pdf)
+- [Le logiciel libre : simple, basique](https://bzg.fr/le-logiciel-libre-simple-basique/)
+- [Forum CHATONS - Faut-il des exceptions à la clause 100% libre ?](https://forum.chatons.org/t/faut-il-des-exceptions-pour-la-clause-100-libre/5015) et aussi [celui-ci](https://forum.chatons.org/t/que-vous-soyez-dans-le-brouillard-ou-profondement-contre-le-texte-au-vote/5162) et aussi [ce pad](https://pad.sans-nuage.fr/p/whishlist-exceptions)
+- [Compte-rendu du Forum ouvert « Faut-il en finir avec le Libre ? »](https://xn--drivation-b4a.fr/compte-rendu-du-forum-ouvert-faut-il-en-finir-avec-le-libre/)
+- [Technoféminisme - Comment le numérique aggrave les inégalités](https://www.grasset.fr/livre/technofeminisme-9782246828822/)
+- [Dépasser le fonctionnement en silo, la "tragédie du LSD, Libre, Solidaire et Durable"](http://www.cooperations.infini.fr/spip.php?article11428)
+- [Outil convivial](https://fr.wikipedia.org/wiki/Outil_convivial)
+- [Manifest Cyborg](https://fr.wikipedia.org/wiki/Manifeste_cyborg)
+- [Post Open-Source](https://www.boringcactus.com/2020/08/13/post-open-source.html)
+- [Licence anti-capitaliste](https://anticapitalist.software/acsl_french)
+- [Technopolice](https://technopolice.fr/)
 
   \
 
-
 \
 —-
-
 
 <https://blog.cyphergoat.net/blog/%C3%A0-quoi-servent-les-libristes/>
